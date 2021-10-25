@@ -1,0 +1,538 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2018,2018,2018,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,280440,Oxygen,12,Volume in cubic meters,1501,,,,351,,235,,,2
+H5,2018,2018,2018,6,1,1,Import,174,Comoros,COM,450,Madagascar,MDG,,,,,,,,280440,Oxygen,12,Volume in cubic meters,1001,,,,225,,157,,,2
+H5,2018,2018,2018,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,280440,Oxygen,12,Volume in cubic meters,499,,,,126,,78,,,2
+H5,2018,2018,2018,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,308,,,,308,,120956,,,0
+H5,2018,2018,2018,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,5,,,,5,,4533,,,0
+H5,2018,2018,2018,6,1,1,Import,174,Comoros,COM,480,Mauritius,MUS,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,132,,,,132,,69314,,,0
+H5,2018,2018,2018,6,1,1,Import,174,Comoros,COM,699,India,IND,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,171,,,,171,,47108,,,0
+H5,2018,2018,2018,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,2078,,,,2078,,5849,,,0
+H5,2018,2018,2018,6,1,1,Import,174,Comoros,COM,56,Belgium,BEL,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,1500,,,,1500,,3119,,,0
+H5,2018,2018,2018,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,250,,,,250,,132,,,0
+H5,2018,2018,2018,6,1,1,Import,174,Comoros,COM,528,Netherlands,NLD,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,128,,,,128,,2477,,,0
+H5,2018,2018,2018,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,200,,,,200,,119,,,0
+H5,2018,2018,2018,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,4464,,,,4464,,39553,,,0
+H5,2018,2018,2018,6,1,1,Import,174,Comoros,COM,56,Belgium,BEL,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,4258,,,,4258,,25528,,,0
+H5,2018,2018,2018,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,115,,,,115,,10423,,,0
+H5,2018,2018,2018,6,1,1,Import,174,Comoros,COM,528,Netherlands,NLD,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,74,,,,74,,548,,,0
+H5,2018,2018,2018,6,1,1,Import,174,Comoros,COM,842,USA,USA,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,17,,,,17,,3053,,,0
+H5,2018,2018,2018,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,1389,,,,1389,,3815,,,0
+H5,2018,2018,2018,6,1,1,Import,174,Comoros,COM,156,China,CHN,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,1000,,,,1000,,830,,,0
+H5,2018,2018,2018,6,1,1,Import,174,Comoros,COM,508,Mozambique,MOZ,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,389,,,,389,,2985,,,0
+H5,2018,2018,2018,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,481850,"Paper articles; apparel and clothing accessories of paper, cellulose wadding or fibres",8,Weight in kilograms,150,,,,150,,263,,,0
+H5,2018,2018,2018,6,1,1,Import,174,Comoros,COM,156,China,CHN,,,,,,,,481850,"Paper articles; apparel and clothing accessories of paper, cellulose wadding or fibres",8,Weight in kilograms,150,,,,150,,263,,,0
+H5,2018,2018,2018,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,2750,,,,2750,,2120,,,0
+H5,2018,2018,2018,6,1,1,Import,174,Comoros,COM,156,China,CHN,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,100,,,,100,,71,,,0
+H5,2018,2018,2018,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,50,,,,50,,89,,,0
+H5,2018,2018,2018,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,2600,,,,2600,,1959,,,0
+H5,2018,2018,2018,6,1,2,Export,174,Comoros,COM,0,World,WLD,,,,,,,,841920,"Sterilizers; for medical, surgical or laboratory use, not used for domestic purposes",1,No Quantity,0,,,,5,,3,,,2
+H5,2018,2018,2018,6,1,2,Export,174,Comoros,COM,450,Madagascar,MDG,,,,,,,,841920,"Sterilizers; for medical, surgical or laboratory use, not used for domestic purposes",1,No Quantity,0,,,,5,,3,,,2
+H5,2018,2018,2018,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,146,,1108,,,2
+H5,2018,2018,2018,6,1,1,Import,174,Comoros,COM,156,China,CHN,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,15,,79,,,2
+H5,2018,2018,2018,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,100,,635,,,2
+H5,2018,2018,2018,6,1,1,Import,174,Comoros,COM,410,Rep. of Korea,KOR,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,20,,209,,,2
+H5,2018,2018,2018,6,1,1,Import,174,Comoros,COM,450,Madagascar,MDG,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,11,,183,,,2
+H5,2018,2018,2018,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,140,,29772,,,2
+H5,2018,2018,2018,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,10,,28606,,,2
+H5,2018,2018,2018,6,1,1,Import,174,Comoros,COM,528,Netherlands,NLD,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,50,,1117,,,2
+H5,2018,2018,2018,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,80,,47,,,2
+H5,2019,2019,2019,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,785,,,,785,,262784,,,0
+H5,2019,2019,2019,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,165,,,,165,,4448,,,0
+H5,2019,2019,2019,6,1,1,Import,174,Comoros,COM,480,Mauritius,MUS,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,143,,,,143,,109809,,,0
+H5,2019,2019,2019,6,1,1,Import,174,Comoros,COM,699,India,IND,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,360,,,,360,,114963,,,0
+H5,2019,2019,2019,6,1,1,Import,174,Comoros,COM,899,"Areas, nes",,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,117,,,,117,,33562,,,0
+H5,2019,2019,2019,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,1647,,,,1647,,7019,,,0
+H5,2019,2019,2019,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,347,,,,347,,6116,,,0
+H5,2019,2019,2019,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,1300,,,,1300,,902,,,0
+H5,2019,2019,2019,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,382100,"Prepared culture media for the development or maintenance of micro-organisms (including viruses and the like) or of plant, human or animal cells",8,Weight in kilograms,2300,,,,2300,,4877,,,0
+H5,2019,2019,2019,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,382100,"Prepared culture media for the development or maintenance of micro-organisms (including viruses and the like) or of plant, human or animal cells",8,Weight in kilograms,2300,,,,2300,,4877,,,0
+H5,2019,2019,2019,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,826,,,,826,,10163,,,0
+H5,2019,2019,2019,6,1,1,Import,174,Comoros,COM,56,Belgium,BEL,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,468,,,,468,,1716,,,0
+H5,2019,2019,2019,6,1,1,Import,174,Comoros,COM,246,Finland,FIN,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,15,,,,15,,2728,,,0
+H5,2019,2019,2019,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,103,,,,103,,4136,,,0
+H5,2019,2019,2019,6,1,1,Import,174,Comoros,COM,899,"Areas, nes",,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,240,,,,240,,1581,,,0
+H5,2019,2019,2019,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,481850,"Paper articles; apparel and clothing accessories of paper, cellulose wadding or fibres",8,Weight in kilograms,90,,,,90,,303,,,0
+H5,2019,2019,2019,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,481850,"Paper articles; apparel and clothing accessories of paper, cellulose wadding or fibres",8,Weight in kilograms,90,,,,90,,303,,,0
+H5,2019,2019,2019,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,13478,,,,13478,,26888,,,0
+H5,2019,2019,2019,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,12934,,,,12934,,26243,,,0
+H5,2019,2019,2019,6,1,1,Import,174,Comoros,COM,480,Mauritius,MUS,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,95,,,,95,,266,,,0
+H5,2019,2019,2019,6,1,1,Import,174,Comoros,COM,710,South Africa,ZAF,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,39,,,,39,,74,,,0
+H5,2019,2019,2019,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,350,,,,350,,204,,,0
+H5,2019,2019,2019,6,1,1,Import,174,Comoros,COM,834,United Rep. of Tanzania,TZA,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,60,,,,60,,99,,,0
+H5,2019,2019,2019,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,636,,1949,,,2
+H5,2019,2019,2019,6,1,1,Import,174,Comoros,COM,156,China,CHN,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,300,,171,,,2
+H5,2019,2019,2019,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,111,,685,,,2
+H5,2019,2019,2019,6,1,1,Import,174,Comoros,COM,266,Gabon,GAB,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,15,,47,,,2
+H5,2019,2019,2019,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,200,,1023,,,2
+H5,2019,2019,2019,6,1,1,Import,174,Comoros,COM,834,United Rep. of Tanzania,TZA,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,10,,20,,,2
+H5,2019,2019,2019,4,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,248,,,,248,,406,,,0
+H5,2019,2019,2019,4,0,1,Import,174,Comoros,COM,156,China,CHN,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,10,,,,10,,12,,,0
+H5,2019,2019,2019,4,0,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,10,,,,10,,98,,,0
+H5,2019,2019,2019,4,0,1,Import,174,Comoros,COM,450,Madagascar,MDG,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,23,,,,23,,113,,,0
+H5,2019,2019,2019,4,0,1,Import,174,Comoros,COM,480,Mauritius,MUS,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,5,,,,5,,90,,,0
+H5,2019,2019,2019,4,0,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,200,,,,200,,90,,,0
+H5,2019,2019,2019,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,248,,,,248,,406,,,0
+H5,2019,2019,2019,6,1,1,Import,174,Comoros,COM,156,China,CHN,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,10,,,,10,,12,,,0
+H5,2019,2019,2019,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,10,,,,10,,98,,,0
+H5,2019,2019,2019,6,1,1,Import,174,Comoros,COM,450,Madagascar,MDG,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,23,,,,23,,113,,,0
+H5,2019,2019,2019,6,1,1,Import,174,Comoros,COM,480,Mauritius,MUS,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,5,,,,5,,90,,,0
+H5,2019,2019,2019,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,200,,,,200,,90,,,0
+H5,2019,2019,2019,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,140,,860,,,2
+H5,2019,2019,2019,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,130,,618,,,2
+H5,2019,2019,2019,6,1,1,Import,174,Comoros,COM,344,"China, Hong Kong SAR",HKG,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,10,,241,,,2
+H4,2014,2014,2014,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,280440,Oxygen,1,No Quantity,0,,,,1202,,1187,,,2
+H4,2014,2014,2014,6,1,1,Import,174,Comoros,COM,450,Madagascar,MDG,,,,,,,,280440,Oxygen,1,No Quantity,0,,,,1152,,1103,,,2
+H4,2014,2014,2014,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,280440,Oxygen,1,No Quantity,0,,,,50,,84,,,2
+H4,2014,2014,2014,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,1680,,,,1680,,2958,,,0
+H4,2014,2014,2014,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,1080,,,,1080,,2572,,,0
+H4,2014,2014,2014,6,1,1,Import,174,Comoros,COM,834,United Rep. of Tanzania,TZA,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,600,,,,600,,385,,,0
+H4,2014,2014,2014,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,707,,,,707,,6242,,,0
+H4,2014,2014,2014,6,1,1,Import,174,Comoros,COM,528,Netherlands,NLD,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,7,,,,7,,5839,,,0
+H4,2014,2014,2014,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,700,,,,700,,403,,,0
+H4,2014,2014,2014,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,250,,369,,,2
+H4,2014,2014,2014,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,50,,79,,,2
+H4,2014,2014,2014,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,200,,290,,,2
+H4,2014,2014,2014,4,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,850,,,,850,,1262,,,0
+H4,2014,2014,2014,4,0,1,Import,174,Comoros,COM,156,China,CHN,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,200,,,,200,,472,,,0
+H4,2014,2014,2014,4,0,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,450,,,,450,,628,,,0
+H4,2014,2014,2014,4,0,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,200,,,,200,,161,,,0
+H4,2014,2014,2014,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,850,,,,850,,1262,,,0
+H4,2014,2014,2014,6,1,1,Import,174,Comoros,COM,156,China,CHN,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,200,,,,200,,472,,,0
+H4,2014,2014,2014,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,450,,,,450,,628,,,0
+H4,2014,2014,2014,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,200,,,,200,,161,,,0
+H4,2014,2014,2014,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,812,,37561,,,2
+H4,2014,2014,2014,6,1,1,Import,174,Comoros,COM,156,China,CHN,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,735,,14571,,,2
+H4,2014,2014,2014,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,57,,22858,,,2
+H4,2014,2014,2014,6,1,1,Import,174,Comoros,COM,634,Qatar,QAT,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,20,,130,,,2
+H4,2015,2015,2015,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,280440,Oxygen,12,Volume in cubic meters,6574,,,,365,,1228,,,2
+H4,2015,2015,2015,6,1,1,Import,174,Comoros,COM,450,Madagascar,MDG,,,,,,,,280440,Oxygen,12,Volume in cubic meters,6282,,,,320,,1174,,,2
+H4,2015,2015,2015,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,280440,Oxygen,12,Volume in cubic meters,291,,,,45,,54,,,2
+H4,2015,2015,2015,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,180,,,,180,,5011,,,0
+H4,2015,2015,2015,6,1,1,Import,174,Comoros,COM,56,Belgium,BEL,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,117,,,,117,,1111,,,0
+H4,2015,2015,2015,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,63,,,,63,,3900,,,0
+H4,2015,2015,2015,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,1000,,,,1000,,84,,,0
+H4,2015,2015,2015,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,1000,,,,1000,,84,,,0
+H4,2015,2015,2015,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,100,,,,100,,22744,,,0
+H4,2015,2015,2015,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,100,,,,100,,22744,,,0
+H4,2015,2015,2015,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,300,,,,300,,181,,,0
+H4,2015,2015,2015,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,300,,,,300,,181,,,0
+H4,2015,2015,2015,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,720,,802,,,2
+H4,2015,2015,2015,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,10,,11,,,2
+H4,2015,2015,2015,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,710,,791,,,2
+H4,2015,2015,2015,4,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,100,,,,100,,269,,,0
+H4,2015,2015,2015,4,0,1,Import,174,Comoros,COM,156,China,CHN,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,100,,,,100,,269,,,0
+H4,2015,2015,2015,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,100,,,,100,,269,,,0
+H4,2015,2015,2015,6,1,1,Import,174,Comoros,COM,156,China,CHN,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,100,,,,100,,269,,,0
+H4,2016,2016,2016,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,639,,,,639,,29804,,,0
+H4,2016,2016,2016,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,639,,,,639,,29804,,,0
+H4,2016,2016,2016,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,130,,,,130,,473,,,0
+H4,2016,2016,2016,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,120,,,,120,,232,,,0
+H4,2016,2016,2016,6,1,1,Import,174,Comoros,COM,834,United Rep. of Tanzania,TZA,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,10,,,,10,,240,,,0
+H4,2016,2016,2016,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,40,,,,40,,35,,,0
+H4,2016,2016,2016,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,40,,,,40,,35,,,0
+H4,2016,2016,2016,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,481850,"Paper articles; apparel and clothing accessories of paper, cellulose wadding or fibres",8,Weight in kilograms,25,,,,25,,33,,,0
+H4,2016,2016,2016,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,481850,"Paper articles; apparel and clothing accessories of paper, cellulose wadding or fibres",8,Weight in kilograms,25,,,,25,,33,,,0
+H4,2016,2016,2016,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,11340,,,,11340,,7102,,,0
+H4,2016,2016,2016,6,1,1,Import,174,Comoros,COM,96,Brunei Darussalam,BRN,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,50,,,,50,,70,,,0
+H4,2016,2016,2016,6,1,1,Import,174,Comoros,COM,156,China,CHN,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,3940,,,,3940,,4166,,,0
+H4,2016,2016,2016,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,2350,,,,2350,,1483,,,0
+H4,2016,2016,2016,6,1,1,Import,174,Comoros,COM,834,United Rep. of Tanzania,TZA,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,5000,,,,5000,,1382,,,0
+H4,2016,2016,2016,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,500,,94,,,2
+H4,2016,2016,2016,6,1,1,Import,174,Comoros,COM,450,Madagascar,MDG,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,500,,94,,,2
+H4,2016,2016,2016,4,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,218,,,,218,,249,,,0
+H4,2016,2016,2016,4,0,1,Import,174,Comoros,COM,156,China,CHN,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,118,,,,118,,70,,,0
+H4,2016,2016,2016,4,0,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,100,,,,100,,179,,,0
+H4,2016,2016,2016,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,218,,,,218,,249,,,0
+H4,2016,2016,2016,6,1,1,Import,174,Comoros,COM,156,China,CHN,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,118,,,,118,,70,,,0
+H4,2016,2016,2016,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,100,,,,100,,179,,,0
+H4,2017,2017,2017,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,15,,,,15,,5659,,,0
+H4,2017,2017,2017,6,1,1,Import,174,Comoros,COM,480,Mauritius,MUS,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,15,,,,15,,5659,,,0
+H4,2017,2017,2017,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,394,,,,394,,9260,,,0
+H4,2017,2017,2017,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,394,,,,394,,9260,,,0
+H4,2017,2017,2017,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,2269,,,,2269,,17143,,,0
+H4,2017,2017,2017,6,1,1,Import,174,Comoros,COM,56,Belgium,BEL,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,1220,,,,1220,,1901,,,0
+H4,2017,2017,2017,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,356,,,,356,,7759,,,0
+H4,2017,2017,2017,6,1,1,Import,174,Comoros,COM,450,Madagascar,MDG,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,105,,,,105,,2384,,,0
+H4,2017,2017,2017,6,1,1,Import,174,Comoros,COM,480,Mauritius,MUS,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,13,,,,13,,73,,,0
+H4,2017,2017,2017,6,1,1,Import,174,Comoros,COM,528,Netherlands,NLD,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,375,,,,375,,1966,,,0
+H4,2017,2017,2017,6,1,1,Import,174,Comoros,COM,842,USA,USA,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,200,,,,200,,3057,,,0
+H4,2017,2017,2017,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,50,,,,50,,144,,,0
+H4,2017,2017,2017,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,50,,,,50,,144,,,0
+H4,2017,2017,2017,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,481850,"Paper articles; apparel and clothing accessories of paper, cellulose wadding or fibres",8,Weight in kilograms,100,,,,100,,57,,,0
+H4,2017,2017,2017,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,481850,"Paper articles; apparel and clothing accessories of paper, cellulose wadding or fibres",8,Weight in kilograms,100,,,,100,,57,,,0
+H4,2017,2017,2017,4,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,5603,"Nonwovens; whether or not impregnated, coated, covered or laminated",8,Weight in kilograms,500,,,,500,,2772,,,0
+H4,2017,2017,2017,4,0,1,Import,174,Comoros,COM,56,Belgium,BEL,,,,,,,,5603,"Nonwovens; whether or not impregnated, coated, covered or laminated",8,Weight in kilograms,500,,,,500,,2772,,,0
+H4,2017,2017,2017,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,4290,,,,4290,,7689,,,0
+H4,2017,2017,2017,6,1,1,Import,174,Comoros,COM,56,Belgium,BEL,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,200,,,,200,,1210,,,0
+H4,2017,2017,2017,6,1,1,Import,174,Comoros,COM,156,China,CHN,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,50,,,,50,,34,,,0
+H4,2017,2017,2017,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,4040,,,,4040,,6445,,,0
+H4,2017,2017,2017,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,334,,518,,,2
+H4,2017,2017,2017,6,1,1,Import,174,Comoros,COM,156,China,CHN,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,200,,345,,,2
+H4,2017,2017,2017,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,34,,24,,,2
+H4,2017,2017,2017,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,100,,149,,,2
+H4,2017,2017,2017,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,901920,"Therapeutic respiration apparatus; ozone, oxygen, aerosol therapy apparatus; artificial respiration or other therapeutic respiration apparatus",8,Weight in kilograms,107,,,,107,,528,,,0
+H4,2017,2017,2017,6,1,1,Import,174,Comoros,COM,156,China,CHN,,,,,,,,901920,"Therapeutic respiration apparatus; ozone, oxygen, aerosol therapy apparatus; artificial respiration or other therapeutic respiration apparatus",8,Weight in kilograms,7,,,,7,,413,,,0
+H4,2017,2017,2017,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,901920,"Therapeutic respiration apparatus; ozone, oxygen, aerosol therapy apparatus; artificial respiration or other therapeutic respiration apparatus",8,Weight in kilograms,100,,,,100,,115,,,0
+H4,2017,2017,2017,4,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,200,,,,200,,100,,,0
+H4,2017,2017,2017,4,0,1,Import,174,Comoros,COM,156,China,CHN,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,50,,,,50,,57,,,0
+H4,2017,2017,2017,4,0,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,50,,,,50,,14,,,0
+H4,2017,2017,2017,4,0,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,100,,,,100,,28,,,0
+H4,2017,2017,2017,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,200,,,,200,,100,,,0
+H4,2017,2017,2017,6,1,1,Import,174,Comoros,COM,156,China,CHN,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,50,,,,50,,57,,,0
+H4,2017,2017,2017,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,50,,,,50,,14,,,0
+H4,2017,2017,2017,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,100,,,,100,,28,,,0
+H2,2008,2008,2008,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,14,,,,14,,1461,,,0
+H2,2008,2008,2008,6,1,1,Import,174,Comoros,COM,480,Mauritius,MUS,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,14,,,,14,,1461,,,0
+H2,2008,2008,2008,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,382100,Prepared culture media for development of micro-organisms,8,Weight in kilograms,40,,,,40,,16,,,0
+H2,2008,2008,2008,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,382100,Prepared culture media for development of micro-organisms,8,Weight in kilograms,40,,,,40,,16,,,0
+H2,2008,2008,2008,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,25,,,,25,,57,,,0
+H2,2008,2008,2008,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,25,,,,25,,57,,,0
+H2,2008,2008,2008,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,17095,,,,17095,,23022,,,0
+H2,2008,2008,2008,6,1,2,Export,174,Comoros,COM,0,World,WLD,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,9842,,,,9842,,1166,,,0
+H2,2008,2008,2008,6,1,2,Export,174,Comoros,COM,120,Cameroon,CMR,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,9842,,,,9842,,1166,,,0
+H2,2008,2008,2008,6,1,1,Import,174,Comoros,COM,156,China,CHN,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,1700,,,,1700,,2120,,,0
+H2,2008,2008,2008,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,1630,,,,1630,,2303,,,0
+H2,2008,2008,2008,6,1,1,Import,174,Comoros,COM,450,Madagascar,MDG,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,4977,,,,4977,,10752,,,0
+H2,2008,2008,2008,6,1,1,Import,174,Comoros,COM,682,Saudi Arabia,SAU,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,75,,,,75,,434,,,0
+H2,2008,2008,2008,6,1,1,Import,174,Comoros,COM,764,Thailand,THA,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,100,,,,100,,42,,,0
+H2,2008,2008,2008,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,7838,,,,7838,,4115,,,0
+H2,2008,2008,2008,6,1,1,Import,174,Comoros,COM,834,United Rep. of Tanzania,TZA,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,775,,,,775,,3256,,,0
+H2,2008,2008,2008,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,129,,,,250,,654,,,0
+H2,2008,2008,2008,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,125,,,,150,,271,,,0
+H2,2008,2008,2008,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,4,,,,100,,383,,,0
+H2,2008,2008,2008,4,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,44,,,,44,,1277,,,0
+H2,2008,2008,2008,4,0,1,Import,174,Comoros,COM,528,Netherlands,NLD,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,44,,,,44,,1277,,,0
+H2,2008,2008,2008,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,44,,,,44,,1277,,,0
+H2,2008,2008,2008,6,1,1,Import,174,Comoros,COM,528,Netherlands,NLD,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,44,,,,44,,1277,,,0
+H2,2009,2009,2009,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,1,,,,1,,109,,,0
+H2,2009,2009,2009,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,1,,,,1,,109,,,0
+H2,2009,2009,2009,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,1979,,,,1979,,9016,,,0
+H2,2009,2009,2009,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,1979,,,,1979,,9016,,,0
+H2,2009,2009,2009,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,54,,,,54,,643,,,0
+H2,2009,2009,2009,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,54,,,,54,,643,,,0
+H2,2009,2009,2009,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,15143,,,,15143,,5004,,,0
+H2,2009,2009,2009,6,1,1,Import,174,Comoros,COM,450,Madagascar,MDG,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,1821,,,,1821,,2118,,,0
+H2,2009,2009,2009,6,1,1,Import,174,Comoros,COM,764,Thailand,THA,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,40,,,,40,,14,,,0
+H2,2009,2009,2009,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,13182,,,,13182,,2814,,,0
+H2,2009,2009,2009,6,1,1,Import,174,Comoros,COM,834,United Rep. of Tanzania,TZA,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,100,,,,100,,56,,,0
+H2,2009,2009,2009,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",1,No Quantity,0,,,,7060,,14956,,,2
+H2,2009,2009,2009,6,1,1,Import,174,Comoros,COM,175,Mayotte,MYT,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",1,No Quantity,0,,,,50,,321,,,2
+H2,2009,2009,2009,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",1,No Quantity,0,,,,10,,283,,,2
+H2,2009,2009,2009,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",1,No Quantity,0,,,,7000,,14351,,,2
+H2,2009,2009,2009,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",1,No Quantity,0,,,,550,,1538,,,2
+H2,2009,2009,2009,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",1,No Quantity,0,,,,500,,1419,,,2
+H2,2009,2009,2009,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",1,No Quantity,0,,,,50,,119,,,2
+H2,2009,2009,2009,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,901920,Ozone therapy/oxygen therapy/aerosol therapy/art. respiration/oth. therapeu ...,8,Weight in kilograms,132,,,,132,,1284,,,0
+H2,2009,2009,2009,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,901920,Ozone therapy/oxygen therapy/aerosol therapy/art. respiration/oth. therapeu ...,8,Weight in kilograms,132,,,,132,,1284,,,0
+H2,2009,2009,2009,4,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,220,,,,220,,899,,,0
+H2,2009,2009,2009,4,0,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,220,,,,220,,899,,,0
+H2,2009,2009,2009,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,220,,,,220,,899,,,0
+H2,2009,2009,2009,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,220,,,,220,,899,,,0
+H2,2009,2009,2009,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",1,No Quantity,0,,,,345,,988,,,2
+H2,2009,2009,2009,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",1,No Quantity,0,,,,345,,988,,,2
+H2,2010,2010,2010,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,100,,,,100,,134,,,0
+H2,2010,2010,2010,6,1,1,Import,174,Comoros,COM,834,United Rep. of Tanzania,TZA,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,100,,,,100,,134,,,0
+H2,2010,2010,2010,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,42,,,,42,,2821,,,0
+H2,2010,2010,2010,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,18,,,,18,,2786,,,0
+H2,2010,2010,2010,6,1,1,Import,174,Comoros,COM,450,Madagascar,MDG,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,24,,,,24,,34,,,0
+H2,2010,2010,2010,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,10755,,,,10755,,11345,,,0
+H2,2010,2010,2010,6,1,1,Import,174,Comoros,COM,175,Mayotte,MYT,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,10200,,,,10200,,10987,,,0
+H2,2010,2010,2010,6,1,1,Import,174,Comoros,COM,450,Madagascar,MDG,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,555,,,,555,,358,,,0
+H2,2010,2010,2010,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",1,No Quantity,0,,,,3260,,16052,,,2
+H2,2010,2010,2010,6,1,1,Import,174,Comoros,COM,760,Syria,SYR,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",1,No Quantity,0,,,,3250,,15851,,,2
+H2,2010,2010,2010,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",1,No Quantity,0,,,,10,,200,,,2
+H2,2010,2010,2010,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",1,No Quantity,0,,,,3185,,4075,,,2
+H2,2010,2010,2010,6,1,1,Import,174,Comoros,COM,156,China,CHN,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",1,No Quantity,0,,,,3000,,3294,,,2
+H2,2010,2010,2010,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",1,No Quantity,0,,,,101,,278,,,2
+H2,2010,2010,2010,6,1,1,Import,174,Comoros,COM,450,Madagascar,MDG,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",1,No Quantity,0,,,,5,,38,,,2
+H2,2010,2010,2010,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",1,No Quantity,0,,,,79,,463,,,2
+H2,2010,2010,2010,4,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,40,,,,40,,189,,,0
+H2,2010,2010,2010,4,0,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,40,,,,40,,189,,,0
+H2,2010,2010,2010,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,40,,,,40,,189,,,0
+H2,2010,2010,2010,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,40,,,,40,,189,,,0
+H2,2011,2011,2011,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,100,,,,100,,567,,,0
+H2,2011,2011,2011,6,1,1,Import,174,Comoros,COM,834,United Rep. of Tanzania,TZA,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,100,,,,100,,567,,,0
+H2,2011,2011,2011,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,295,,,,295,,8340,,,0
+H2,2011,2011,2011,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,191,,,,191,,7798,,,0
+H2,2011,2011,2011,6,1,1,Import,174,Comoros,COM,450,Madagascar,MDG,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,44,,,,44,,392,,,0
+H2,2011,2011,2011,6,1,1,Import,174,Comoros,COM,834,United Rep. of Tanzania,TZA,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,60,,,,60,,150,,,0
+H2,2011,2011,2011,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,970,,,,970,,2493,,,0
+H2,2011,2011,2011,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,20,,,,20,,27,,,0
+H2,2011,2011,2011,6,1,1,Import,174,Comoros,COM,450,Madagascar,MDG,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,600,,,,600,,812,,,0
+H2,2011,2011,2011,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,200,,,,200,,1083,,,0
+H2,2011,2011,2011,6,1,1,Import,174,Comoros,COM,834,United Rep. of Tanzania,TZA,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,150,,,,150,,570,,,0
+H2,2011,2011,2011,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",1,No Quantity,0,,,,6000,,5731,,,2
+H2,2011,2011,2011,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",1,No Quantity,0,,,,6000,,5731,,,2
+H2,2011,2011,2011,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",1,No Quantity,0,,,,100,,41,,,2
+H2,2011,2011,2011,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",1,No Quantity,0,,,,100,,41,,,2
+H2,2011,2011,2011,4,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,1750,,,,1750,,3959,,,0
+H2,2011,2011,2011,4,0,1,Import,174,Comoros,COM,480,Mauritius,MUS,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,250,,,,250,,1285,,,0
+H2,2011,2011,2011,4,0,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,1500,,,,1500,,2674,,,0
+H2,2011,2011,2011,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,1750,,,,1750,,3959,,,0
+H2,2011,2011,2011,6,1,1,Import,174,Comoros,COM,480,Mauritius,MUS,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,250,,,,250,,1285,,,0
+H2,2011,2011,2011,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,1500,,,,1500,,2674,,,0
+H2,2012,2012,2012,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,280440,Oxygen,1,No Quantity,0,,,,10000,,1893,,,2
+H2,2012,2012,2012,6,1,1,Import,174,Comoros,COM,834,United Rep. of Tanzania,TZA,,,,,,,,280440,Oxygen,1,No Quantity,0,,,,10000,,1893,,,2
+H2,2012,2012,2012,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,50,,,,50,,197,,,0
+H2,2012,2012,2012,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,50,,,,50,,197,,,0
+H2,2012,2012,2012,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,50,,,,50,,64,,,0
+H2,2012,2012,2012,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,50,,,,50,,64,,,0
+H2,2012,2012,2012,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,161,,,,161,,114,,,0
+H2,2012,2012,2012,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,161,,,,161,,114,,,0
+H2,2012,2012,2012,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",1,No Quantity,0,,,,600,,555,,,2
+H2,2012,2012,2012,6,1,1,Import,174,Comoros,COM,834,United Rep. of Tanzania,TZA,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",1,No Quantity,0,,,,600,,555,,,2
+H2,2012,2012,2012,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",1,No Quantity,0,,,,362,,329,,,2
+H2,2012,2012,2012,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",1,No Quantity,0,,,,212,,298,,,2
+H2,2012,2012,2012,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",1,No Quantity,0,,,,150,,31,,,2
+H2,2012,2012,2012,4,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,926,,,,926,,470,,,0
+H2,2012,2012,2012,4,0,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,26,,,,26,,21,,,0
+H2,2012,2012,2012,4,0,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,900,,,,900,,448,,,0
+H2,2012,2012,2012,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,926,,,,926,,470,,,0
+H2,2012,2012,2012,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,26,,,,26,,21,,,0
+H2,2012,2012,2012,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,900,,,,900,,448,,,0
+H2,2013,2013,2013,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,280440,Oxygen,12,Volume in cubic meters,24067,,,,5079,,6436,,,2
+H2,2013,2013,2013,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,280440,Oxygen,12,Volume in cubic meters,13923,,,,87,,3723,,,2
+H2,2013,2013,2013,6,1,1,Import,174,Comoros,COM,450,Madagascar,MDG,,,,,,,,280440,Oxygen,12,Volume in cubic meters,10144,,,,4992,,2712,,,2
+H2,2013,2013,2013,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,391,,,,391,,7054,,,0
+H2,2013,2013,2013,6,1,1,Import,174,Comoros,COM,56,Belgium,BEL,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,370,,,,370,,937,,,0
+H2,2013,2013,2013,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,21,,,,21,,6117,,,0
+H2,2013,2013,2013,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,140,,,,140,,538,,,0
+H2,2013,2013,2013,6,1,1,Import,174,Comoros,COM,710,South Africa,ZAF,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,140,,,,140,,538,,,0
+H2,2013,2013,2013,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,207,,,,207,,314,,,0
+H2,2013,2013,2013,6,1,1,Import,174,Comoros,COM,156,China,CHN,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,100,,,,100,,54,,,0
+H2,2013,2013,2013,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,107,,,,107,,260,,,0
+H2,2013,2013,2013,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,1105,,,,1105,,6960,,,0
+H2,2013,2013,2013,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,1045,,,,1045,,6811,,,0
+H2,2013,2013,2013,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,60,,,,60,,148,,,0
+H2,2013,2013,2013,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,77,,,,77,,269,,,0
+H2,2013,2013,2013,6,1,1,Import,174,Comoros,COM,156,China,CHN,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,25,,,,25,,126,,,0
+H2,2013,2013,2013,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,52,,,,52,,143,,,0
+H2,2013,2013,2013,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",1,No Quantity,0,,,,754,,3921,,,2
+H2,2013,2013,2013,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",1,No Quantity,0,,,,50,,67,,,2
+H2,2013,2013,2013,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",1,No Quantity,0,,,,650,,3825,,,2
+H2,2013,2013,2013,6,1,1,Import,174,Comoros,COM,834,United Rep. of Tanzania,TZA,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",1,No Quantity,0,,,,54,,28,,,2
+H2,2013,2013,2013,4,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,200,,,,200,,81,,,0
+H2,2013,2013,2013,4,0,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,200,,,,200,,81,,,0
+H2,2013,2013,2013,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,200,,,,200,,81,,,0
+H2,2013,2013,2013,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,200,,,,200,,81,,,0
+H2,2013,2013,2013,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",1,No Quantity,0,,,,392,,10107,,,2
+H2,2013,2013,2013,6,1,1,Import,174,Comoros,COM,450,Madagascar,MDG,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",1,No Quantity,0,,,,2,,196,,,2
+H2,2013,2013,2013,6,1,1,Import,174,Comoros,COM,699,India,IND,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",1,No Quantity,0,,,,390,,9911,,,2
+H0,1995,1995,1995,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,280440,Oxygen,8,Weight in kilograms,5875,,,,5875,,6096,,,0
+H0,1995,1995,1995,6,1,2,Export,174,Comoros,COM,0,World,WLD,,,,,,,,280440,Oxygen,8,Weight in kilograms,6625,,,,6625,,5240,,,0
+H0,1995,1995,1995,6,1,2,Export,174,Comoros,COM,251,France,FRA,,,,,,,,280440,Oxygen,8,Weight in kilograms,6625,,,,6625,,5240,,,0
+H0,1995,1995,1995,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,280440,Oxygen,8,Weight in kilograms,5875,,,,5875,,6096,,,0
+H0,1995,1995,1995,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,534,,,,534,,19123,,,0
+H0,1995,1995,1995,6,1,1,Import,174,Comoros,COM,132,Cabo Verde,CPV,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,290,,,,290,,7269,,,0
+H0,1995,1995,1995,6,1,1,Import,174,Comoros,COM,208,Denmark,DNK,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,190,,,,190,,7311,,,0
+H0,1995,1995,1995,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,20,,,,20,,1461,,,0
+H0,1995,1995,1995,6,1,1,Import,174,Comoros,COM,381,Italy,ITA,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,34,,,,34,,3082,,,0
+H0,1995,1995,1995,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,4383,,,,4383,,5613,,,0
+H0,1995,1995,1995,6,1,1,Import,174,Comoros,COM,44,Bahamas,BHS,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,3875,,,,3875,,3393,,,0
+H0,1995,1995,1995,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,500,,,,500,,1789,,,0
+H0,1995,1995,1995,6,1,1,Import,174,Comoros,COM,899,"Areas, nes",,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,8,,,,8,,431,,,0
+H0,1995,1995,1995,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,372,,,,372,,4307,,,0
+H0,1995,1995,1995,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,60,,,,60,,1334,,,0
+H0,1995,1995,1995,6,1,1,Import,174,Comoros,COM,404,Kenya,KEN,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,312,,,,312,,2973,,,0
+H0,1995,1995,1995,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,1099,,,,1099,,7755,,,0
+H0,1995,1995,1995,6,1,1,Import,174,Comoros,COM,682,Saudi Arabia,SAU,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,335,,,,335,,1525,,,0
+H0,1995,1995,1995,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,492,,,,492,,5588,,,0
+H0,1995,1995,1995,6,1,1,Import,174,Comoros,COM,899,"Areas, nes",,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,272,,,,272,,642,,,0
+H0,1995,1995,1995,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",8,Weight in kilograms,31,,,,31,,491,,,0
+H0,1995,1995,1995,6,1,1,Import,174,Comoros,COM,899,"Areas, nes",,,,,,,,,900490,"Spectacles, goggles except sunglasses",8,Weight in kilograms,31,,,,31,,491,,,0
+H0,1995,1995,1995,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",8,Weight in kilograms,44,,,,44,,1025,,,0
+H0,1995,1995,1995,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",8,Weight in kilograms,44,,,,44,,1025,,,0
+H0,1996,1996,1996,6,1,2,Export,174,Comoros,COM,0,World,WLD,,,,,,,,280440,Oxygen,1,No Quantity,0,,,,0,,1,,,0
+H0,1996,1996,1996,6,1,2,Export,174,Comoros,COM,899,"Areas, nes",,,,,,,,,280440,Oxygen,1,No Quantity,0,,,,0,,1,,,0
+H0,1996,1996,1996,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,407,,,,407,,14487,,,0
+H0,1996,1996,1996,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,291,,,,291,,12392,,,0
+H0,1996,1996,1996,6,1,1,Import,174,Comoros,COM,404,Kenya,KEN,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,36,,,,36,,848,,,0
+H0,1996,1996,1996,6,1,1,Import,174,Comoros,COM,528,Netherlands,NLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,70,,,,70,,1051,,,0
+H0,1996,1996,1996,6,1,1,Import,174,Comoros,COM,899,"Areas, nes",,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,10,,,,10,,196,,,0
+H0,1996,1996,1996,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,500,,,,500,,8483,,,0
+H0,1996,1996,1996,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,500,,,,500,,8483,,,0
+H0,1996,1996,1996,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,1400,,,,1400,,7016,,,0
+H0,1996,1996,1996,6,1,1,Import,174,Comoros,COM,404,Kenya,KEN,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,53,,,,53,,981,,,0
+H0,1996,1996,1996,6,1,1,Import,174,Comoros,COM,480,Mauritius,MUS,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,347,,,,347,,516,,,0
+H0,1996,1996,1996,6,1,1,Import,174,Comoros,COM,528,Netherlands,NLD,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,1000,,,,1000,,5519,,,0
+H0,1996,1996,1996,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,20,,,,20,,191,,,0
+H0,1996,1996,1996,6,1,1,Import,174,Comoros,COM,899,"Areas, nes",,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,20,,,,20,,191,,,0
+H0,1996,1996,1996,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,11632,,,,11632,,13559,,,0
+H0,1996,1996,1996,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,160,,,,160,,1783,,,0
+H0,1996,1996,1996,6,1,1,Import,174,Comoros,COM,480,Mauritius,MUS,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,347,,,,347,,648,,,0
+H0,1996,1996,1996,6,1,1,Import,174,Comoros,COM,682,Saudi Arabia,SAU,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,9875,,,,9875,,2702,,,0
+H0,1996,1996,1996,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,1250,,,,1250,,8426,,,0
+H0,1997,1997,1997,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,280440,Oxygen,8,Weight in kilograms,62,,,,62,,147,,,0
+H0,1997,1997,1997,6,1,1,Import,174,Comoros,COM,899,"Areas, nes",,,,,,,,,280440,Oxygen,8,Weight in kilograms,62,,,,62,,147,,,0
+H0,1997,1997,1997,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,216,,,,216,,11220,,,0
+H0,1997,1997,1997,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,191,,,,191,,10078,,,0
+H0,1997,1997,1997,6,1,1,Import,174,Comoros,COM,826,United Kingdom,GBR,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,25,,,,25,,1142,,,0
+H0,1997,1997,1997,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,312,,,,312,,10267,,,0
+H0,1997,1997,1997,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,312,,,,312,,10267,,,0
+H0,1997,1997,1997,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,52,,,,52,,71,,,0
+H0,1997,1997,1997,6,1,1,Import,174,Comoros,COM,899,"Areas, nes",,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,52,,,,52,,71,,,0
+H0,1997,1997,1997,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,961,,,,961,,31141,,,0
+H0,1997,1997,1997,6,1,1,Import,174,Comoros,COM,480,Mauritius,MUS,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,921,,,,921,,30799,,,0
+H0,1997,1997,1997,6,1,1,Import,174,Comoros,COM,899,"Areas, nes",,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,40,,,,40,,342,,,0
+H0,1997,1997,1997,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",8,Weight in kilograms,197,,,,197,,1283,,,0
+H0,1997,1997,1997,6,1,1,Import,174,Comoros,COM,58,Belgium-Luxembourg,BEL,,,,,,,,900490,"Spectacles, goggles except sunglasses",8,Weight in kilograms,140,,,,140,,731,,,0
+H0,1997,1997,1997,6,1,1,Import,174,Comoros,COM,899,"Areas, nes",,,,,,,,,900490,"Spectacles, goggles except sunglasses",8,Weight in kilograms,57,,,,57,,552,,,0
+H0,1997,1997,1997,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",8,Weight in kilograms,6,,,,6,,5513,,,0
+H0,1997,1997,1997,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",8,Weight in kilograms,6,,,,6,,5513,,,0
+H0,1998,1998,1998,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,162,,,,162,,2495,,,0
+H0,1998,1998,1998,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,162,,,,162,,2495,,,0
+H0,1998,1998,1998,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,957,,,,957,,20620,,,0
+H0,1998,1998,1998,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,957,,,,957,,20620,,,0
+H0,1998,1998,1998,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,10,,,,10,,99,,,0
+H0,1998,1998,1998,6,1,1,Import,174,Comoros,COM,899,"Areas, nes",,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,10,,,,10,,99,,,0
+H0,1998,1998,1998,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,1674,,,,1674,,28694,,,0
+H0,1998,1998,1998,6,1,1,Import,174,Comoros,COM,480,Mauritius,MUS,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,1125,,,,1125,,28028,,,0
+H0,1998,1998,1998,6,1,1,Import,174,Comoros,COM,899,"Areas, nes",,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,549,,,,549,,666,,,0
+H0,1998,1998,1998,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",8,Weight in kilograms,1315,,,,1315,,19208,,,0
+H0,1998,1998,1998,6,1,1,Import,174,Comoros,COM,711,So. African Customs Union,ZAF,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",8,Weight in kilograms,1312,,,,1312,,19166,,,0
+H0,1998,1998,1998,6,1,1,Import,174,Comoros,COM,899,"Areas, nes",,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",8,Weight in kilograms,3,,,,3,,42,,,0
+H0,1998,1998,1998,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",8,Weight in kilograms,182,,,,182,,668,,,0
+H0,1998,1998,1998,6,1,1,Import,174,Comoros,COM,711,So. African Customs Union,ZAF,,,,,,,,900490,"Spectacles, goggles except sunglasses",8,Weight in kilograms,132,,,,132,,602,,,0
+H0,1998,1998,1998,6,1,1,Import,174,Comoros,COM,899,"Areas, nes",,,,,,,,,900490,"Spectacles, goggles except sunglasses",8,Weight in kilograms,50,,,,50,,66,,,0
+H0,1998,1998,1998,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",8,Weight in kilograms,2000,,,,2000,,247232,,,0
+H0,1998,1998,1998,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",8,Weight in kilograms,2000,,,,2000,,247232,,,0
+H0,1999,1999,1999,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,31,,,,31,,3683,,,0
+H0,1999,1999,1999,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,31,,,,31,,3683,,,0
+H0,1999,1999,1999,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,1625,,,,1625,,39530,,,0
+H0,1999,1999,1999,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,1625,,,,1625,,39530,,,0
+H0,1999,1999,1999,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,70,,,,70,,781,,,0
+H0,1999,1999,1999,6,1,1,Import,174,Comoros,COM,404,Kenya,KEN,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,60,,,,60,,619,,,0
+H0,1999,1999,1999,6,1,1,Import,174,Comoros,COM,899,"Areas, nes",,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,10,,,,10,,162,,,0
+H0,1999,1999,1999,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,1042,,,,1042,,1861,,,0
+H0,1999,1999,1999,6,1,1,Import,174,Comoros,COM,450,Madagascar,MDG,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,968,,,,968,,1620,,,0
+H0,1999,1999,1999,6,1,1,Import,174,Comoros,COM,899,"Areas, nes",,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,74,,,,74,,241,,,0
+H0,1999,1999,1999,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",8,Weight in kilograms,74,,,,74,,378,,,0
+H0,1999,1999,1999,6,1,1,Import,174,Comoros,COM,899,"Areas, nes",,,,,,,,,900490,"Spectacles, goggles except sunglasses",8,Weight in kilograms,74,,,,74,,378,,,0
+H0,1999,1999,1999,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,901920,Therapeutic respiration apparatus,8,Weight in kilograms,78,,,,78,,6681,,,0
+H0,1999,1999,1999,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,901920,Therapeutic respiration apparatus,8,Weight in kilograms,78,,,,78,,6681,,,0
+H0,2000,2000,2000,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,335,,,,335,,19469,,,0
+H0,2000,2000,2000,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,335,,,,335,,19469,,,0
+H0,2000,2000,2000,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,222,,,,222,,16981,,,0
+H0,2000,2000,2000,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,222,,,,222,,16981,,,0
+H0,2000,2000,2000,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,1645,,,,1645,,2639,,,0
+H0,2000,2000,2000,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,19,,,,19,,31,,,0
+H0,2000,2000,2000,6,1,1,Import,174,Comoros,COM,404,Kenya,KEN,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,71,,,,71,,37,,,0
+H0,2000,2000,2000,6,1,1,Import,174,Comoros,COM,450,Madagascar,MDG,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,1530,,,,1530,,2478,,,0
+H0,2000,2000,2000,6,1,1,Import,174,Comoros,COM,834,United Rep. of Tanzania,TZA,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,25,,,,25,,93,,,0
+H0,2001,2001,2001,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,238,,,,238,,12246,,,0
+H0,2001,2001,2001,6,1,1,Import,174,Comoros,COM,208,Denmark,DNK,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,152,,,,152,,8629,,,0
+H0,2001,2001,2001,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,86,,,,86,,3617,,,0
+H0,2001,2001,2001,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,5,,,,5,,242,,,0
+H0,2001,2001,2001,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,5,,,,5,,242,,,0
+H0,2001,2001,2001,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,492,,,,492,,3166,,,0
+H0,2001,2001,2001,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,242,,,,242,,2636,,,0
+H0,2001,2001,2001,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,250,,,,250,,530,,,0
+H0,2001,2001,2001,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,3435,,,,3435,,5446,,,0
+H0,2001,2001,2001,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,560,,,,560,,1033,,,0
+H0,2001,2001,2001,6,1,1,Import,174,Comoros,COM,360,Indonesia,IDN,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,1080,,,,1080,,3679,,,0
+H0,2001,2001,2001,6,1,1,Import,174,Comoros,COM,450,Madagascar,MDG,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,1707,,,,1707,,704,,,0
+H0,2001,2001,2001,6,1,1,Import,174,Comoros,COM,834,United Rep. of Tanzania,TZA,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,88,,,,88,,30,,,0
+H0,2001,2001,2001,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",5,Number of items,1,,,,26,,672,,,0
+H0,2001,2001,2001,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",5,Number of items,1,,,,26,,672,,,0
+H0,2002,2002,2002,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,300,,,,300,,7259,,,0
+H0,2002,2002,2002,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,300,,,,300,,7259,,,0
+H0,2002,2002,2002,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,10,,,,10,,949,,,0
+H0,2002,2002,2002,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,10,,,,10,,949,,,0
+H0,2002,2002,2002,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,2025,,,,2025,,4366,,,0
+H0,2002,2002,2002,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,2025,,,,2025,,4366,,,0
+H0,2002,2002,2002,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,200,,,,200,,626,,,0
+H0,2002,2002,2002,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,200,,,,200,,626,,,0
+H0,2002,2002,2002,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,90,,,,90,,461,,,0
+H0,2002,2002,2002,6,1,1,Import,174,Comoros,COM,450,Madagascar,MDG,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,90,,,,90,,461,,,0
+H0,2002,2002,2002,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",5,Number of items,4,,,,135,,4826,,,0
+H0,2002,2002,2002,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",5,Number of items,2,,,,100,,4825,,,0
+H0,2002,2002,2002,6,1,1,Import,174,Comoros,COM,276,Germany,DEU,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",5,Number of items,2,,,,35,,1,,,0
+H0,2003,2003,2003,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,280440,Oxygen,1,No Quantity,,,,,450,,33,,,0
+H0,2003,2003,2003,6,1,1,Import,174,Comoros,COM,450,Madagascar,MDG,,,,,,,,280440,Oxygen,1,No Quantity,,,,,450,,33,,,0
+H0,2003,2003,2003,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,70,,,,70,,6,,,0
+H0,2003,2003,2003,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,70,,,,70,,6,,,0
+H0,2003,2003,2003,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,499,,,,499,,893,,,0
+H0,2003,2003,2003,6,1,1,Import,174,Comoros,COM,175,Mayotte,MYT,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,499,,,,499,,893,,,0
+H0,2003,2003,2003,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,100,,,,100,,305,,,0
+H0,2003,2003,2003,6,1,1,Import,174,Comoros,COM,834,United Rep. of Tanzania,TZA,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,100,,,,100,,305,,,0
+H0,2003,2003,2003,6,1,2,Export,174,Comoros,COM,0,World,WLD,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",5,Number of items,30,,,,30,,27070,,,0
+H0,2003,2003,2003,6,1,2,Export,174,Comoros,COM,175,Mayotte,MYT,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",5,Number of items,30,,,,30,,27070,,,0
+H0,2004,2004,2004,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,30,,,,30,,8515,,,6
+H0,2004,2004,2004,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,16,,,,16,,4444,,,6
+H0,2004,2004,2004,6,1,1,Import,174,Comoros,COM,528,Netherlands,NLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,14,,,,14,,4072,,,6
+H0,2004,2004,2004,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,12,,,,12,,53,,,6
+H0,2004,2004,2004,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,3,,,,3,,14,,,6
+H0,2004,2004,2004,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,9,,,,9,,39,,,6
+H0,2004,2004,2004,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,247,,,,247,,3891,,,6
+H0,2004,2004,2004,6,1,1,Import,174,Comoros,COM,156,China,CHN,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,43,,,,43,,683,,,6
+H0,2004,2004,2004,6,1,1,Import,174,Comoros,COM,450,Madagascar,MDG,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,181,,,,181,,2853,,,6
+H0,2004,2004,2004,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,19,,,,19,,297,,,6
+H0,2004,2004,2004,6,1,1,Import,174,Comoros,COM,834,United Rep. of Tanzania,TZA,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,4,,,,4,,57,,,6
+H0,2004,2004,2004,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,81,,,,7,,268,,,6
+H0,2004,2004,2004,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,81,,,,7,,268,,,6
+H0,2005,2005,2005,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,173,,,,173,,48967,,,6
+H0,2005,2005,2005,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,173,,,,173,,48967,,,6
+H0,2005,2005,2005,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,54,,,,54,,4422,,,6
+H0,2005,2005,2005,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,52,,,,52,,4225,,,6
+H0,2005,2005,2005,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,2,,,,2,,197,,,6
+H0,2005,2005,2005,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,37,,,,37,,166,,,6
+H0,2005,2005,2005,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,37,,,,37,,166,,,6
+H0,2005,2005,2005,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,4,,,,4,,34,,,6
+H0,2005,2005,2005,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,4,,,,4,,34,,,6
+H0,2005,2005,2005,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,3374,,,,3374,,53152,,,6
+H0,2005,2005,2005,6,1,2,Export,174,Comoros,COM,0,World,WLD,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,1,No Quantity,,,,,,,1461,,,0
+H0,2005,2005,2005,6,1,1,Import,174,Comoros,COM,156,China,CHN,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,54,,,,54,,846,,,6
+H0,2005,2005,2005,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,12,,,,12,,197,,,6
+H0,2005,2005,2005,6,1,1,Import,174,Comoros,COM,450,Madagascar,MDG,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,1218,,,,1218,,19189,,,6
+H0,2005,2005,2005,6,1,2,Export,174,Comoros,COM,450,Madagascar,MDG,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,1,No Quantity,,,,,,,744,,,0
+H0,2005,2005,2005,6,1,1,Import,174,Comoros,COM,480,Mauritius,MUS,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,1916,,,,1916,,30186,,,6
+H0,2005,2005,2005,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,122,,,,122,,1915,,,6
+H0,2005,2005,2005,6,1,1,Import,174,Comoros,COM,834,United Rep. of Tanzania,TZA,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,52,,,,52,,819,,,6
+H0,2005,2005,2005,6,1,2,Export,174,Comoros,COM,899,"Areas, nes",,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,1,No Quantity,,,,,,,718,,,0
+H0,2005,2005,2005,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",5,Number of items,1,,,,66,,3253,,,6
+H0,2005,2005,2005,6,1,1,Import,174,Comoros,COM,887,Yemen,YEM,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",5,Number of items,1,,,,66,,3253,,,6
+H0,2005,2005,2005,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,67,,,,6,,221,,,6
+H0,2005,2005,2005,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,67,,,,6,,221,,,6
+H0,2005,2005,2005,4,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,61,,,,61,,3056,,,6
+H0,2005,2005,2005,4,0,1,Import,174,Comoros,COM,710,South Africa,ZAF,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,61,,,,61,,3056,,,6
+H0,2005,2005,2005,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,61,,,,61,,3056,,,6
+H0,2005,2005,2005,6,1,1,Import,174,Comoros,COM,710,South Africa,ZAF,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,61,,,,61,,3056,,,6
+H0,2006,2006,2006,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,268,,,,268,,75853,,,6
+H0,2006,2006,2006,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,64,,,,64,,18213,,,6
+H0,2006,2006,2006,6,1,1,Import,174,Comoros,COM,528,Netherlands,NLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,203,,,,203,,57641,,,6
+H0,2006,2006,2006,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,206,,,,206,,16772,,,6
+H0,2006,2006,2006,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,12,,,,12,,983,,,6
+H0,2006,2006,2006,6,1,1,Import,174,Comoros,COM,450,Madagascar,MDG,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,194,,,,194,,15788,,,6
+H0,2006,2006,2006,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,169,,,,169,,761,,,6
+H0,2006,2006,2006,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,97,,,,97,,438,,,6
+H0,2006,2006,2006,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,72,,,,72,,323,,,6
+H0,2006,2006,2006,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,165,,,,165,,1395,,,6
+H0,2006,2006,2006,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,153,,,,153,,1290,,,6
+H0,2006,2006,2006,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,12,,,,12,,105,,,6
+H0,2006,2006,2006,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,2861,,,,2861,,45059,,,6
+H0,2006,2006,2006,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,102,,,,102,,1599,,,6
+H0,2006,2006,2006,6,1,1,Import,174,Comoros,COM,450,Madagascar,MDG,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,2336,,,,2336,,36802,,,6
+H0,2006,2006,2006,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,53,,,,53,,842,,,6
+H0,2006,2006,2006,6,1,1,Import,174,Comoros,COM,834,United Rep. of Tanzania,TZA,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,369,,,,369,,5816,,,6
+H0,2006,2006,2006,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,527,,,,48,,1749,,,6
+H0,2006,2006,2006,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,527,,,,48,,1749,,,6
+H0,2007,2007,2007,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,280440,Oxygen,12,Volume in cubic meters,11494,,,,600,,1869,,,2
+H0,2007,2007,2007,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,280440,Oxygen,12,Volume in cubic meters,4796,,,,300,,780,,,2
+H0,2007,2007,2007,6,1,1,Import,174,Comoros,COM,834,United Rep. of Tanzania,TZA,,,,,,,,280440,Oxygen,12,Volume in cubic meters,6698,,,,300,,1089,,,2
+H0,2007,2007,2007,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,3,,,,3,,116,,,0
+H0,2007,2007,2007,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,3,,,,3,,116,,,0
+H0,2007,2007,2007,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,230,,,,230,,820,,,0
+H0,2007,2007,2007,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,60,,,,60,,613,,,0
+H0,2007,2007,2007,6,1,1,Import,174,Comoros,COM,834,United Rep. of Tanzania,TZA,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,170,,,,170,,207,,,0
+H0,2007,2007,2007,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,17,,,,17,,140,,,0
+H0,2007,2007,2007,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,17,,,,17,,140,,,0
+H0,2007,2007,2007,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,62300,,,,62300,,71056,,,0
+H0,2007,2007,2007,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,2950,,,,2950,,2701,,,0
+H0,2007,2007,2007,6,1,1,Import,174,Comoros,COM,450,Madagascar,MDG,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,40453,,,,40453,,30138,,,0
+H0,2007,2007,2007,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,7139,,,,7139,,10305,,,0
+H0,2007,2007,2007,6,1,1,Import,174,Comoros,COM,834,United Rep. of Tanzania,TZA,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,11758,,,,11758,,27913,,,0
+H0,2007,2007,2007,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",1,No Quantity,,,,,286,,3584,,,0
+H0,2007,2007,2007,6,1,1,Import,174,Comoros,COM,156,China,CHN,,,,,,,,900490,"Spectacles, goggles except sunglasses",1,No Quantity,,,,,200,,2793,,,0
+H0,2007,2007,2007,6,1,1,Import,174,Comoros,COM,784,United Arab Emirates,ARE,,,,,,,,900490,"Spectacles, goggles except sunglasses",1,No Quantity,,,,,86,,791,,,0
+H0,2007,2007,2007,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",1,No Quantity,,,,,18,,1802,,,0
+H0,2007,2007,2007,6,1,1,Import,174,Comoros,COM,251,France,FRA,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",1,No Quantity,,,,,18,,1802,,,0

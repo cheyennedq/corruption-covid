@@ -1,0 +1,87 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,0,World,WLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,10764,,,,10764,,729412,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,208,Denmark,DNK,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,8934,,,,8934,,621104,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,251,France,FRA,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,51,,,,51,,15118,,,0
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,276,Germany,DEU,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,150,,,,150,,1860,,,0
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,360,Indonesia,IDN,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,412,,,,412,,15799,,,0
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,381,Italy,ITA,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,134,,,,134,,18646,,,0
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,757,Switzerland,CHE,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,1063,,,,1063,,56851,,,0
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,818,Egypt,EGY,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,20,,,,20,,35,,,0
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,0,World,WLD,,,,,,,,382100,Prepared culture media for developing micro-organisms,8,Weight in kilograms,1002,,,,1002,,31133,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,276,Germany,DEU,,,,,,,,382100,Prepared culture media for developing micro-organisms,8,Weight in kilograms,1002,,,,1002,,31133,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,0,World,WLD,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,2466,,,,2466,,202044,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,36,Australia,AUS,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,39,,,,39,,3175,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,56,Belgium,BEL,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,53,,,,53,,4341,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,208,Denmark,DNK,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,138,,,,138,,19474,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,251,France,FRA,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,8,,,,8,,680,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,276,Germany,DEU,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,961,,,,961,,72198,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,372,Ireland,IRL,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,122,,,,122,,25935,,,0
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,404,Kenya,KEN,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,18,,,,18,,3477,,,0
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,528,Netherlands,NLD,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,30,,,,30,,3971,,,0
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,710,South Africa,ZAF,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,1,,,,1,,66,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,724,Spain,ESP,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,4,,,,4,,308,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,757,Switzerland,CHE,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,4,,,,4,,1080,,,0
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,760,Syria,SYR,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,7,,,,7,,234,,,0
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,784,United Arab Emirates,ARE,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,116,,,,116,,20030,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,826,United Kingdom,GBR,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,733,,,,733,,30259,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,842,USA,USA,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,233,,,,233,,16815,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,0,World,WLD,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,10414,,,,10414,,43709,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,156,China,CHN,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,18,,,,18,,75,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,208,Denmark,DNK,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,21,,,,21,,285,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,381,Italy,ITA,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,175,,,,175,,670,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,528,Netherlands,NLD,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,473,,,,473,,1980,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,579,Norway,NOR,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,6,,,,6,,26,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,699,India,IND,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,7074,,,,7074,,29600,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,784,United Arab Emirates,ARE,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,47,,,,47,,197,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,842,USA,USA,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,2599,,,,2599,,10876,,,6
+H1,2003,2003,2003,4,0,1,Import,232,Eritrea,ERI,0,World,WLD,,,,,,,,5603,Nonwovens textiles except felt,8,Weight in kilograms,51,,,,51,,191,,,6
+H1,2003,2003,2003,4,0,1,Import,232,Eritrea,ERI,682,Saudi Arabia,SAU,,,,,,,,5603,Nonwovens textiles except felt,8,Weight in kilograms,29,,,,29,,108,,,6
+H1,2003,2003,2003,4,0,1,Import,232,Eritrea,ERI,784,United Arab Emirates,ARE,,,,,,,,5603,Nonwovens textiles except felt,8,Weight in kilograms,22,,,,22,,83,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,0,World,WLD,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,356,,,,356,,5261,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,156,China,CHN,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,16,,,,16,,241,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,251,France,FRA,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,8,,,,8,,116,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,736,Fmr Sudan,SDN,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,318,,,,318,,4706,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,784,United Arab Emirates,ARE,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,13,,,,13,,199,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,0,World,WLD,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",5,Number of items,60,,,,12790,,118981,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,251,France,FRA,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",5,Number of items,5,,,,12,,553,,,4
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,276,Germany,DEU,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",5,Number of items,31,,,,1621,,87661,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,381,Italy,ITA,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",5,Number of items,16,,,,10827,,15210,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,682,Saudi Arabia,SAU,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",5,Number of items,8,,,,331,,15556,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,0,World,WLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,10900,,,,344,,11553,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,56,Belgium,BEL,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,15,,,,5,,178,,,4
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,251,France,FRA,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,3,,,,2,,59,,,4
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,276,Germany,DEU,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,16,,,,1,,17,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,381,Italy,ITA,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,12,,,,82,,2743,,,4
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,682,Saudi Arabia,SAU,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,543,,,,82,,2766,,,4
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,699,India,IND,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,90,,,,8,,266,,,4
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,724,Spain,ESP,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,100,,,,3,,108,,,4
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,752,Sweden,SWE,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,472,,,,12,,416,,,4
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,784,United Arab Emirates,ARE,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,6556,,,,109,,3662,,,4
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,826,United Kingdom,GBR,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,1,,,,0,,13,,,4
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,842,USA,USA,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,92,,,,9,,301,,,4
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,887,Yemen,YEM,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,3000,,,,31,,1025,,,4
+H1,2003,2003,2003,4,0,1,Import,232,Eritrea,ERI,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,2790,,,,2790,,134808,,,6
+H1,2003,2003,2003,4,0,1,Import,232,Eritrea,ERI,156,China,CHN,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,2625,,,,2625,,125274,,,6
+H1,2003,2003,2003,4,0,1,Import,232,Eritrea,ERI,196,Cyprus,CYP,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,8,,,,8,,533,,,6
+H1,2003,2003,2003,4,0,1,Import,232,Eritrea,ERI,208,Denmark,DNK,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,89,,,,89,,6004,,,6
+H1,2003,2003,2003,4,0,1,Import,232,Eritrea,ERI,276,Germany,DEU,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,1,,,,1,,30,,,6
+H1,2003,2003,2003,4,0,1,Import,232,Eritrea,ERI,528,Netherlands,NLD,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,0,,,,0,,22,,,6
+H1,2003,2003,2003,4,0,1,Import,232,Eritrea,ERI,682,Saudi Arabia,SAU,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,8,,,,8,,363,,,6
+H1,2003,2003,2003,4,0,1,Import,232,Eritrea,ERI,724,Spain,ESP,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,13,,,,13,,634,,,6
+H1,2003,2003,2003,4,0,1,Import,232,Eritrea,ERI,784,United Arab Emirates,ARE,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,26,,,,26,,1264,,,6
+H1,2003,2003,2003,4,0,1,Import,232,Eritrea,ERI,826,United Kingdom,GBR,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,19,,,,19,,684,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,2790,,,,2790,,134808,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,156,China,CHN,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,2625,,,,2625,,125274,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,196,Cyprus,CYP,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,8,,,,8,,533,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,208,Denmark,DNK,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,89,,,,89,,6004,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,276,Germany,DEU,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,1,,,,1,,30,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,528,Netherlands,NLD,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,0,,,,0,,22,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,682,Saudi Arabia,SAU,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,8,,,,8,,363,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,724,Spain,ESP,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,13,,,,13,,634,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,784,United Arab Emirates,ARE,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,26,,,,26,,1264,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,826,United Kingdom,GBR,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,19,,,,19,,684,,,6
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,0,World,WLD,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",5,Number of items,727,,,,202,,34048,,,4
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,56,Belgium,BEL,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",5,Number of items,1,,,,174,,29365,,,4
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,784,United Arab Emirates,ARE,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",5,Number of items,720,,,,3,,562,,,4
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,826,United Kingdom,GBR,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",5,Number of items,2,,,,22,,3711,,,4
+H1,2003,2003,2003,6,1,1,Import,232,Eritrea,ERI,842,USA,USA,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",5,Number of items,4,,,,2,,411,,,4

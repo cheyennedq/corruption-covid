@@ -1,0 +1,60 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,0,World,WLD,,,,,,,,280440,Oxygen,8,Weight in kilograms,7877,,,,7877,,69446,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,120,Cameroon,CMR,,,,,,,,280440,Oxygen,8,Weight in kilograms,5625,,,,5625,,53229,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,140,Central African Rep.,CAF,,,,,,,,280440,Oxygen,8,Weight in kilograms,1562,,,,1562,,8740,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,251,France,FRA,,,,,,,,280440,Oxygen,8,Weight in kilograms,656,,,,656,,6002,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,842,USA,USA,,,,,,,,280440,Oxygen,8,Weight in kilograms,25,,,,25,,1239,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,899,"Areas, nes",,,,,,,,,280440,Oxygen,8,Weight in kilograms,9,,,,9,,236,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,0,World,WLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,5250,,,,5250,,269548,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,58,Belgium-Luxembourg,BEL,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,429,,,,429,,32675,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,251,France,FRA,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,1991,,,,1991,,119650,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,276,Germany,DEU,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,469,,,,469,,25309,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,528,Netherlands,NLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,326,,,,326,,15902,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,686,Senegal,SEN,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,349,,,,349,,24830,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,699,India,IND,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,377,,,,377,,5656,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,724,Spain,ESP,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,245,,,,245,,15431,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,757,Switzerland,CHE,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,826,,,,826,,20616,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,842,USA,USA,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,203,,,,203,,4666,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,899,"Areas, nes",,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,35,,,,35,,4813,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,0,World,WLD,,,,,,,,382100,Prepared culture media for developing micro-organisms,8,Weight in kilograms,347,,,,347,,8343,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,251,France,FRA,,,,,,,,382100,Prepared culture media for developing micro-organisms,8,Weight in kilograms,347,,,,347,,8343,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,0,World,WLD,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,1324,,,,1324,,101492,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,251,France,FRA,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,1187,,,,1187,,92806,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,344,"China, Hong Kong SAR",HKG,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,25,,,,25,,6364,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,484,Mexico,MEX,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,8,,,,8,,859,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,528,Netherlands,NLD,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,101,,,,101,,962,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,899,"Areas, nes",,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,3,,,,3,,501,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,0,World,WLD,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,4089,,,,4089,,36887,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,58,Belgium-Luxembourg,BEL,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,54,,,,54,,2500,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,251,France,FRA,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,3437,,,,3437,,24921,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,724,Spain,ESP,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,597,,,,597,,9410,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,899,"Areas, nes",,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,1,,,,1,,56,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,7,,,,7,,174,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,899,"Areas, nes",,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,7,,,,7,,174,,,0
+H0,1995,1995,1995,4,0,1,Import,148,Chad,TCD,0,World,WLD,,,,,,,,5603,Nonwovens textiles except felt,8,Weight in kilograms,9,,,,9,,792,,,0
+H0,1995,1995,1995,4,0,1,Import,148,Chad,TCD,251,France,FRA,,,,,,,,5603,Nonwovens textiles except felt,8,Weight in kilograms,9,,,,9,,792,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,0,World,WLD,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",8,Weight in kilograms,2149,,,,2149,,85349,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,251,France,FRA,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",8,Weight in kilograms,1687,,,,1687,,56388,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,724,Spain,ESP,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",8,Weight in kilograms,13,,,,13,,1785,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,899,"Areas, nes",,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",8,Weight in kilograms,449,,,,449,,27176,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,0,World,WLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",8,Weight in kilograms,463,,,,463,,11594,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,251,France,FRA,,,,,,,,900490,"Spectacles, goggles except sunglasses",8,Weight in kilograms,375,,,,375,,9423,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,842,USA,USA,,,,,,,,900490,"Spectacles, goggles except sunglasses",8,Weight in kilograms,54,,,,54,,1276,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,899,"Areas, nes",,,,,,,,,900490,"Spectacles, goggles except sunglasses",8,Weight in kilograms,34,,,,34,,895,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,0,World,WLD,,,,,,,,901920,Therapeutic respiration apparatus,8,Weight in kilograms,84675,,,,84675,,2829,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,251,France,FRA,,,,,,,,901920,Therapeutic respiration apparatus,8,Weight in kilograms,84675,,,,84675,,2829,,,0
+H0,1995,1995,1995,4,0,1,Import,148,Chad,TCD,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,749,,,,749,,22790,,,0
+H0,1995,1995,1995,4,0,1,Import,148,Chad,TCD,251,France,FRA,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,714,,,,714,,20085,,,0
+H0,1995,1995,1995,4,0,1,Import,148,Chad,TCD,682,Saudi Arabia,SAU,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,11,,,,11,,2270,,,0
+H0,1995,1995,1995,4,0,1,Import,148,Chad,TCD,899,"Areas, nes",,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,24,,,,24,,435,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,749,,,,749,,22790,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,251,France,FRA,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,714,,,,714,,20085,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,682,Saudi Arabia,SAU,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,11,,,,11,,2270,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,899,"Areas, nes",,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,24,,,,24,,435,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,0,World,WLD,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",8,Weight in kilograms,2123,,,,2123,,101945,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,251,France,FRA,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",8,Weight in kilograms,1062,,,,1062,,52661,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,276,Germany,DEU,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",8,Weight in kilograms,4,,,,4,,2509,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,528,Netherlands,NLD,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",8,Weight in kilograms,32,,,,32,,7726,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,724,Spain,ESP,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",8,Weight in kilograms,3,,,,3,,957,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,842,USA,USA,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",8,Weight in kilograms,867,,,,867,,24228,,,0
+H0,1995,1995,1995,6,1,1,Import,148,Chad,TCD,899,"Areas, nes",,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",8,Weight in kilograms,155,,,,155,,13864,,,0

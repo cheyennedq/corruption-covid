@@ -1,0 +1,62 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,0,World,WLD,,,,,,,,280440,Oxygen,12,Volume in cubic meters,1615373,,,,1017069,,426276,,,2
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,156,China,CHN,,,,,,,,280440,Oxygen,12,Volume in cubic meters,198782,,,,31000,,52456,,,2
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,414,Kuwait,KWT,,,,,,,,280440,Oxygen,12,Volume in cubic meters,1109565,,,,976000,,292800,,,2
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,699,India,IND,,,,,,,,280440,Oxygen,12,Volume in cubic meters,246317,,,,10000,,65000,,,2
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,842,USA,USA,,,,,,,,280440,Oxygen,12,Volume in cubic meters,60708,,,,69,,16020,,,2
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,0,World,WLD,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,80915,,,,80915,,17999236,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,56,Belgium,BEL,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,1371,,,,1371,,270000,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,251,France,FRA,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,23060,,,,23060,,3632500,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,276,Germany,DEU,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,1149,,,,1149,,266832,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,400,Jordan,JOR,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,5743,,,,5743,,428400,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,410,Rep. of Korea,KOR,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,6460,,,,6460,,797500,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,568,"Other Europe, nes",,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,18193,,,,18193,,3798000,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,699,India,IND,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,9688,,,,9688,,2360004,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,842,USA,USA,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,15251,,,,15251,,6446000,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,0,World,WLD,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,4843,,,,4843,,1088015,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,40,Austria,AUT,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,60,,,,60,,52008,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,156,China,CHN,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,547,,,,547,,8870,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,381,Italy,ITA,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,200,,,,200,,63000,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,568,"Other Europe, nes",,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,100,,,,100,,593245,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,699,India,IND,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,1485,,,,1485,,79105,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,842,USA,USA,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,2451,,,,2451,,291787,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,0,World,WLD,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,14508,,,,14508,,576478,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,156,China,CHN,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,10008,,,,10008,,31598,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,381,Italy,ITA,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,1500,,,,1500,,264880,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,568,"Other Europe, nes",,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,3000,,,,3000,,280000,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,0,World,WLD,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",5,Number of items,6925,,,,402876,,784017,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,156,China,CHN,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",5,Number of items,50,,,,700,,32000,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,251,France,FRA,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",5,Number of items,1800,,,,471,,57847,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,381,Italy,ITA,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",5,Number of items,2001,,,,1100,,56054,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,410,Rep. of Korea,KOR,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",5,Number of items,4,,,,400000,,341922,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,784,United Arab Emirates,ARE,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",5,Number of items,3000,,,,500,,286872,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,842,USA,USA,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",5,Number of items,70,,,,105,,9322,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,0,World,WLD,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,180,,,,1800,,140965,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,156,China,CHN,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,180,,,,1800,,140965,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,0,World,WLD,,,,,,,,901920,Ozone therapy/oxygen therapy/aerosol therapy/art. respiration/oth. therapeu ...,8,Weight in kilograms,118800,,,,118800,,2623500,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,842,USA,USA,,,,,,,,901920,Ozone therapy/oxygen therapy/aerosol therapy/art. respiration/oth. therapeu ...,8,Weight in kilograms,118800,,,,118800,,2623500,,,0
+H2,2014,2014,2014,4,0,1,Import,368,Iraq,IRQ,0,World,WLD,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,1500,,,,1500,,5721084,,,0
+H2,2014,2014,2014,4,0,1,Import,368,Iraq,IRQ,392,Japan,JPN,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,1000,,,,1000,,5600000,,,0
+H2,2014,2014,2014,4,0,1,Import,368,Iraq,IRQ,490,"Other Asia, nes",,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,200,,,,200,,110630,,,0
+H2,2014,2014,2014,4,0,1,Import,368,Iraq,IRQ,554,New Zealand,NZL,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,300,,,,300,,10454,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,0,World,WLD,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,1500,,,,1500,,5721084,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,392,Japan,JPN,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,1000,,,,1000,,5600000,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,490,"Other Asia, nes",,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,200,,,,200,,110630,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,554,New Zealand,NZL,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,300,,,,300,,10454,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,0,World,WLD,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",5,Number of items,72327,,,,172667,,37116490,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,56,Belgium,BEL,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",5,Number of items,6,,,,2970,,25313,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,156,China,CHN,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",5,Number of items,299,,,,12329,,10016192,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,246,Finland,FIN,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",5,Number of items,34,,,,554,,4627222,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,251,France,FRA,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",5,Number of items,6,,,,900,,239582,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,276,Germany,DEU,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",5,Number of items,151,,,,40696,,1324002,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,381,Italy,ITA,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",5,Number of items,33,,,,3296,,1072895,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,392,Japan,JPN,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",5,Number of items,900,,,,25550,,5053746,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,400,Jordan,JOR,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",5,Number of items,2000,,,,200,,250845,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,410,Rep. of Korea,KOR,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",5,Number of items,5,,,,506,,240000,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,490,"Other Asia, nes",,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",5,Number of items,290,,,,588,,25000,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,528,Netherlands,NLD,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",5,Number of items,4,,,,1656,,157118,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,568,"Other Europe, nes",,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",5,Number of items,100,,,,20000,,6336322,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,682,Saudi Arabia,SAU,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",5,Number of items,61200,,,,7500,,392320,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,724,Spain,ESP,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",5,Number of items,13,,,,7783,,164870,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,826,United Kingdom,GBR,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",5,Number of items,2536,,,,3515,,319023,,,0
+H2,2014,2014,2014,6,1,1,Import,368,Iraq,IRQ,842,USA,USA,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",5,Number of items,4750,,,,44624,,6872040,,,0

@@ -1,0 +1,16 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2003,2003,2003,6,1,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,1218,,,,1218,,45205,,,0
+H1,2003,2003,2003,6,1,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,1218,,,,1218,,45205,,,0
+H1,2003,2003,2003,6,1,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,120,,,,120,,215,,,0
+H1,2003,2003,2003,6,1,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,120,,,,120,,215,,,0
+H1,2003,2003,2003,6,1,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,328,,,,130,,1144,,,2
+H1,2003,2003,2003,6,1,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,328,,,,130,,1144,,,2
+H1,2003,2003,2003,6,1,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",5,Number of items,1,,,,2000,,419,,,2
+H1,2003,2003,2003,6,1,1,Import,624,Guinea-Bissau,GNB,591,Panama,PAN,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",5,Number of items,1,,,,2000,,419,,,2
+H1,2004,2004,2004,6,1,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,38,,,,20,,125,,,2
+H1,2004,2004,2004,6,1,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,38,,,,20,,125,,,2
+H1,2005,2005,2005,4,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,5603,Nonwovens textiles except felt,8,Weight in kilograms,100,,,,100,,49,,,0
+H1,2005,2005,2005,4,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,5603,Nonwovens textiles except felt,8,Weight in kilograms,100,,,,100,,49,,,0
+H1,2005,2005,2005,6,1,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,179,,,,32,,593,,,2
+H1,2005,2005,2005,6,1,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,174,,,,30,,579,,,2
+H1,2005,2005,2005,6,1,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,4,,,,2,,14,,,2

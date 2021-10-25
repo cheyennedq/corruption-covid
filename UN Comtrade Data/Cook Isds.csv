@@ -1,0 +1,105 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2002,2002,2002,4,0,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,5603,"Nonwovens, whether or not impregnated, coated, covered or laminated.",1,No Quantity,,,,,,,2593,,,0
+H2,2002,2002,2002,4,0,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,5603,"Nonwovens, whether or not impregnated, coated, covered or laminated.",1,No Quantity,,,,,,,2593,,,0
+H2,2002,2002,2002,4,0,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",1,No Quantity,,,,,,,6512,,,0
+H2,2002,2002,2002,4,0,1,Import,184,Cook Isds,COK,392,Japan,JPN,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",1,No Quantity,,,,,,,181,,,0
+H2,2002,2002,2002,4,0,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",1,No Quantity,,,,,,,6115,,,0
+H2,2002,2002,2002,4,0,1,Import,184,Cook Isds,COK,842,USA,USA,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",1,No Quantity,,,,,,,216,,,0
+H2,2003,2003,2003,4,0,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,5603,"Nonwovens, whether or not impregnated, coated, covered or laminated.",1,No Quantity,,,,,,,2774,,,0
+H2,2003,2003,2003,4,0,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,5603,"Nonwovens, whether or not impregnated, coated, covered or laminated.",1,No Quantity,,,,,,,2774,,,0
+H2,2003,2003,2003,4,0,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",1,No Quantity,,,,,,,5510,,,0
+H2,2003,2003,2003,4,0,1,Import,184,Cook Isds,COK,392,Japan,JPN,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",1,No Quantity,,,,,,,420,,,0
+H2,2003,2003,2003,4,0,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",1,No Quantity,,,,,,,5091,,,0
+H2,2004,2004,2004,4,0,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,5603,"Nonwovens, whether or not impregnated, coated, covered or laminated.",1,No Quantity,,,,,,,648,,,0
+H2,2004,2004,2004,4,0,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,5603,"Nonwovens, whether or not impregnated, coated, covered or laminated.",1,No Quantity,,,,,,,648,,,0
+H2,2004,2004,2004,4,0,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",1,No Quantity,,,,,,,8129,,,0
+H2,2004,2004,2004,4,0,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",1,No Quantity,,,,,,,5655,,,0
+H2,2004,2004,2004,4,0,1,Import,184,Cook Isds,COK,842,USA,USA,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",1,No Quantity,,,,,,,2474,,,0
+H2,2005,2005,2005,6,1,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,382100,Prepared culture media for development of micro-organisms,8,Weight in kilograms,9,,,,9,,315,,,6
+H2,2005,2005,2005,6,1,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,382100,Prepared culture media for development of micro-organisms,8,Weight in kilograms,9,,,,9,,315,,,6
+H2,2005,2005,2005,6,1,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,461,,,,461,,37564,,,6
+H2,2005,2005,2005,6,1,1,Import,184,Cook Isds,COK,36,Australia,AUS,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,17,,,,17,,1352,,,6
+H2,2005,2005,2005,6,1,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,445,,,,445,,36212,,,6
+H2,2005,2005,2005,6,1,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,183,,,,183,,1550,,,6
+H2,2005,2005,2005,6,1,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,183,,,,183,,1550,,,6
+H2,2005,2005,2005,6,1,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,29,,,,29,,453,,,6
+H2,2005,2005,2005,6,1,1,Import,184,Cook Isds,COK,842,USA,USA,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,29,,,,29,,453,,,6
+H2,2005,2005,2005,6,1,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,20237,,,,1846,,67178,,,6
+H2,2005,2005,2005,6,1,1,Import,184,Cook Isds,COK,36,Australia,AUS,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,2402,,,,219,,7975,,,6
+H2,2005,2005,2005,6,1,1,Import,184,Cook Isds,COK,156,China,CHN,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,516,,,,47,,1713,,,6
+H2,2005,2005,2005,6,1,1,Import,184,Cook Isds,COK,360,Indonesia,IDN,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,1501,,,,137,,4983,,,6
+H2,2005,2005,2005,6,1,1,Import,184,Cook Isds,COK,392,Japan,JPN,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,26,,,,2,,88,,,6
+H2,2005,2005,2005,6,1,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,15645,,,,1427,,51935,,,6
+H2,2005,2005,2005,6,1,1,Import,184,Cook Isds,COK,608,Philippines,PHL,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,35,,,,3,,117,,,6
+H2,2005,2005,2005,6,1,1,Import,184,Cook Isds,COK,764,Thailand,THA,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,111,,,,10,,368,,,6
+H2,2005,2005,2005,4,0,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,143,,,,143,,7145,,,6
+H2,2005,2005,2005,4,0,1,Import,184,Cook Isds,COK,36,Australia,AUS,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,17,,,,17,,848,,,6
+H2,2005,2005,2005,4,0,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,122,,,,122,,6117,,,6
+H2,2005,2005,2005,4,0,1,Import,184,Cook Isds,COK,842,USA,USA,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,4,,,,4,,179,,,6
+H2,2005,2005,2005,6,1,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,143,,,,143,,7145,,,6
+H2,2005,2005,2005,6,1,1,Import,184,Cook Isds,COK,36,Australia,AUS,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,17,,,,17,,848,,,6
+H2,2005,2005,2005,6,1,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,122,,,,122,,6117,,,6
+H2,2005,2005,2005,6,1,1,Import,184,Cook Isds,COK,842,USA,USA,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,4,,,,4,,179,,,6
+H2,2005,2005,2005,6,1,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",5,Number of items,2,,,,9,,1741,,,6
+H2,2005,2005,2005,6,1,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",5,Number of items,2,,,,9,,1602,,,6
+H2,2005,2005,2005,6,1,1,Import,184,Cook Isds,COK,842,USA,USA,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",5,Number of items,0,,,,1,,139,,,6
+H1,2001,2001,2001,4,0,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,5603,Nonwovens textiles except felt,1,No Quantity,,,,,,,115,,,0
+H1,2001,2001,2001,4,0,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,5603,Nonwovens textiles except felt,1,No Quantity,,,,,,,115,,,0
+H1,2001,2001,2001,4,0,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks,1,No Quantity,,,,,,,9374,,,0
+H1,2001,2001,2001,4,0,1,Import,184,Cook Isds,COK,156,China,CHN,,,,,,,,9020,Breathing appliances and gas masks,1,No Quantity,,,,,,,21,,,0
+H1,2001,2001,2001,4,0,1,Import,184,Cook Isds,COK,392,Japan,JPN,,,,,,,,9020,Breathing appliances and gas masks,1,No Quantity,,,,,,,59,,,0
+H1,2001,2001,2001,4,0,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,9020,Breathing appliances and gas masks,1,No Quantity,,,,,,,9268,,,0
+H1,2001,2001,2001,4,0,1,Import,184,Cook Isds,COK,842,USA,USA,,,,,,,,9020,Breathing appliances and gas masks,1,No Quantity,,,,,,,25,,,0
+H0,2007,2007,2007,6,1,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,382100,Prepared culture media for developing micro-organisms,8,Weight in kilograms,24,,,,24,,887,,,6
+H0,2007,2007,2007,6,1,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,382100,Prepared culture media for developing micro-organisms,8,Weight in kilograms,24,,,,24,,887,,,6
+H0,2007,2007,2007,6,1,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,0,,,,0,,47,,,6
+H0,2007,2007,2007,6,1,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,0,,,,0,,47,,,6
+H0,2007,2007,2007,6,1,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,97,,,,97,,866,,,6
+H0,2007,2007,2007,6,1,1,Import,184,Cook Isds,COK,36,Australia,AUS,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,18,,,,18,,160,,,6
+H0,2007,2007,2007,6,1,1,Import,184,Cook Isds,COK,156,China,CHN,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,33,,,,33,,291,,,6
+H0,2007,2007,2007,6,1,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,46,,,,46,,415,,,6
+H0,2007,2007,2007,4,0,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,5603,Nonwovens textiles except felt,1,No Quantity,,,,,,,422,,,0
+H0,2007,2007,2007,4,0,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,5603,Nonwovens textiles except felt,1,No Quantity,,,,,,,422,,,0
+H0,2007,2007,2007,4,0,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,220,,,,220,,10975,,,6
+H0,2007,2007,2007,4,0,1,Import,184,Cook Isds,COK,36,Australia,AUS,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,1,,,,1,,32,,,6
+H0,2007,2007,2007,4,0,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,194,,,,194,,9696,,,6
+H0,2007,2007,2007,4,0,1,Import,184,Cook Isds,COK,826,United Kingdom,GBR,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,22,,,,22,,1087,,,6
+H0,2007,2007,2007,4,0,1,Import,184,Cook Isds,COK,842,USA,USA,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,3,,,,3,,159,,,6
+H0,2007,2007,2007,6,1,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,220,,,,220,,10975,,,6
+H0,2007,2007,2007,6,1,1,Import,184,Cook Isds,COK,36,Australia,AUS,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,1,,,,1,,32,,,6
+H0,2007,2007,2007,6,1,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,194,,,,194,,9696,,,6
+H0,2007,2007,2007,6,1,1,Import,184,Cook Isds,COK,826,United Kingdom,GBR,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,22,,,,22,,1087,,,6
+H0,2007,2007,2007,6,1,1,Import,184,Cook Isds,COK,842,USA,USA,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,3,,,,3,,159,,,6
+H0,2009,2009,2009,6,1,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,382100,Prepared culture media for developing micro-organisms,8,Weight in kilograms,7,,,,7,,307,,,6
+H0,2009,2009,2009,6,1,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,382100,Prepared culture media for developing micro-organisms,8,Weight in kilograms,7,,,,7,,307,,,6
+H0,2009,2009,2009,6,1,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,9,,,,9,,946,,,6
+H0,2009,2009,2009,6,1,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,5,,,,5,,572,,,6
+H0,2009,2009,2009,6,1,1,Import,184,Cook Isds,COK,842,USA,USA,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,3,,,,3,,374,,,6
+H0,2009,2009,2009,6,1,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,116,,,,116,,1040,,,6
+H0,2009,2009,2009,6,1,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,116,,,,116,,1040,,,6
+H0,2009,2009,2009,4,0,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,5603,Nonwovens textiles except felt,8,Weight in kilograms,1199,,,,1199,,6713,,,6
+H0,2009,2009,2009,4,0,1,Import,184,Cook Isds,COK,36,Australia,AUS,,,,,,,,5603,Nonwovens textiles except felt,8,Weight in kilograms,1199,,,,1199,,6713,,,6
+H0,2009,2009,2009,4,0,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,93,,,,93,,5688,,,6
+H0,2009,2009,2009,4,0,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,93,,,,93,,5688,,,6
+H0,2009,2009,2009,6,1,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,93,,,,93,,5688,,,6
+H0,2009,2009,2009,6,1,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,93,,,,93,,5688,,,6
+H0,2010,2010,2010,6,1,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,382100,Prepared culture media for developing micro-organisms,8,Weight in kilograms,21,,,,21,,879,,,6
+H0,2010,2010,2010,6,1,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,382100,Prepared culture media for developing micro-organisms,8,Weight in kilograms,21,,,,21,,879,,,6
+H0,2010,2010,2010,6,1,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,48,,,,48,,5852,,,6
+H0,2010,2010,2010,6,1,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,48,,,,48,,5852,,,6
+H0,2010,2010,2010,6,1,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,76,,,,76,,617,,,6
+H0,2010,2010,2010,6,1,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,76,,,,76,,617,,,6
+H0,2010,2010,2010,4,0,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,5603,Nonwovens textiles except felt,8,Weight in kilograms,51,,,,51,,261,,,6
+H0,2010,2010,2010,4,0,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,5603,Nonwovens textiles except felt,8,Weight in kilograms,51,,,,51,,261,,,6
+H0,2010,2010,2010,4,0,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,956,,,,956,,52561,,,6
+H0,2010,2010,2010,4,0,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,956,,,,956,,52561,,,6
+H0,2010,2010,2010,6,1,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,956,,,,956,,52561,,,6
+H0,2010,2010,2010,6,1,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,956,,,,956,,52561,,,6
+H0,2011,2011,2011,6,1,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,36,,,,36,,4399,,,6
+H0,2011,2011,2011,6,1,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,36,,,,36,,4399,,,6
+H0,2011,2011,2011,6,1,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,17,,,,17,,144,,,6
+H0,2011,2011,2011,6,1,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,17,,,,17,,144,,,6
+H0,2011,2011,2011,4,0,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,19,,,,19,,897,,,6
+H0,2011,2011,2011,4,0,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,19,,,,19,,897,,,6
+H0,2011,2011,2011,6,1,1,Import,184,Cook Isds,COK,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,19,,,,19,,897,,,6
+H0,2011,2011,2011,6,1,1,Import,184,Cook Isds,COK,554,New Zealand,NZL,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,19,,,,19,,897,,,6

@@ -1,0 +1,105 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1994,1994,1994,6,1,1,Import,254,French Guiana,GUF,0,World,WLD,,,,,,,,280440,Oxygen,8,Weight in kilograms,213023,,,,213023,,401854,,,0
+H0,1994,1994,1994,6,1,2,Export,254,French Guiana,GUF,0,World,WLD,,,,,,,,280440,Oxygen,8,Weight in kilograms,12812,,,,12812,,16986,,,0
+H0,1994,1994,1994,6,1,2,Export,254,French Guiana,GUF,312,Guadeloupe,GLP,,,,,,,,280440,Oxygen,8,Weight in kilograms,12812,,,,12812,,16986,,,0
+H0,1994,1994,1994,6,1,1,Import,254,French Guiana,GUF,842,USA,USA,,,,,,,,280440,Oxygen,8,Weight in kilograms,213023,,,,213023,,401854,,,0
+H0,1995,1995,1995,6,1,1,Import,254,French Guiana,GUF,0,World,WLD,,,,,,,,280440,Oxygen,8,Weight in kilograms,291964,,,,291964,,608261,,,0
+H0,1995,1995,1995,6,1,2,Export,254,French Guiana,GUF,0,World,WLD,,,,,,,,280440,Oxygen,8,Weight in kilograms,28601,,,,28601,,27492,,,0
+H0,1995,1995,1995,6,1,1,Import,254,French Guiana,GUF,251,France,FRA,,,,,,,,280440,Oxygen,8,Weight in kilograms,214,,,,214,,4904,,,0
+H0,1995,1995,1995,6,1,2,Export,254,French Guiana,GUF,312,Guadeloupe,GLP,,,,,,,,280440,Oxygen,8,Weight in kilograms,28601,,,,28601,,27492,,,0
+H0,1995,1995,1995,6,1,1,Import,254,French Guiana,GUF,842,USA,USA,,,,,,,,280440,Oxygen,8,Weight in kilograms,291750,,,,291750,,603357,,,0
+H0,1994,1994,1994,6,1,1,Import,254,French Guiana,GUF,0,World,WLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,2604,,,,2604,,1016197,,,0
+H0,1994,1994,1994,6,1,1,Import,254,French Guiana,GUF,58,Belgium-Luxembourg,BEL,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,21,,,,21,,26131,,,0
+H0,1994,1994,1994,6,1,1,Import,254,French Guiana,GUF,251,France,FRA,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,2328,,,,2328,,896169,,,0
+H0,1994,1994,1994,6,1,1,Import,254,French Guiana,GUF,899,"Areas, nes",,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,255,,,,255,,93897,,,0
+H0,1995,1995,1995,6,1,1,Import,254,French Guiana,GUF,0,World,WLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,4173,,,,4173,,1847032,,,0
+H0,1995,1995,1995,6,1,1,Import,254,French Guiana,GUF,58,Belgium-Luxembourg,BEL,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,8,,,,8,,4878,,,0
+H0,1995,1995,1995,6,1,1,Import,254,French Guiana,GUF,251,France,FRA,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,2710,,,,2710,,1031862,,,0
+H0,1995,1995,1995,6,1,1,Import,254,French Guiana,GUF,842,USA,USA,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,82,,,,82,,11399,,,0
+H0,1995,1995,1995,6,1,1,Import,254,French Guiana,GUF,899,"Areas, nes",,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,1373,,,,1373,,798893,,,0
+H0,1994,1994,1994,6,1,1,Import,254,French Guiana,GUF,0,World,WLD,,,,,,,,382100,Prepared culture media for developing micro-organisms,8,Weight in kilograms,1589,,,,1589,,78008,,,0
+H0,1994,1994,1994,6,1,1,Import,254,French Guiana,GUF,251,France,FRA,,,,,,,,382100,Prepared culture media for developing micro-organisms,8,Weight in kilograms,1562,,,,1562,,73780,,,0
+H0,1994,1994,1994,6,1,1,Import,254,French Guiana,GUF,842,USA,USA,,,,,,,,382100,Prepared culture media for developing micro-organisms,8,Weight in kilograms,23,,,,23,,2838,,,0
+H0,1994,1994,1994,6,1,1,Import,254,French Guiana,GUF,899,"Areas, nes",,,,,,,,,382100,Prepared culture media for developing micro-organisms,8,Weight in kilograms,4,,,,4,,1390,,,0
+H0,1995,1995,1995,6,1,1,Import,254,French Guiana,GUF,0,World,WLD,,,,,,,,382100,Prepared culture media for developing micro-organisms,8,Weight in kilograms,226,,,,226,,10728,,,0
+H0,1995,1995,1995,6,1,1,Import,254,French Guiana,GUF,251,France,FRA,,,,,,,,382100,Prepared culture media for developing micro-organisms,8,Weight in kilograms,226,,,,226,,10728,,,0
+H0,1994,1994,1994,6,1,1,Import,254,French Guiana,GUF,0,World,WLD,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,17237,,,,17237,,861813,,,0
+H0,1994,1994,1994,6,1,1,Import,254,French Guiana,GUF,251,France,FRA,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,15125,,,,15125,,769090,,,0
+H0,1994,1994,1994,6,1,1,Import,254,French Guiana,GUF,276,Germany,DEU,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,19,,,,19,,14055,,,0
+H0,1994,1994,1994,6,1,1,Import,254,French Guiana,GUF,757,Switzerland,CHE,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,109,,,,109,,36589,,,0
+H0,1994,1994,1994,6,1,1,Import,254,French Guiana,GUF,826,United Kingdom,GBR,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,66,,,,66,,8640,,,0
+H0,1994,1994,1994,6,1,1,Import,254,French Guiana,GUF,842,USA,USA,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,1875,,,,1875,,19035,,,0
+H0,1994,1994,1994,6,1,1,Import,254,French Guiana,GUF,899,"Areas, nes",,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,43,,,,43,,14404,,,0
+H0,1995,1995,1995,6,1,1,Import,254,French Guiana,GUF,0,World,WLD,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,20560,,,,20560,,1088246,,,0
+H0,1995,1995,1995,6,1,1,Import,254,French Guiana,GUF,251,France,FRA,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,19929,,,,19929,,960729,,,0
+H0,1995,1995,1995,6,1,1,Import,254,French Guiana,GUF,276,Germany,DEU,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,74,,,,74,,23225,,,0
+H0,1995,1995,1995,6,1,1,Import,254,French Guiana,GUF,757,Switzerland,CHE,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,82,,,,82,,31480,,,0
+H0,1995,1995,1995,6,1,1,Import,254,French Guiana,GUF,842,USA,USA,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,304,,,,304,,37827,,,0
+H0,1995,1995,1995,6,1,1,Import,254,French Guiana,GUF,899,"Areas, nes",,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,171,,,,171,,34985,,,0
+H0,1994,1994,1994,6,1,1,Import,254,French Guiana,GUF,0,World,WLD,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,4839,,,,4839,,42457,,,0
+H0,1994,1994,1994,6,1,1,Import,254,French Guiana,GUF,251,France,FRA,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,3875,,,,3875,,31298,,,0
+H0,1994,1994,1994,6,1,1,Import,254,French Guiana,GUF,276,Germany,DEU,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,343,,,,343,,4057,,,0
+H0,1994,1994,1994,6,1,1,Import,254,French Guiana,GUF,458,Malaysia,MYS,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,621,,,,621,,7102,,,0
+H0,1995,1995,1995,6,1,1,Import,254,French Guiana,GUF,0,World,WLD,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,4632,,,,4632,,48734,,,0
+H0,1995,1995,1995,6,1,1,Import,254,French Guiana,GUF,251,France,FRA,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,4562,,,,4562,,47729,,,0
+H0,1995,1995,1995,6,1,1,Import,254,French Guiana,GUF,458,Malaysia,MYS,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,70,,,,70,,1005,,,0
+H0,1994,1994,1994,6,1,1,Import,254,French Guiana,GUF,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,1125,,,,1125,,10603,,,0
+H0,1994,1994,1994,6,1,1,Import,254,French Guiana,GUF,251,France,FRA,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,1125,,,,1125,,10603,,,0
+H0,1995,1995,1995,6,1,1,Import,254,French Guiana,GUF,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,20,,,,20,,729,,,0
+H0,1995,1995,1995,6,1,1,Import,254,French Guiana,GUF,251,France,FRA,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,20,,,,20,,729,,,0
+H0,1994,1994,1994,4,0,1,Import,254,French Guiana,GUF,0,World,WLD,,,,,,,,5603,Nonwovens textiles except felt,8,Weight in kilograms,2101,,,,2101,,10844,,,0
+H0,1994,1994,1994,4,0,1,Import,254,French Guiana,GUF,251,France,FRA,,,,,,,,5603,Nonwovens textiles except felt,8,Weight in kilograms,1625,,,,1625,,8360,,,0
+H0,1994,1994,1994,4,0,1,Import,254,French Guiana,GUF,381,Italy,ITA,,,,,,,,5603,Nonwovens textiles except felt,8,Weight in kilograms,476,,,,476,,2484,,,0
+H0,1995,1995,1995,4,0,1,Import,254,French Guiana,GUF,0,World,WLD,,,,,,,,5603,Nonwovens textiles except felt,8,Weight in kilograms,6625,,,,6625,,55155,,,0
+H0,1995,1995,1995,4,0,1,Import,254,French Guiana,GUF,251,France,FRA,,,,,,,,5603,Nonwovens textiles except felt,8,Weight in kilograms,6625,,,,6625,,55155,,,0
+H0,1994,1994,1994,6,1,1,Import,254,French Guiana,GUF,0,World,WLD,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,6562,,,,6562,,238724,,,0
+H0,1994,1994,1994,6,1,1,Import,254,French Guiana,GUF,251,France,FRA,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,6562,,,,6562,,238724,,,0
+H0,1995,1995,1995,6,1,1,Import,254,French Guiana,GUF,0,World,WLD,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,1625,,,,1625,,36326,,,0
+H0,1995,1995,1995,6,1,1,Import,254,French Guiana,GUF,251,France,FRA,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,1625,,,,1625,,36326,,,0
+H0,1994,1994,1994,6,1,1,Import,254,French Guiana,GUF,0,World,WLD,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",8,Weight in kilograms,625,,,,625,,44701,,,0
+H0,1994,1994,1994,6,1,1,Import,254,French Guiana,GUF,251,France,FRA,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",8,Weight in kilograms,625,,,,625,,44701,,,0
+H0,1995,1995,1995,6,1,1,Import,254,French Guiana,GUF,0,World,WLD,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",8,Weight in kilograms,721,,,,721,,45696,,,0
+H0,1995,1995,1995,6,1,1,Import,254,French Guiana,GUF,251,France,FRA,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",8,Weight in kilograms,679,,,,679,,43733,,,0
+H0,1995,1995,1995,6,1,1,Import,254,French Guiana,GUF,276,Germany,DEU,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",8,Weight in kilograms,42,,,,42,,1963,,,0
+H0,1994,1994,1994,6,1,1,Import,254,French Guiana,GUF,0,World,WLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",8,Weight in kilograms,234,,,,234,,12738,,,0
+H0,1994,1994,1994,6,1,1,Import,254,French Guiana,GUF,251,France,FRA,,,,,,,,900490,"Spectacles, goggles except sunglasses",8,Weight in kilograms,234,,,,234,,12738,,,0
+H0,1995,1995,1995,6,1,1,Import,254,French Guiana,GUF,0,World,WLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",8,Weight in kilograms,414,,,,414,,13764,,,0
+H0,1995,1995,1995,6,1,1,Import,254,French Guiana,GUF,36,Australia,AUS,,,,,,,,900490,"Spectacles, goggles except sunglasses",8,Weight in kilograms,28,,,,28,,2439,,,0
+H0,1995,1995,1995,6,1,1,Import,254,French Guiana,GUF,251,France,FRA,,,,,,,,900490,"Spectacles, goggles except sunglasses",8,Weight in kilograms,324,,,,324,,8946,,,0
+H0,1995,1995,1995,6,1,1,Import,254,French Guiana,GUF,842,USA,USA,,,,,,,,900490,"Spectacles, goggles except sunglasses",8,Weight in kilograms,62,,,,62,,2379,,,0
+H0,1994,1994,1994,6,1,1,Import,254,French Guiana,GUF,0,World,WLD,,,,,,,,901920,Therapeutic respiration apparatus,8,Weight in kilograms,773,,,,773,,54936,,,0
+H0,1994,1994,1994,6,1,1,Import,254,French Guiana,GUF,251,France,FRA,,,,,,,,901920,Therapeutic respiration apparatus,8,Weight in kilograms,773,,,,773,,54936,,,0
+H0,1995,1995,1995,6,1,1,Import,254,French Guiana,GUF,0,World,WLD,,,,,,,,901920,Therapeutic respiration apparatus,8,Weight in kilograms,25,,,,25,,6226,,,0
+H0,1995,1995,1995,6,1,1,Import,254,French Guiana,GUF,251,France,FRA,,,,,,,,901920,Therapeutic respiration apparatus,8,Weight in kilograms,25,,,,25,,6226,,,0
+H0,1994,1994,1994,4,0,1,Import,254,French Guiana,GUF,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,1572,,,,1572,,751275,,,0
+H0,1994,1994,1994,4,0,2,Export,254,French Guiana,GUF,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,1125,,,,1125,,75346,,,0
+H0,1994,1994,1994,4,0,1,Import,254,French Guiana,GUF,251,France,FRA,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,1562,,,,1562,,750393,,,0
+H0,1994,1994,1994,4,0,2,Export,254,French Guiana,GUF,251,France,FRA,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,1125,,,,1125,,75346,,,0
+H0,1994,1994,1994,4,0,1,Import,254,French Guiana,GUF,392,Japan,JPN,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,10,,,,10,,882,,,0
+H0,1995,1995,1995,4,0,1,Import,254,French Guiana,GUF,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,1937,,,,1937,,127849,,,0
+H0,1995,1995,1995,4,0,2,Export,254,French Guiana,GUF,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,1875,,,,1875,,129575,,,0
+H0,1995,1995,1995,4,0,1,Import,254,French Guiana,GUF,251,France,FRA,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,1937,,,,1937,,127849,,,0
+H0,1995,1995,1995,4,0,2,Export,254,French Guiana,GUF,251,France,FRA,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,1875,,,,1875,,129575,,,0
+H0,1994,1994,1994,6,1,1,Import,254,French Guiana,GUF,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,1572,,,,1572,,751275,,,0
+H0,1994,1994,1994,6,1,2,Export,254,French Guiana,GUF,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,1125,,,,1125,,75346,,,0
+H0,1994,1994,1994,6,1,1,Import,254,French Guiana,GUF,251,France,FRA,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,1562,,,,1562,,750393,,,0
+H0,1994,1994,1994,6,1,2,Export,254,French Guiana,GUF,251,France,FRA,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,1125,,,,1125,,75346,,,0
+H0,1994,1994,1994,6,1,1,Import,254,French Guiana,GUF,392,Japan,JPN,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,10,,,,10,,882,,,0
+H0,1995,1995,1995,6,1,1,Import,254,French Guiana,GUF,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,1937,,,,1937,,127849,,,0
+H0,1995,1995,1995,6,1,2,Export,254,French Guiana,GUF,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,1875,,,,1875,,129575,,,0
+H0,1995,1995,1995,6,1,1,Import,254,French Guiana,GUF,251,France,FRA,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,1937,,,,1937,,127849,,,0
+H0,1995,1995,1995,6,1,2,Export,254,French Guiana,GUF,251,France,FRA,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,1875,,,,1875,,129575,,,0
+H0,1994,1994,1994,6,1,1,Import,254,French Guiana,GUF,0,World,WLD,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",8,Weight in kilograms,2408,,,,2408,,164827,,,0
+H0,1994,1994,1994,6,1,2,Export,254,French Guiana,GUF,0,World,WLD,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",8,Weight in kilograms,85,,,,85,,22350,,,0
+H0,1994,1994,1994,6,1,1,Import,254,French Guiana,GUF,251,France,FRA,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",8,Weight in kilograms,2312,,,,2312,,132784,,,0
+H0,1994,1994,1994,6,1,2,Export,254,French Guiana,GUF,251,France,FRA,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",8,Weight in kilograms,85,,,,85,,22350,,,0
+H0,1994,1994,1994,6,1,1,Import,254,French Guiana,GUF,276,Germany,DEU,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",8,Weight in kilograms,2,,,,2,,2436,,,0
+H0,1994,1994,1994,6,1,1,Import,254,French Guiana,GUF,842,USA,USA,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",8,Weight in kilograms,20,,,,20,,21297,,,0
+H0,1994,1994,1994,6,1,1,Import,254,French Guiana,GUF,899,"Areas, nes",,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",8,Weight in kilograms,74,,,,74,,8310,,,0
+H0,1995,1995,1995,6,1,1,Import,254,French Guiana,GUF,0,World,WLD,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",8,Weight in kilograms,2733,,,,2733,,337945,,,0
+H0,1995,1995,1995,6,1,2,Export,254,French Guiana,GUF,0,World,WLD,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",8,Weight in kilograms,140,,,,140,,42643,,,0
+H0,1995,1995,1995,6,1,1,Import,254,French Guiana,GUF,40,Austria,AUT,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",8,Weight in kilograms,40,,,,40,,18466,,,0
+H0,1995,1995,1995,6,1,1,Import,254,French Guiana,GUF,251,France,FRA,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",8,Weight in kilograms,2625,,,,2625,,306405,,,0
+H0,1995,1995,1995,6,1,2,Export,254,French Guiana,GUF,251,France,FRA,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",8,Weight in kilograms,140,,,,140,,42643,,,0
+H0,1995,1995,1995,6,1,1,Import,254,French Guiana,GUF,842,USA,USA,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",8,Weight in kilograms,28,,,,28,,11299,,,0
+H0,1995,1995,1995,6,1,1,Import,254,French Guiana,GUF,899,"Areas, nes",,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",8,Weight in kilograms,40,,,,40,,1775,,,0

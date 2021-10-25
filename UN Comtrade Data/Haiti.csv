@@ -1,0 +1,29 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,1996,1996,1996,6,1,2,Export,332,Haiti,HTI,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,358818,,,,358818,,1488609,,,0
+H1,1996,1996,1996,6,1,2,Export,332,Haiti,HTI,372,Ireland,IRL,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,4375,,,,4375,,8422,,,0
+H1,1996,1996,1996,6,1,2,Export,332,Haiti,HTI,528,Netherlands,NLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,714,,,,714,,3674,,,0
+H1,1996,1996,1996,6,1,2,Export,332,Haiti,HTI,842,USA,USA,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,353312,,,,353312,,1476130,,,0
+H1,1996,1996,1996,6,1,2,Export,332,Haiti,HTI,899,"Areas, nes",,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,417,,,,417,,383,,,0
+H1,1997,1997,1997,6,1,2,Export,332,Haiti,HTI,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,365959,,,,365959,,2805275,,,0
+H1,1997,1997,1997,6,1,2,Export,332,Haiti,HTI,251,France,FRA,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,460,,,,460,,2847,,,0
+H1,1997,1997,1997,6,1,2,Export,332,Haiti,HTI,528,Netherlands,NLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,3812,,,,3812,,7446,,,0
+H1,1997,1997,1997,6,1,2,Export,332,Haiti,HTI,842,USA,USA,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,361687,,,,361687,,2794982,,,0
+H0,1990,1990,1990,6,1,2,Export,332,Haiti,HTI,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,1171937,,,,1171937,,6544957,,,0
+H0,1990,1990,1990,6,1,2,Export,332,Haiti,HTI,842,USA,USA,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,1171937,,,,1171937,,6544957,,,0
+H0,1991,1991,1991,6,1,2,Export,332,Haiti,HTI,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,1376249,,,,1376249,,9799488,,,0
+H0,1991,1991,1991,6,1,2,Export,332,Haiti,HTI,276,Germany,DEU,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,10562,,,,10562,,99820,,,0
+H0,1991,1991,1991,6,1,2,Export,332,Haiti,HTI,724,Spain,ESP,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,12562,,,,12562,,118738,,,0
+H0,1991,1991,1991,6,1,2,Export,332,Haiti,HTI,842,USA,USA,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,1353125,,,,1353125,,9580930,,,0
+H0,1992,1992,1992,6,1,2,Export,332,Haiti,HTI,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,217375,,,,217375,,1299929,,,0
+H0,1992,1992,1992,6,1,2,Export,332,Haiti,HTI,842,USA,USA,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,217375,,,,217375,,1299929,,,0
+H0,1993,1993,1993,6,1,2,Export,332,Haiti,HTI,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,298124,,,,298124,,1431948,,,0
+H0,1993,1993,1993,6,1,2,Export,332,Haiti,HTI,251,France,FRA,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,3000,,,,3000,,89666,,,0
+H0,1993,1993,1993,6,1,2,Export,332,Haiti,HTI,381,Italy,ITA,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,5937,,,,5937,,18269,,,0
+H0,1993,1993,1993,6,1,2,Export,332,Haiti,HTI,842,USA,USA,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,289187,,,,289187,,1324013,,,0
+H0,1994,1994,1994,6,1,2,Export,332,Haiti,HTI,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,144178,,,,144178,,729362,,,0
+H0,1994,1994,1994,6,1,2,Export,332,Haiti,HTI,842,USA,USA,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,144156,,,,144156,,729331,,,0
+H0,1994,1994,1994,6,1,2,Export,332,Haiti,HTI,899,"Areas, nes",,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,22,,,,22,,31,,,0
+H0,1995,1995,1995,6,1,2,Export,332,Haiti,HTI,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,213417,,,,213417,,827923,,,0
+H0,1995,1995,1995,6,1,2,Export,332,Haiti,HTI,372,Ireland,IRL,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,2000,,,,2000,,771,,,0
+H0,1995,1995,1995,6,1,2,Export,332,Haiti,HTI,826,United Kingdom,GBR,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,2375,,,,2375,,4996,,,0
+H0,1995,1995,1995,6,1,2,Export,332,Haiti,HTI,842,USA,USA,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,209042,,,,209042,,822156,,,0

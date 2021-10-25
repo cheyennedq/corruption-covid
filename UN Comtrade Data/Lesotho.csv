@@ -1,0 +1,804 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,280440,Oxygen,1,No Quantity,0,,,,87910,,37032,,,2
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,280440,Oxygen,1,No Quantity,0,,,,87910,,37032,,,2
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,16856,,,,16856,,1198030,,,6
+H5,2017,2017,2017,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,16,,,,16,,11,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,56,Belgium,BEL,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,1058,,,,1058,,173658,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,100,Bulgaria,BGR,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,56,,,,56,,4911,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,208,Denmark,DNK,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,3294,,,,3294,,535049,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,276,Germany,DEU,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,577,,,,577,,130115,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,360,Indonesia,IDN,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,813,,,,813,,56268,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,392,Japan,JPN,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,79,,,,79,,20650,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,699,India,IND,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,1811,,,,1811,,255523,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,9166,,,,9166,,21853,,,6
+H5,2017,2017,2017,6,1,2,Export,426,Lesotho,LSO,752,Sweden,SWE,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,16,,,,16,,11,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,11541,,,,11541,,26815,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,11284,,,,11284,,25540,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,826,United Kingdom,GBR,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,257,,,,257,,1274,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,382100,"Prepared culture media for the development or maintenance of micro-organisms (including viruses and the like) or of plant, human or animal cells",8,Weight in kilograms,31,,,,31,,2703,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,480,Mauritius,MUS,,,,,,,,382100,"Prepared culture media for the development or maintenance of micro-organisms (including viruses and the like) or of plant, human or animal cells",8,Weight in kilograms,17,,,,17,,1954,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,382100,"Prepared culture media for the development or maintenance of micro-organisms (including viruses and the like) or of plant, human or animal cells",8,Weight in kilograms,13,,,,13,,749,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,731764,,,,731764,,4079339,,,0
+H5,2017,2017,2017,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,20,,,,20,,6591,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,36,Australia,AUS,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,0,,,,0,,7,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,40,Austria,AUT,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,3,,,,3,,218,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,56,Belgium,BEL,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,3296,,,,3296,,47834,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,372,Ireland,IRL,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,1989,,,,1989,,224966,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,392,Japan,JPN,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,2728,,,,2728,,587662,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,410,Rep. of Korea,KOR,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,143,,,,143,,9787,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,458,Malaysia,MYS,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,11,,,,11,,3372,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,480,Mauritius,MUS,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,380,,,,380,,2604,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,490,"Other Asia, nes",,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,2184,,,,2184,,2095,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,528,Netherlands,NLD,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,1277,,,,1277,,128026,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,699,India,IND,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,113,,,,113,,2108,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,96310,,,,96310,,2981509,,,0
+H5,2017,2017,2017,6,1,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,10,,,,10,,8,,,0
+H5,2017,2017,2017,6,1,2,Export,426,Lesotho,LSO,716,Zimbabwe,ZWE,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,10,,,,10,,6583,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,764,Thailand,THA,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,623000,,,,623000,,37141,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,826,United Kingdom,GBR,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,9,,,,9,,464,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,842,USA,USA,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,316,,,,316,,51539,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,54200,,,,54200,,518665,,,6
+H5,2017,2017,2017,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,184,,,,184,,886,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,40,Austria,AUT,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,1189,,,,1189,,1002,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,56,Belgium,BEL,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,380,,,,380,,5160,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,210,,,,210,,922,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,458,Malaysia,MYS,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,14066,,,,14066,,88493,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,9175,,,,9175,,311881,,,0
+H5,2017,2017,2017,6,1,2,Export,426,Lesotho,LSO,748,Eswatini,SWZ,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,184,,,,184,,886,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,764,Thailand,THA,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,27588,,,,27588,,109537,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,842,USA,USA,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,1591,,,,1591,,1666,,,6
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,481850,"Paper articles; apparel and clothing accessories of paper, cellulose wadding or fibres",8,Weight in kilograms,24287,,,,24287,,111063,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,481850,"Paper articles; apparel and clothing accessories of paper, cellulose wadding or fibres",8,Weight in kilograms,405,,,,405,,974,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,490,"Other Asia, nes",,,,,,,,,481850,"Paper articles; apparel and clothing accessories of paper, cellulose wadding or fibres",8,Weight in kilograms,4389,,,,4389,,22087,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,481850,"Paper articles; apparel and clothing accessories of paper, cellulose wadding or fibres",8,Weight in kilograms,19493,,,,19493,,88001,,,0
+H5,2017,2017,2017,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,5603,"Nonwovens; whether or not impregnated, coated, covered or laminated",8,Weight in kilograms,174476,,,,174476,,779301,,,6
+H5,2017,2017,2017,4,0,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,5603,"Nonwovens; whether or not impregnated, coated, covered or laminated",8,Weight in kilograms,23745,,,,23745,,140057,,,0
+H5,2017,2017,2017,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,5603,"Nonwovens; whether or not impregnated, coated, covered or laminated",8,Weight in kilograms,174465,,,,174465,,779197,,,6
+H5,2017,2017,2017,4,0,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,5603,"Nonwovens; whether or not impregnated, coated, covered or laminated",8,Weight in kilograms,23745,,,,23745,,140057,,,0
+H5,2017,2017,2017,4,0,1,Import,426,Lesotho,LSO,826,United Kingdom,GBR,,,,,,,,5603,"Nonwovens; whether or not impregnated, coated, covered or laminated",8,Weight in kilograms,8,,,,8,,53,,,0
+H5,2017,2017,2017,4,0,1,Import,426,Lesotho,LSO,842,USA,USA,,,,,,,,5603,"Nonwovens; whether or not impregnated, coated, covered or laminated",8,Weight in kilograms,2,,,,2,,50,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,18732,,,,18732,,63126,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,72,Botswana,BWA,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,140,,,,140,,449,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,7424,,,,7424,,58276,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,842,USA,USA,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,11167,,,,11167,,4399,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,841920,"Sterilizers; for medical, surgical or laboratory use, not used for domestic purposes",1,No Quantity,0,,,,13104,,63606,,,6
+H5,2017,2017,2017,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,841920,"Sterilizers; for medical, surgical or laboratory use, not used for domestic purposes",1,No Quantity,0,,,,6,,8179,,,2
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,841920,"Sterilizers; for medical, surgical or laboratory use, not used for domestic purposes",1,No Quantity,0,,,,148,,327,,,2
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,699,India,IND,,,,,,,,841920,"Sterilizers; for medical, surgical or laboratory use, not used for domestic purposes",1,No Quantity,0,,,,240,,13922,,,2
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,841920,"Sterilizers; for medical, surgical or laboratory use, not used for domestic purposes",1,No Quantity,0,,,,12716,,49357,,,6
+H5,2017,2017,2017,6,1,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,841920,"Sterilizers; for medical, surgical or laboratory use, not used for domestic purposes",1,No Quantity,0,,,,6,,8179,,,2
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,,,82066,,,6
+H5,2017,2017,2017,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,66,,3251,,,2
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,124,Canada,CAN,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,,,192,,,6
+H5,2017,2017,2017,6,1,2,Export,426,Lesotho,LSO,124,Canada,CAN,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,2,,30,,,2
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,53,,483,,,2
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,344,"China, Hong Kong SAR",HKG,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,32,,133,,,2
+H5,2017,2017,2017,6,1,2,Export,426,Lesotho,LSO,430,Liberia,LBR,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,1,,37,,,2
+H5,2017,2017,2017,6,1,2,Export,426,Lesotho,LSO,480,Mauritius,MUS,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,0,,93,,,2
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,490,"Other Asia, nes",,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,321,,293,,,2
+H5,2017,2017,2017,6,1,2,Export,426,Lesotho,LSO,516,Namibia,NAM,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,2,,37,,,2
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,15024,,80930,,,2
+H5,2017,2017,2017,6,1,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,60,,2712,,,2
+H5,2017,2017,2017,6,1,2,Export,426,Lesotho,LSO,716,Zimbabwe,ZWE,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,0,,339,,,2
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,842,USA,USA,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,1,,32,,,2
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,901920,"Therapeutic respiration apparatus; ozone, oxygen, aerosol therapy apparatus; artificial respiration or other therapeutic respiration apparatus",8,Weight in kilograms,1523,,,,1523,,110640,,,0
+H5,2017,2017,2017,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,901920,"Therapeutic respiration apparatus; ozone, oxygen, aerosol therapy apparatus; artificial respiration or other therapeutic respiration apparatus",8,Weight in kilograms,2018,,,,2018,,337,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,901920,"Therapeutic respiration apparatus; ozone, oxygen, aerosol therapy apparatus; artificial respiration or other therapeutic respiration apparatus",8,Weight in kilograms,1181,,,,1181,,110490,,,0
+H5,2017,2017,2017,6,1,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,901920,"Therapeutic respiration apparatus; ozone, oxygen, aerosol therapy apparatus; artificial respiration or other therapeutic respiration apparatus",8,Weight in kilograms,2018,,,,2018,,337,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,826,United Kingdom,GBR,,,,,,,,901920,"Therapeutic respiration apparatus; ozone, oxygen, aerosol therapy apparatus; artificial respiration or other therapeutic respiration apparatus",8,Weight in kilograms,1,,,,1,,69,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,842,USA,USA,,,,,,,,901920,"Therapeutic respiration apparatus; ozone, oxygen, aerosol therapy apparatus; artificial respiration or other therapeutic respiration apparatus",8,Weight in kilograms,340,,,,340,,79,,,0
+H5,2017,2017,2017,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,30217,,,,30217,,74186,,,0
+H5,2017,2017,2017,4,0,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,204,,,,204,,314,,,0
+H5,2017,2017,2017,4,0,1,Import,426,Lesotho,LSO,344,"China, Hong Kong SAR",HKG,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,350,,,,350,,14832,,,0
+H5,2017,2017,2017,4,0,1,Import,426,Lesotho,LSO,490,"Other Asia, nes",,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,692,,,,692,,8767,,,0
+H5,2017,2017,2017,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,28966,,,,28966,,49938,,,0
+H5,2017,2017,2017,4,0,1,Import,426,Lesotho,LSO,842,USA,USA,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,5,,,,5,,333,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,30217,,,,30217,,74186,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,204,,,,204,,314,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,344,"China, Hong Kong SAR",HKG,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,350,,,,350,,14832,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,490,"Other Asia, nes",,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,692,,,,692,,8767,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,28966,,,,28966,,49938,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,842,USA,USA,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,5,,,,5,,333,,,0
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,47230,,292933,,,2
+H5,2017,2017,2017,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,127,,39299,,,2
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,36,Australia,AUS,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,0,,2926,,,2
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,40,Austria,AUT,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,1586,,16729,,,2
+H5,2017,2017,2017,6,1,2,Export,426,Lesotho,LSO,120,Cameroon,CMR,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,9,,440,,,2
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,16,,1026,,,2
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,276,Germany,DEU,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,137,,3717,,,2
+H5,2017,2017,2017,6,1,2,Export,426,Lesotho,LSO,384,Côte d'Ivoire,CIV,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,3,,30069,,,2
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,480,Mauritius,MUS,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,0,,271,,,2
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,490,"Other Asia, nes",,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,3,,160,,,2
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,45234,,241249,,,2
+H5,2017,2017,2017,6,1,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,115,,8789,,,2
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,826,United Kingdom,GBR,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,252,,26853,,,2
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,280440,Oxygen,12,Volume in cubic meters,21258,,,,22259,,3973,,,6
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,280440,Oxygen,12,Volume in cubic meters,21258,,,,22259,,3973,,,6
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,27,,,,27,,737729,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,56,Belgium,BEL,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,1,,,,1,,16850,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,208,Denmark,DNK,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,2,,,,2,,115084,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,251,France,FRA,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,1,,,,1,,17013,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,392,Japan,JPN,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,1,,,,1,,26929,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,1,,,,1,,3,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,528,Netherlands,NLD,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,1,,,,1,,133635,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,699,India,IND,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,4,,,,4,,94142,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,9,,,,9,,45416,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,842,USA,USA,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,7,,,,7,,288653,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,158,,,,158,,26223,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,158,,,,158,,26223,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,382100,"Prepared culture media for the development or maintenance of micro-organisms (including viruses and the like) or of plant, human or animal cells",8,Weight in kilograms,7,,,,7,,5679,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,276,Germany,DEU,,,,,,,,382100,"Prepared culture media for the development or maintenance of micro-organisms (including viruses and the like) or of plant, human or animal cells",8,Weight in kilograms,1,,,,1,,3127,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,382100,"Prepared culture media for the development or maintenance of micro-organisms (including viruses and the like) or of plant, human or animal cells",8,Weight in kilograms,6,,,,6,,2552,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,7215,,,,,,4794014,,,6
+H4,2015,2015,2015,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,1,,,,1,,2187,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,56,Belgium,BEL,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,8,,,,8,,643500,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,208,Denmark,DNK,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,2,,,,2,,246906,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,251,France,FRA,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,5,,,,5,,55336,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,276,Germany,DEU,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,1,,,,1,,5864,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,372,Ireland,IRL,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,1,,,,1,,35015,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,392,Japan,JPN,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,491,,,,,,326732,,,6
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,458,Malaysia,MYS,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,16,,,,16,,6109,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,490,"Other Asia, nes",,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,3438,,,,3438,,10025,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,699,India,IND,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,48,,,,48,,115993,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,2905,,,,2905,,3327648,,,0
+H4,2015,2015,2015,6,1,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,1,,,,1,,2187,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,842,USA,USA,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,300,,,,300,,20881,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,19588,,,,,,226261,,,6
+H4,2015,2015,2015,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,2,,,,2,,1097,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,1,,,,1,,45,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,372,Ireland,IRL,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,1,,,,1,,1208,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,686,Senegal,SEN,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,546,,,,,,3479,,,6
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,14534,,,,14534,,190250,,,6
+H4,2015,2015,2015,6,1,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,1,,,,1,,1051,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,748,Eswatini,SWZ,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,546,,,,,,3479,,,6
+H4,2015,2015,2015,6,1,2,Export,426,Lesotho,LSO,748,Eswatini,SWZ,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,1,,,,1,,46,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,757,Switzerland,CHE,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,1,,,,1,,12,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,764,Thailand,THA,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,3956,,,,,,25216,,,6
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,842,USA,USA,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,3,,,,3,,2567,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,481850,"Paper articles; apparel and clothing accessories of paper, cellulose wadding or fibres",8,Weight in kilograms,27276,,,,27276,,408079,,,6
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,481850,"Paper articles; apparel and clothing accessories of paper, cellulose wadding or fibres",8,Weight in kilograms,1,,,,1,,500,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,490,"Other Asia, nes",,,,,,,,,481850,"Paper articles; apparel and clothing accessories of paper, cellulose wadding or fibres",8,Weight in kilograms,1370,,,,1370,,43158,,,6
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,481850,"Paper articles; apparel and clothing accessories of paper, cellulose wadding or fibres",8,Weight in kilograms,25905,,,,25905,,364420,,,0
+H4,2015,2015,2015,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,5603,"Nonwovens; whether or not impregnated, coated, covered or laminated",8,Weight in kilograms,2042,,,,2042,,701333,,,6
+H4,2015,2015,2015,4,0,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,5603,"Nonwovens; whether or not impregnated, coated, covered or laminated",8,Weight in kilograms,43,,,,43,,42363,,,0
+H4,2015,2015,2015,4,0,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,5603,"Nonwovens; whether or not impregnated, coated, covered or laminated",8,Weight in kilograms,1,,,,1,,718,,,0
+H4,2015,2015,2015,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,5603,"Nonwovens; whether or not impregnated, coated, covered or laminated",8,Weight in kilograms,2041,,,,2041,,700615,,,6
+H4,2015,2015,2015,4,0,2,Export,426,Lesotho,LSO,899,"Areas, nes",,,,,,,,,5603,"Nonwovens; whether or not impregnated, coated, covered or laminated",8,Weight in kilograms,43,,,,43,,42363,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,53,,,,53,,21787,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,72,Botswana,BWA,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,1,,,,1,,32,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,1,,,,1,,797,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,38,,,,38,,19524,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,842,USA,USA,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,13,,,,13,,1432,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,841920,"Sterilizers; for medical, surgical or laboratory use, not used for domestic purposes",1,No Quantity,0,,,,1115,,91364,,,6
+H4,2015,2015,2015,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,841920,"Sterilizers; for medical, surgical or laboratory use, not used for domestic purposes",1,No Quantity,0,,,,2,,289,,,2
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,841920,"Sterilizers; for medical, surgical or laboratory use, not used for domestic purposes",1,No Quantity,0,,,,979,,58605,,,6
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,841920,"Sterilizers; for medical, surgical or laboratory use, not used for domestic purposes",1,No Quantity,0,,,,135,,32758,,,2
+H4,2015,2015,2015,6,1,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,841920,"Sterilizers; for medical, surgical or laboratory use, not used for domestic purposes",1,No Quantity,0,,,,1,,217,,,2
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,842,USA,USA,,,,,,,,841920,"Sterilizers; for medical, surgical or laboratory use, not used for domestic purposes",1,No Quantity,0,,,,1,,0,,,2
+H4,2015,2015,2015,6,1,2,Export,426,Lesotho,LSO,899,"Areas, nes",,,,,,,,,841920,"Sterilizers; for medical, surgical or laboratory use, not used for domestic purposes",1,No Quantity,0,,,,1,,71,,,2
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,516,,30262,,,2
+H4,2015,2015,2015,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,24,,524,,,2
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,3,,1306,,,2
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,344,"China, Hong Kong SAR",HKG,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,1,,21,,,2
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,490,"Other Asia, nes",,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,5,,163,,,2
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,506,,28717,,,2
+H4,2015,2015,2015,6,1,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,18,,367,,,2
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,842,USA,USA,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,1,,53,,,2
+H4,2015,2015,2015,6,1,2,Export,426,Lesotho,LSO,899,"Areas, nes",,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,6,,157,,,2
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,901920,"Therapeutic respiration apparatus; ozone, oxygen, aerosol therapy apparatus; artificial respiration or other therapeutic respiration apparatus",8,Weight in kilograms,8,,,,8,,1134,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,901920,"Therapeutic respiration apparatus; ozone, oxygen, aerosol therapy apparatus; artificial respiration or other therapeutic respiration apparatus",8,Weight in kilograms,1,,,,1,,336,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,344,"China, Hong Kong SAR",HKG,,,,,,,,901920,"Therapeutic respiration apparatus; ozone, oxygen, aerosol therapy apparatus; artificial respiration or other therapeutic respiration apparatus",8,Weight in kilograms,1,,,,1,,186,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,901920,"Therapeutic respiration apparatus; ozone, oxygen, aerosol therapy apparatus; artificial respiration or other therapeutic respiration apparatus",8,Weight in kilograms,3,,,,3,,137,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,842,USA,USA,,,,,,,,901920,"Therapeutic respiration apparatus; ozone, oxygen, aerosol therapy apparatus; artificial respiration or other therapeutic respiration apparatus",8,Weight in kilograms,3,,,,3,,474,,,0
+H4,2015,2015,2015,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,399,,,,399,,70580,,,0
+H4,2015,2015,2015,4,0,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,1,,,,1,,6,,,0
+H4,2015,2015,2015,4,0,1,Import,426,Lesotho,LSO,344,"China, Hong Kong SAR",HKG,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,6,,,,6,,20571,,,0
+H4,2015,2015,2015,4,0,1,Import,426,Lesotho,LSO,404,Kenya,KEN,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,1,,,,1,,126,,,0
+H4,2015,2015,2015,4,0,1,Import,426,Lesotho,LSO,490,"Other Asia, nes",,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,6,,,,6,,7211,,,0
+H4,2015,2015,2015,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,386,,,,386,,42671,,,0
+H4,2015,2015,2015,4,0,2,Export,426,Lesotho,LSO,899,"Areas, nes",,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,1,,,,1,,6,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,399,,,,399,,70580,,,0
+H4,2015,2015,2015,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,1,,,,1,,6,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,344,"China, Hong Kong SAR",HKG,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,6,,,,6,,20571,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,404,Kenya,KEN,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,1,,,,1,,126,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,490,"Other Asia, nes",,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,6,,,,6,,7211,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,386,,,,386,,42671,,,0
+H4,2015,2015,2015,6,1,2,Export,426,Lesotho,LSO,899,"Areas, nes",,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,1,,,,1,,6,,,0
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,44,,99121,,,2
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,36,Australia,AUS,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,17,,29838,,,2
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,251,France,FRA,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,1,,13381,,,2
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,490,"Other Asia, nes",,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,3,,2165,,,2
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,699,India,IND,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,1,,1034,,,2
+H4,2015,2015,2015,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,22,,52701,,,2
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,280440,Oxygen,12,Volume in cubic meters,143483,,,,79662,,21689,,,6
+H4,2016,2016,2016,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,280440,Oxygen,1,No Quantity,0,,,,19,,138,,,2
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,280440,Oxygen,12,Volume in cubic meters,143483,,,,79662,,21689,,,6
+H4,2016,2016,2016,6,1,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,280440,Oxygen,1,No Quantity,0,,,,19,,138,,,2
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,50694,,,,50694,,1490587,,,6
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,208,Denmark,DNK,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,436,,,,436,,74981,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,251,France,FRA,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,89,,,,89,,20093,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,8,,,,8,,4,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,528,Netherlands,NLD,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,1384,,,,1384,,157821,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,699,India,IND,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,4467,,,,4467,,796559,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,42134,,,,42134,,55660,,,6
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,842,USA,USA,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,2174,,,,2174,,385466,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,28229,,,,28229,,107734,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,208,Denmark,DNK,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,1112,,,,1112,,18550,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,24617,,,,24617,,48257,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,826,United Kingdom,GBR,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,2500,,,,2500,,40926,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,382100,"Prepared culture media for the development or maintenance of micro-organisms (including viruses and the like) or of plant, human or animal cells",8,Weight in kilograms,134,,,,134,,12495,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,276,Germany,DEU,,,,,,,,382100,"Prepared culture media for the development or maintenance of micro-organisms (including viruses and the like) or of plant, human or animal cells",8,Weight in kilograms,94,,,,94,,6943,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,480,Mauritius,MUS,,,,,,,,382100,"Prepared culture media for the development or maintenance of micro-organisms (including viruses and the like) or of plant, human or animal cells",8,Weight in kilograms,1,,,,1,,700,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,382100,"Prepared culture media for the development or maintenance of micro-organisms (including viruses and the like) or of plant, human or animal cells",8,Weight in kilograms,39,,,,39,,4851,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,151211,,,,151211,,7755118,,,0
+H4,2016,2016,2016,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,132,,,,132,,1230,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,40,Austria,AUT,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,53,,,,53,,5590,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,56,Belgium,BEL,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,7009,,,,7009,,622424,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,178,Congo,COG,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,253,,,,253,,4105,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,208,Denmark,DNK,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,498,,,,498,,121048,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,251,France,FRA,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,318,,,,318,,299265,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,276,Germany,DEU,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,262,,,,262,,76377,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,372,Ireland,IRL,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,426,,,,426,,93132,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,392,Japan,JPN,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,766,,,,766,,514505,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,458,Malaysia,MYS,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,283,,,,283,,4709,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,490,"Other Asia, nes",,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,3,,,,3,,21,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,528,Netherlands,NLD,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,182,,,,182,,12532,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,699,India,IND,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,49,,,,49,,134195,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,137913,,,,137913,,5789341,,,0
+H4,2016,2016,2016,6,1,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,132,,,,132,,1230,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,757,Switzerland,CHE,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,7,,,,7,,2136,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,826,United Kingdom,GBR,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,608,,,,608,,23810,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,842,USA,USA,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,2577,,,,2577,,51922,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,20013,,,,20013,,211781,,,0
+H4,2016,2016,2016,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,213,,,,213,,193,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,95,,,,95,,883,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,251,France,FRA,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,1,,,,1,,38,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,372,Ireland,IRL,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,20,,,,20,,1427,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,490,"Other Asia, nes",,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,190,,,,190,,1550,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,9479,,,,9479,,176297,,,0
+H4,2016,2016,2016,6,1,2,Export,426,Lesotho,LSO,748,Eswatini,SWZ,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,213,,,,213,,193,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,757,Switzerland,CHE,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,7,,,,7,,21,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,764,Thailand,THA,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,10049,,,,10049,,30302,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,842,USA,USA,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,170,,,,170,,1260,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,481850,"Paper articles; apparel and clothing accessories of paper, cellulose wadding or fibres",8,Weight in kilograms,44963,,,,44963,,90842,,,0
+H4,2016,2016,2016,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,481850,"Paper articles; apparel and clothing accessories of paper, cellulose wadding or fibres",8,Weight in kilograms,101,,,,101,,195,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,481850,"Paper articles; apparel and clothing accessories of paper, cellulose wadding or fibres",8,Weight in kilograms,7,,,,7,,144,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,490,"Other Asia, nes",,,,,,,,,481850,"Paper articles; apparel and clothing accessories of paper, cellulose wadding or fibres",8,Weight in kilograms,1539,,,,1539,,19311,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,481850,"Paper articles; apparel and clothing accessories of paper, cellulose wadding or fibres",8,Weight in kilograms,43417,,,,43417,,71386,,,0
+H4,2016,2016,2016,6,1,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,481850,"Paper articles; apparel and clothing accessories of paper, cellulose wadding or fibres",8,Weight in kilograms,101,,,,101,,195,,,0
+H4,2016,2016,2016,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,5603,"Nonwovens; whether or not impregnated, coated, covered or laminated",8,Weight in kilograms,127369,,,,127369,,771638,,,0
+H4,2016,2016,2016,4,0,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,5603,"Nonwovens; whether or not impregnated, coated, covered or laminated",8,Weight in kilograms,44715,,,,44715,,128827,,,0
+H4,2016,2016,2016,4,0,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,5603,"Nonwovens; whether or not impregnated, coated, covered or laminated",8,Weight in kilograms,1000,,,,1000,,1027,,,0
+H4,2016,2016,2016,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,5603,"Nonwovens; whether or not impregnated, coated, covered or laminated",8,Weight in kilograms,126369,,,,126369,,770611,,,0
+H4,2016,2016,2016,4,0,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,5603,"Nonwovens; whether or not impregnated, coated, covered or laminated",8,Weight in kilograms,44715,,,,44715,,128827,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,9472,,,,9472,,48530,,,0
+H4,2016,2016,2016,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,7,,,,7,,29,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,72,Botswana,BWA,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,10,,,,10,,39,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,6,,,,6,,885,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,9317,,,,9317,,47078,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,842,USA,USA,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,138,,,,138,,527,,,0
+H4,2016,2016,2016,6,1,2,Export,426,Lesotho,LSO,842,USA,USA,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,7,,,,7,,29,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,841920,"Sterilizers; for medical, surgical or laboratory use, not used for domestic purposes",1,No Quantity,0,,,,,,82075,,,6
+H4,2016,2016,2016,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,841920,"Sterilizers; for medical, surgical or laboratory use, not used for domestic purposes",1,No Quantity,0,,,,,,95,,,6
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,841920,"Sterilizers; for medical, surgical or laboratory use, not used for domestic purposes",1,No Quantity,0,,,,269,,67513,,,2
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,841920,"Sterilizers; for medical, surgical or laboratory use, not used for domestic purposes",1,No Quantity,0,,,,4896,,14561,,,2
+H4,2016,2016,2016,6,1,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,841920,"Sterilizers; for medical, surgical or laboratory use, not used for domestic purposes",1,No Quantity,0,,,,,,95,,,6
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,842,USA,USA,,,,,,,,841920,"Sterilizers; for medical, surgical or laboratory use, not used for domestic purposes",1,No Quantity,0,,,,,,1,,,6
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,10441,,80181,,,2
+H4,2016,2016,2016,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,64,,1519,,,2
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,100,Bulgaria,BGR,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,2,,208,,,2
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,131,,2111,,,2
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,344,"China, Hong Kong SAR",HKG,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,10,,47,,,2
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,490,"Other Asia, nes",,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,430,,353,,,2
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,9613,,75172,,,2
+H4,2016,2016,2016,6,1,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,64,,1485,,,2
+H4,2016,2016,2016,6,1,2,Export,426,Lesotho,LSO,716,Zimbabwe,ZWE,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,0,,34,,,2
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,842,USA,USA,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",1,No Quantity,0,,,,255,,2287,,,2
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,901920,"Therapeutic respiration apparatus; ozone, oxygen, aerosol therapy apparatus; artificial respiration or other therapeutic respiration apparatus",8,Weight in kilograms,889,,,,889,,9070,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,901920,"Therapeutic respiration apparatus; ozone, oxygen, aerosol therapy apparatus; artificial respiration or other therapeutic respiration apparatus",8,Weight in kilograms,804,,,,804,,9042,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,842,USA,USA,,,,,,,,901920,"Therapeutic respiration apparatus; ozone, oxygen, aerosol therapy apparatus; artificial respiration or other therapeutic respiration apparatus",8,Weight in kilograms,84,,,,84,,28,,,0
+H4,2016,2016,2016,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,1,No Quantity,0,,,,,,60133,,,6
+H4,2016,2016,2016,4,0,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,178,,,,178,,2328,,,0
+H4,2016,2016,2016,4,0,1,Import,426,Lesotho,LSO,344,"China, Hong Kong SAR",HKG,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,1350,,,,1350,,12801,,,0
+H4,2016,2016,2016,4,0,1,Import,426,Lesotho,LSO,404,Kenya,KEN,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,1,No Quantity,0,,,,,,111,,,6
+H4,2016,2016,2016,4,0,1,Import,426,Lesotho,LSO,490,"Other Asia, nes",,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,379,,,,379,,7671,,,0
+H4,2016,2016,2016,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,192179,,,,192179,,39548,,,6
+H4,2016,2016,2016,4,0,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,20,,,,20,,8,,,0
+H4,2016,2016,2016,4,0,2,Export,426,Lesotho,LSO,748,Eswatini,SWZ,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,158,,,,158,,2320,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,1,No Quantity,0,,,,,,60133,,,6
+H4,2016,2016,2016,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,178,,,,178,,2328,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,344,"China, Hong Kong SAR",HKG,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,1350,,,,1350,,12801,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,404,Kenya,KEN,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,1,No Quantity,0,,,,,,111,,,6
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,490,"Other Asia, nes",,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,379,,,,379,,7671,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,192179,,,,192179,,39548,,,6
+H4,2016,2016,2016,6,1,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,20,,,,20,,8,,,0
+H4,2016,2016,2016,6,1,2,Export,426,Lesotho,LSO,748,Eswatini,SWZ,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,158,,,,158,,2320,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,1959,,81954,,,6
+H4,2016,2016,2016,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,3626,,4879,,,2
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,36,Australia,AUS,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,6,,16202,,,2
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,40,Austria,AUT,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,209,,2747,,,2
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,30,,784,,,2
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,251,France,FRA,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,1,,15551,,,2
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,410,Rep. of Korea,KOR,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,79,,2887,,,2
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,490,"Other Asia, nes",,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,369,,2089,,,2
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,1024,,30892,,,6
+H4,2016,2016,2016,6,1,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,3626,,4879,,,2
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,826,United Kingdom,GBR,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,220,,10512,,,2
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,842,USA,USA,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",1,No Quantity,0,,,,20,,286,,,2
+H2,2011,2011,2011,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,280440,Oxygen,12,Volume in cubic meters,957411,,,,1110256,,200293,,,6
+H2,2011,2011,2011,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,280440,Oxygen,12,Volume in cubic meters,957411,,,,1110256,,200293,,,6
+H2,2011,2011,2011,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,12463,,,,12463,,5921747,,,6
+H2,2011,2011,2011,6,1,1,Import,426,Lesotho,LSO,251,France,FRA,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,18,,,,18,,8588,,,6
+H2,2011,2011,2011,6,1,1,Import,426,Lesotho,LSO,699,India,IND,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,213,,,,213,,101407,,,6
+H2,2011,2011,2011,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,87,,,,87,,41410,,,6
+H2,2011,2011,2011,6,1,1,Import,426,Lesotho,LSO,842,USA,USA,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,12144,,,,12144,,5770341,,,6
+H2,2011,2011,2011,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,7030,,,,7030,,855250,,,6
+H2,2011,2011,2011,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,7007,,,,7007,,852493,,,6
+H2,2011,2011,2011,6,1,1,Import,426,Lesotho,LSO,826,United Kingdom,GBR,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,23,,,,23,,2757,,,6
+H2,2011,2011,2011,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,56158,,,,56158,,348306,,,6
+H2,2011,2011,2011,6,1,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,1260,,,,1260,,7813,,,6
+H2,2011,2011,2011,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,54885,,,,54885,,340410,,,6
+H2,2011,2011,2011,6,1,1,Import,426,Lesotho,LSO,842,USA,USA,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,13,,,,13,,83,,,6
+H2,2011,2011,2011,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,1538,,,,1538,,12710,,,6
+H2,2011,2011,2011,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,1538,,,,1538,,12710,,,6
+H2,2011,2011,2011,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,5603,"Nonwovens, whether or not impregnated, coated, covered or laminated.",8,Weight in kilograms,94638,,,,94638,,506312,,,6
+H2,2011,2011,2011,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,5603,"Nonwovens, whether or not impregnated, coated, covered or laminated.",8,Weight in kilograms,94638,,,,94638,,506312,,,6
+H2,2011,2011,2011,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,26100,,,,26100,,273703,,,6
+H2,2011,2011,2011,6,1,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,21378,,,,21378,,224187,,,6
+H2,2011,2011,2011,6,1,1,Import,426,Lesotho,LSO,344,"China, Hong Kong SAR",HKG,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,590,,,,590,,6185,,,6
+H2,2011,2011,2011,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,4132,,,,4132,,43331,,,6
+H2,2011,2011,2011,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",1,No Quantity,,,,,277,,15886,,,4
+H2,2011,2011,2011,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",1,No Quantity,,,,,277,,15886,,,4
+H2,2011,2011,2011,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",1,No Quantity,,,,,3679,,143354,,,4
+H2,2011,2011,2011,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",1,No Quantity,,,,,3679,,143354,,,4
+H2,2011,2011,2011,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,901920,Ozone therapy/oxygen therapy/aerosol therapy/art. respiration/oth. therapeu ...,1,No Quantity,,,,,,,55935,,,0
+H2,2011,2011,2011,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,901920,Ozone therapy/oxygen therapy/aerosol therapy/art. respiration/oth. therapeu ...,1,No Quantity,,,,,,,55935,,,0
+H2,2011,2011,2011,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,1381,,,,1381,,65996,,,6
+H2,2011,2011,2011,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,1381,,,,1381,,65996,,,6
+H2,2011,2011,2011,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,1381,,,,1381,,65996,,,6
+H2,2011,2011,2011,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,1381,,,,1381,,65996,,,6
+H2,2011,2011,2011,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",1,No Quantity,,,,,66,,16764,,,4
+H2,2011,2011,2011,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",1,No Quantity,,,,,66,,16764,,,4
+H2,2012,2012,2012,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,280440,Oxygen,12,Volume in cubic meters,1869346,,,,2348250,,404310,,,6
+H2,2012,2012,2012,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,280440,Oxygen,12,Volume in cubic meters,1869346,,,,2348250,,404310,,,6
+H2,2012,2012,2012,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,300220,Vaccines for human medicine,1,No Quantity,,,,,,,4942619,,,0
+H2,2012,2012,2012,6,1,1,Import,426,Lesotho,LSO,528,Netherlands,NLD,,,,,,,,300220,Vaccines for human medicine,1,No Quantity,,,,,,,3316830,,,0
+H2,2012,2012,2012,6,1,1,Import,426,Lesotho,LSO,699,India,IND,,,,,,,,300220,Vaccines for human medicine,1,No Quantity,,,,,,,151002,,,0
+H2,2012,2012,2012,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,300220,Vaccines for human medicine,1,No Quantity,,,,,,,1474788,,,0
+H2,2012,2012,2012,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,382100,Prepared culture media for development of micro-organisms,8,Weight in kilograms,165,,,,165,,7552,,,6
+H2,2012,2012,2012,6,1,1,Import,426,Lesotho,LSO,276,Germany,DEU,,,,,,,,382100,Prepared culture media for development of micro-organisms,8,Weight in kilograms,26,,,,26,,1193,,,6
+H2,2012,2012,2012,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,382100,Prepared culture media for development of micro-organisms,8,Weight in kilograms,139,,,,139,,6359,,,6
+H2,2012,2012,2012,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,4389,,,,4389,,634852,,,6
+H2,2012,2012,2012,6,1,1,Import,426,Lesotho,LSO,251,France,FRA,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,132,,,,132,,19141,,,6
+H2,2012,2012,2012,6,1,1,Import,426,Lesotho,LSO,458,Malaysia,MYS,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,12,,,,12,,1801,,,6
+H2,2012,2012,2012,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,4182,,,,4182,,604917,,,6
+H2,2012,2012,2012,6,1,1,Import,426,Lesotho,LSO,842,USA,USA,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,62,,,,62,,8993,,,6
+H2,2012,2012,2012,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,50489,,,,50489,,385483,,,6
+H2,2012,2012,2012,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,50489,,,,50489,,385483,,,6
+H2,2012,2012,2012,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,61512,,,,61512,,531889,,,6
+H2,2012,2012,2012,6,1,1,Import,426,Lesotho,LSO,490,"Other Asia, nes",,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,1192,,,,1192,,10310,,,6
+H2,2012,2012,2012,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,60320,,,,60320,,521579,,,6
+H2,2012,2012,2012,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,5603,"Nonwovens, whether or not impregnated, coated, covered or laminated.",8,Weight in kilograms,22499,,,,22499,,140579,,,6
+H2,2012,2012,2012,4,0,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,5603,"Nonwovens, whether or not impregnated, coated, covered or laminated.",8,Weight in kilograms,1945,,,,1945,,12748,,,6
+H2,2012,2012,2012,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,5603,"Nonwovens, whether or not impregnated, coated, covered or laminated.",8,Weight in kilograms,22499,,,,22499,,140579,,,6
+H2,2012,2012,2012,4,0,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,5603,"Nonwovens, whether or not impregnated, coated, covered or laminated.",8,Weight in kilograms,1945,,,,1945,,12748,,,6
+H2,2012,2012,2012,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,28369,,,,28369,,299408,,,6
+H2,2012,2012,2012,6,1,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,6122,,,,6122,,64606,,,6
+H2,2012,2012,2012,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,22246,,,,22246,,234779,,,6
+H2,2012,2012,2012,6,1,1,Import,426,Lesotho,LSO,842,USA,USA,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,2,,,,2,,23,,,6
+H2,2012,2012,2012,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",1,No Quantity,,,,,293,,17853,,,4
+H2,2012,2012,2012,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",1,No Quantity,,,,,293,,17853,,,4
+H2,2012,2012,2012,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",1,No Quantity,,,,,918,,42914,,,4
+H2,2012,2012,2012,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",1,No Quantity,,,,,,,73,,,0
+H2,2012,2012,2012,6,1,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",1,No Quantity,,,,,6,,272,,,4
+H2,2012,2012,2012,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",1,No Quantity,,,,,913,,42642,,,4
+H2,2012,2012,2012,6,1,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",1,No Quantity,,,,,,,73,,,0
+H2,2012,2012,2012,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,901920,Ozone therapy/oxygen therapy/aerosol therapy/art. respiration/oth. therapeu ...,1,No Quantity,,,,,,,34157,,,0
+H2,2012,2012,2012,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,901920,Ozone therapy/oxygen therapy/aerosol therapy/art. respiration/oth. therapeu ...,1,No Quantity,,,,,,,34157,,,0
+H2,2012,2012,2012,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,1754,,,,1754,,108934,,,6
+H2,2012,2012,2012,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,1754,,,,1754,,108934,,,6
+H2,2012,2012,2012,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,1754,,,,1754,,108934,,,6
+H2,2012,2012,2012,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,1754,,,,1754,,108934,,,6
+H2,2012,2012,2012,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",1,No Quantity,,,,,3167,,941567,,,4
+H2,2012,2012,2012,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",1,No Quantity,,,,,3167,,941567,,,4
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,280440,Oxygen,12,Volume in cubic meters,246544,,,,346485,,65934,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,280440,Oxygen,12,Volume in cubic meters,246544,,,,346485,,65934,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,3021,,,,,,1535908,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,56,Belgium,BEL,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,3,,,,,,1893,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,124,Canada,CAN,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,6,,,,,,3214,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,208,Denmark,DNK,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,124,,,,,,63528,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,360,Indonesia,IDN,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,320,,,,,,162858,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,381,Italy,ITA,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,138,,,,,,70266,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,528,Netherlands,NLD,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,1712,,,,,,870476,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,699,India,IND,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,235,,,,,,119889,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,319,,,,,,162678,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,757,Switzerland,CHE,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,159,,,,,,81102,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,382100,Prepared culture media for development of micro-organisms,8,Weight in kilograms,2180,,,,2180,,90223,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,382100,Prepared culture media for development of micro-organisms,8,Weight in kilograms,776,,,,776,,32144,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,826,United Kingdom,GBR,,,,,,,,382100,Prepared culture media for development of micro-organisms,8,Weight in kilograms,1403,,,,1403,,58079,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,10412,,,,10412,,1497017,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,56,Belgium,BEL,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,183,,,,183,,26376,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,230,,,,230,,33170,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,251,France,FRA,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,1763,,,,1763,,253593,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,276,Germany,DEU,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,50,,,,50,,7258,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,392,Japan,JPN,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,612,,,,612,,88071,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,410,Rep. of Korea,KOR,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,45,,,,45,,6517,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,458,Malaysia,MYS,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,21,,,,21,,3123,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,490,"Other Asia, nes",,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,1,,,,1,,226,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,528,Netherlands,NLD,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,111,,,,111,,15988,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,6890,,,,6890,,990651,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,826,United Kingdom,GBR,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,240,,,,240,,34544,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,842,USA,USA,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,260,,,,260,,37496,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,16922,,,,16922,,128925,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,528,Netherlands,NLD,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,303,,,,303,,2312,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,16618,,,,16618,,126612,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,34807,,,,34807,,259919,,,6
+H2,2013,2013,2013,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,1193,,,,1193,,10112,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,190,,,,190,,1422,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,344,"China, Hong Kong SAR",HKG,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,34,,,,34,,254,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,490,"Other Asia, nes",,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,414,,,,414,,3097,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,34167,,,,34167,,255144,,,6
+H2,2013,2013,2013,6,1,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,1193,,,,1193,,10112,,,6
+H2,2013,2013,2013,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,5603,"Nonwovens, whether or not impregnated, coated, covered or laminated.",8,Weight in kilograms,18434,,,,18434,,97089,,,6
+H2,2013,2013,2013,4,0,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,5603,"Nonwovens, whether or not impregnated, coated, covered or laminated.",8,Weight in kilograms,4747,,,,4747,,30856,,,6
+H2,2013,2013,2013,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,5603,"Nonwovens, whether or not impregnated, coated, covered or laminated.",8,Weight in kilograms,18434,,,,18434,,97089,,,6
+H2,2013,2013,2013,4,0,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,5603,"Nonwovens, whether or not impregnated, coated, covered or laminated.",8,Weight in kilograms,4747,,,,4747,,30856,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,68033,,,,68033,,698616,,,6
+H2,2013,2013,2013,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,180,,,,,,3184,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,6013,,,,6013,,61750,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,344,"China, Hong Kong SAR",HKG,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,55410,,,,55410,,568993,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,6609,,,,6609,,67872,,,6
+H2,2013,2013,2013,6,1,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,180,,,,,,3184,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",1,No Quantity,0,,,,137,,8709,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",1,No Quantity,0,,,,39,,2515,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,344,"China, Hong Kong SAR",HKG,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",1,No Quantity,0,,,,8,,546,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,528,Netherlands,NLD,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",1,No Quantity,0,,,,1,,109,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",1,No Quantity,0,,,,87,,5538,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",1,No Quantity,0,,,,1677,,69862,,,6
+H2,2013,2013,2013,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",1,No Quantity,0,,,,6,,543,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",1,No Quantity,0,,,,1677,,69862,,,6
+H2,2013,2013,2013,6,1,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",1,No Quantity,0,,,,6,,543,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,901920,Ozone therapy/oxygen therapy/aerosol therapy/art. respiration/oth. therapeu ...,8,Weight in kilograms,69,,,,69,,6196,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,901920,Ozone therapy/oxygen therapy/aerosol therapy/art. respiration/oth. therapeu ...,8,Weight in kilograms,4,,,,4,,427,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,901920,Ozone therapy/oxygen therapy/aerosol therapy/art. respiration/oth. therapeu ...,8,Weight in kilograms,64,,,,64,,5769,,,6
+H2,2013,2013,2013,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,1903,,,,1903,,131495,,,6
+H2,2013,2013,2013,4,0,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,1,,,,1,,115,,,6
+H2,2013,2013,2013,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,1902,,,,1902,,131433,,,6
+H2,2013,2013,2013,4,0,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,1,,,,1,,115,,,6
+H2,2013,2013,2013,4,0,1,Import,426,Lesotho,LSO,842,USA,USA,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,0,,,,0,,61,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,1903,,,,1903,,131495,,,6
+H2,2013,2013,2013,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,1,,,,1,,115,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,1902,,,,1902,,131433,,,6
+H2,2013,2013,2013,6,1,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,1,,,,1,,115,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,842,USA,USA,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,0,,,,0,,61,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",1,No Quantity,0,,,,406,,113582,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",1,No Quantity,0,,,,169,,47378,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,752,Sweden,SWE,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",1,No Quantity,0,,,,215,,60255,,,6
+H2,2013,2013,2013,6,1,1,Import,426,Lesotho,LSO,826,United Kingdom,GBR,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",1,No Quantity,0,,,,21,,5947,,,6
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,280440,Oxygen,1,No Quantity,0,,,,116747,,21662,,,6
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,280440,Oxygen,1,No Quantity,0,,,,116747,,21662,,,6
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,3711,,,,3711,,211839,,,0
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,124,Canada,CAN,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,1,,,,1,,1578,,,0
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,208,Denmark,DNK,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,1,,,,1,,71210,,,0
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,360,Indonesia,IDN,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,301,,,,301,,67498,,,0
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,381,Italy,ITA,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,1,,,,1,,33248,,,0
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,528,Netherlands,NLD,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,1,,,,1,,11721,,,0
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,699,India,IND,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,138,,,,138,,15279,,,0
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,3268,,,,3268,,11302,,,0
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,382100,Prepared culture media for development of micro-organisms,8,Weight in kilograms,20,,,,20,,6605,,,0
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,382100,Prepared culture media for development of micro-organisms,8,Weight in kilograms,20,,,,20,,6605,,,0
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,106830,,,,106830,,682564,,,0
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,56,Belgium,BEL,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,252,,,,252,,16156,,,0
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,251,France,FRA,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,23,,,,23,,59334,,,0
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,392,Japan,JPN,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,187,,,,187,,4902,,,0
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,458,Malaysia,MYS,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,65,,,,65,,1154,,,0
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,699,India,IND,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,36,,,,36,,21056,,,0
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,106264,,,,106264,,574427,,,0
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,842,USA,USA,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,1,,,,1,,5483,,,0
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,894,Zambia,ZMB,,,,,,,,382200,"Diagnostic/laboratory reagents on a backing, prepd. diagnostic/laboratory r ...",8,Weight in kilograms,2,,,,2,,48,,,0
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,9855,,,,9855,,214090,,,6
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,528,Netherlands,NLD,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,2,,,,2,,2188,,,0
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,558,Nicaragua,NIC,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,139,,,,139,,2064,,,0
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,9714,,,,9714,,209837,,,6
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,13579,,,,13579,,133151,,,0
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,344,"China, Hong Kong SAR",HKG,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,1,,,,1,,32,,,0
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,13578,,,,13578,,133119,,,0
+H2,2014,2014,2014,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,5603,"Nonwovens, whether or not impregnated, coated, covered or laminated.",8,Weight in kilograms,17615,,,,17615,,163349,,,6
+H2,2014,2014,2014,4,0,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,5603,"Nonwovens, whether or not impregnated, coated, covered or laminated.",8,Weight in kilograms,292,,,,292,,2065,,,0
+H2,2014,2014,2014,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,5603,"Nonwovens, whether or not impregnated, coated, covered or laminated.",8,Weight in kilograms,17615,,,,17615,,163349,,,6
+H2,2014,2014,2014,4,0,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,5603,"Nonwovens, whether or not impregnated, coated, covered or laminated.",8,Weight in kilograms,292,,,,292,,2065,,,0
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,14067,,,,14067,,192378,,,6
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,344,"China, Hong Kong SAR",HKG,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,11620,,,,11620,,136895,,,6
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,621010,Garments made up of fabrics of 56.02/56.03,8,Weight in kilograms,2446,,,,2446,,55482,,,6
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",1,No Quantity,0,,,,39,,10476,,,2
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",1,No Quantity,0,,,,1,,2380,,,2
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",1,No Quantity,0,,,,38,,8096,,,2
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",1,No Quantity,0,,,,132,,107373,,,2
+H2,2014,2014,2014,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",1,No Quantity,0,,,,6,,141,,,2
+H2,2014,2014,2014,6,1,2,Export,426,Lesotho,LSO,426,Lesotho,LSO,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",1,No Quantity,0,,,,1,,24,,,2
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",1,No Quantity,0,,,,131,,107242,,,2
+H2,2014,2014,2014,6,1,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",1,No Quantity,0,,,,5,,117,,,2
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,724,Spain,ESP,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",1,No Quantity,0,,,,1,,131,,,2
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,901920,Ozone therapy/oxygen therapy/aerosol therapy/art. respiration/oth. therapeu ...,8,Weight in kilograms,1439,,,,1439,,15956,,,0
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,901920,Ozone therapy/oxygen therapy/aerosol therapy/art. respiration/oth. therapeu ...,8,Weight in kilograms,1439,,,,1439,,15956,,,0
+H2,2014,2014,2014,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,39015,,,,39015,,174918,,,0
+H2,2014,2014,2014,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,39015,,,,39015,,174918,,,0
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,39015,,,,39015,,174918,,,0
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,39015,,,,39015,,174918,,,0
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",1,No Quantity,0,,,,871,,195305,,,2
+H2,2014,2014,2014,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",1,No Quantity,0,,,,15,,2183,,,2
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,56,Belgium,BEL,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",1,No Quantity,0,,,,209,,7572,,,2
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,196,Cyprus,CYP,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",1,No Quantity,0,,,,1,,11507,,,2
+H2,2014,2014,2014,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",1,No Quantity,0,,,,661,,176225,,,2
+H2,2014,2014,2014,6,1,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",1,No Quantity,0,,,,15,,2183,,,2
+H1,2008,2008,2008,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,280440,Oxygen,1,No Quantity,,,,,,,113516,,,0
+H1,2008,2008,2008,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,280440,Oxygen,1,No Quantity,,,,,,,113516,,,0
+H1,2008,2008,2008,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,855,,,,855,,311940,,,6
+H1,2008,2008,2008,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,855,,,,855,,311940,,,6
+H1,2008,2008,2008,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,382100,Prepared culture media for developing micro-organisms,8,Weight in kilograms,72,,,,72,,2783,,,6
+H1,2008,2008,2008,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,382100,Prepared culture media for developing micro-organisms,8,Weight in kilograms,72,,,,72,,2783,,,6
+H1,2008,2008,2008,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,4676,,,,4676,,543253,,,6
+H1,2008,2008,2008,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,4676,,,,4676,,543253,,,6
+H1,2008,2008,2008,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,1724,,,,1724,,8455,,,6
+H1,2008,2008,2008,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,1724,,,,1724,,8455,,,6
+H1,2008,2008,2008,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,462,,,,462,,4004,,,6
+H1,2008,2008,2008,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,462,,,,462,,4004,,,6
+H1,2008,2008,2008,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,5603,Nonwovens textiles except felt,8,Weight in kilograms,9133,,,,9133,,45287,,,6
+H1,2008,2008,2008,4,0,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,5603,Nonwovens textiles except felt,8,Weight in kilograms,99,,,,99,,778,,,6
+H1,2008,2008,2008,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,5603,Nonwovens textiles except felt,8,Weight in kilograms,9133,,,,9133,,45287,,,6
+H1,2008,2008,2008,4,0,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,5603,Nonwovens textiles except felt,8,Weight in kilograms,99,,,,99,,778,,,6
+H1,2008,2008,2008,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,4038,,,,4038,,18642,,,6
+H1,2008,2008,2008,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,4038,,,,4038,,18642,,,6
+H1,2008,2008,2008,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",1,No Quantity,,,,,503,,26908,,,4
+H1,2008,2008,2008,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",1,No Quantity,,,,,503,,26908,,,4
+H1,2008,2008,2008,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",1,No Quantity,,,,,89,,3000,,,4
+H1,2008,2008,2008,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,900490,"Spectacles, goggles except sunglasses",1,No Quantity,,,,,89,,3000,,,4
+H1,2008,2008,2008,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,901920,Therapeutic respiration apparatus,8,Weight in kilograms,23,,,,23,,2044,,,6
+H1,2008,2008,2008,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,901920,Therapeutic respiration apparatus,8,Weight in kilograms,23,,,,23,,2044,,,6
+H1,2008,2008,2008,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,384,,,,384,,19578,,,6
+H1,2008,2008,2008,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,384,,,,384,,19578,,,6
+H1,2008,2008,2008,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,384,,,,384,,19578,,,6
+H1,2008,2008,2008,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,384,,,,384,,19578,,,6
+H1,2008,2008,2008,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",1,No Quantity,,,,,66,,17858,,,4
+H1,2008,2008,2008,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",1,No Quantity,,,,,66,,17858,,,4
+H1,2009,2009,2009,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,280440,Oxygen,1,No Quantity,,,,,,,304702,,,0
+H1,2009,2009,2009,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,280440,Oxygen,1,No Quantity,,,,,,,48,,,0
+H1,2009,2009,2009,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,280440,Oxygen,1,No Quantity,,,,,,,304702,,,0
+H1,2009,2009,2009,6,1,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,280440,Oxygen,1,No Quantity,,,,,,,48,,,0
+H1,2009,2009,2009,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,156,,,,156,,68232,,,6
+H1,2009,2009,2009,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,84,,,,84,,29617,,,6
+H1,2009,2009,2009,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,156,,,,156,,68232,,,6
+H1,2009,2009,2009,6,1,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,84,,,,84,,29617,,,6
+H1,2009,2009,2009,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,382100,Prepared culture media for developing micro-organisms,8,Weight in kilograms,16,,,,16,,716,,,6
+H1,2009,2009,2009,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,382100,Prepared culture media for developing micro-organisms,8,Weight in kilograms,16,,,,16,,716,,,6
+H1,2009,2009,2009,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,5579,,,,5579,,606945,,,6
+H1,2009,2009,2009,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,5579,,,,5579,,606945,,,6
+H1,2009,2009,2009,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,61,,,,61,,344,,,6
+H1,2009,2009,2009,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,61,,,,61,,344,,,6
+H1,2009,2009,2009,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,3721,,,,3721,,33258,,,6
+H1,2009,2009,2009,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,3721,,,,3721,,33258,,,6
+H1,2009,2009,2009,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,5603,Nonwovens textiles except felt,8,Weight in kilograms,14478,,,,14478,,68708,,,6
+H1,2009,2009,2009,4,0,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,5603,Nonwovens textiles except felt,8,Weight in kilograms,161,,,,161,,1144,,,6
+H1,2009,2009,2009,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,5603,Nonwovens textiles except felt,8,Weight in kilograms,14478,,,,14478,,68708,,,6
+H1,2009,2009,2009,4,0,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,5603,Nonwovens textiles except felt,8,Weight in kilograms,161,,,,161,,1144,,,6
+H1,2009,2009,2009,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,3152,,,,3152,,28593,,,6
+H1,2009,2009,2009,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,3152,,,,3152,,28593,,,6
+H1,2009,2009,2009,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",1,No Quantity,,,,,2072,,121190,,,4
+H1,2009,2009,2009,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",1,No Quantity,,,,,2072,,121190,,,4
+H1,2009,2009,2009,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",1,No Quantity,,,,,304,,12174,,,4
+H1,2009,2009,2009,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,900490,"Spectacles, goggles except sunglasses",1,No Quantity,,,,,304,,12174,,,4
+H1,2009,2009,2009,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,901920,Therapeutic respiration apparatus,8,Weight in kilograms,81,,,,81,,8014,,,6
+H1,2009,2009,2009,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,901920,Therapeutic respiration apparatus,8,Weight in kilograms,81,,,,81,,8014,,,6
+H1,2009,2009,2009,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,333,,,,333,,20392,,,6
+H1,2009,2009,2009,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,333,,,,333,,20392,,,6
+H1,2009,2009,2009,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,333,,,,333,,20392,,,6
+H1,2009,2009,2009,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,333,,,,333,,20392,,,6
+H1,2009,2009,2009,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",1,No Quantity,,,,,6,,1663,,,4
+H1,2009,2009,2009,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",1,No Quantity,,,,,6,,1663,,,4
+H1,2010,2010,2010,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,280440,Oxygen,1,No Quantity,,,,,,,113204,,,0
+H1,2010,2010,2010,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,280440,Oxygen,1,No Quantity,,,,,,,113204,,,0
+H1,2010,2010,2010,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,300220,"Vaccines, human use",1,No Quantity,,,,,,,550126,,,0
+H1,2010,2010,2010,6,1,1,Import,426,Lesotho,LSO,56,Belgium,BEL,,,,,,,,300220,"Vaccines, human use",1,No Quantity,,,,,,,60937,,,0
+H1,2010,2010,2010,6,1,1,Import,426,Lesotho,LSO,699,India,IND,,,,,,,,300220,"Vaccines, human use",1,No Quantity,,,,,,,11551,,,0
+H1,2010,2010,2010,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,300220,"Vaccines, human use",1,No Quantity,,,,,,,269777,,,0
+H1,2010,2010,2010,6,1,1,Import,426,Lesotho,LSO,757,Switzerland,CHE,,,,,,,,300220,"Vaccines, human use",1,No Quantity,,,,,,,207861,,,0
+H1,2010,2010,2010,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,382100,Prepared culture media for developing micro-organisms,8,Weight in kilograms,1,,,,1,,37,,,6
+H1,2010,2010,2010,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,382100,Prepared culture media for developing micro-organisms,8,Weight in kilograms,1,,,,1,,37,,,6
+H1,2010,2010,2010,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,4298,,,,4298,,527407,,,6
+H1,2010,2010,2010,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,5,,,,5,,439,,,6
+H1,2010,2010,2010,6,1,1,Import,426,Lesotho,LSO,528,Netherlands,NLD,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,164,,,,164,,20084,,,6
+H1,2010,2010,2010,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,4134,,,,4134,,507323,,,6
+H1,2010,2010,2010,6,1,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,5,,,,5,,439,,,6
+H1,2010,2010,2010,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,67100,,,,67100,,383052,,,6
+H1,2010,2010,2010,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,67100,,,,67100,,383052,,,6
+H1,2010,2010,2010,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,17270,,,,17270,,140238,,,6
+H1,2010,2010,2010,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,17270,,,,17270,,140238,,,6
+H1,2010,2010,2010,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,5603,Nonwovens textiles except felt,8,Weight in kilograms,102108,,,,102108,,566799,,,6
+H1,2010,2010,2010,4,0,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,5603,Nonwovens textiles except felt,8,Weight in kilograms,5393,,,,5393,,17729,,,6
+H1,2010,2010,2010,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,5603,Nonwovens textiles except felt,8,Weight in kilograms,100693,,,,100693,,558937,,,6
+H1,2010,2010,2010,4,0,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,5603,Nonwovens textiles except felt,8,Weight in kilograms,5393,,,,5393,,17729,,,6
+H1,2010,2010,2010,4,0,1,Import,426,Lesotho,LSO,842,USA,USA,,,,,,,,5603,Nonwovens textiles except felt,8,Weight in kilograms,1415,,,,1415,,7862,,,6
+H1,2010,2010,2010,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,6031,,,,6031,,59894,,,6
+H1,2010,2010,2010,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,1,No Quantity,,,,,,,1094,,,0
+H1,2010,2010,2010,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,6031,,,,6031,,59894,,,6
+H1,2010,2010,2010,6,1,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,1,No Quantity,,,,,,,1094,,,0
+H1,2010,2010,2010,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",1,No Quantity,,,,,2826,,165695,,,4
+H1,2010,2010,2010,6,1,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",1,No Quantity,,,,,175,,10281,,,4
+H1,2010,2010,2010,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",1,No Quantity,,,,,2651,,155414,,,4
+H1,2010,2010,2010,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",1,No Quantity,,,,,2979,,111871,,,4
+H1,2010,2010,2010,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,900490,"Spectacles, goggles except sunglasses",1,No Quantity,,,,,2979,,111871,,,4
+H1,2010,2010,2010,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,901920,Therapeutic respiration apparatus,8,Weight in kilograms,272,,,,272,,25078,,,6
+H1,2010,2010,2010,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,901920,Therapeutic respiration apparatus,8,Weight in kilograms,272,,,,272,,25078,,,6
+H1,2010,2010,2010,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,798,,,,798,,43890,,,6
+H1,2010,2010,2010,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,721,,,,721,,39659,,,6
+H1,2010,2010,2010,4,0,1,Import,426,Lesotho,LSO,842,USA,USA,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,77,,,,77,,4231,,,6
+H1,2010,2010,2010,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,798,,,,798,,43890,,,6
+H1,2010,2010,2010,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,721,,,,721,,39659,,,6
+H1,2010,2010,2010,6,1,1,Import,426,Lesotho,LSO,842,USA,USA,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,77,,,,77,,4231,,,6
+H1,2010,2010,2010,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",1,No Quantity,,,,,69,,18130,,,4
+H1,2010,2010,2010,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",1,No Quantity,,,,,69,,18130,,,4
+H0,2000,2000,2000,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,280440,Oxygen,1,No Quantity,,,,,,,50241,,,0
+H0,2000,2000,2000,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,280440,Oxygen,1,No Quantity,,,,,,,50241,,,0
+H0,2000,2000,2000,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,4283,,,,4283,,794360,,,6
+H0,2000,2000,2000,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,4283,,,,4283,,794360,,,6
+H0,2000,2000,2000,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,110,,,,110,,7082,,,6
+H0,2000,2000,2000,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,110,,,,110,,7082,,,6
+H0,2000,2000,2000,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,670,,,,670,,2940,,,6
+H0,2000,2000,2000,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,670,,,,670,,2940,,,6
+H0,2000,2000,2000,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,471,,,,471,,3263,,,6
+H0,2000,2000,2000,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,471,,,,471,,3263,,,6
+H0,2000,2000,2000,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,5603,Nonwovens textiles except felt,8,Weight in kilograms,91,,,,91,,384,,,6
+H0,2000,2000,2000,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,5603,Nonwovens textiles except felt,8,Weight in kilograms,91,,,,91,,384,,,6
+H0,2000,2000,2000,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,33,,,,33,,411,,,6
+H0,2000,2000,2000,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,33,,,,33,,411,,,6
+H0,2000,2000,2000,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",1,No Quantity,,,,,243,,9147,,,4
+H0,2000,2000,2000,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",1,No Quantity,,,,,243,,9147,,,4
+H0,2000,2000,2000,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,757,,,,72,,2053,,,6
+H0,2000,2000,2000,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,757,,,,72,,2053,,,6
+H0,2000,2000,2000,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,18,,,,18,,712,,,6
+H0,2000,2000,2000,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,18,,,,18,,712,,,6
+H0,2000,2000,2000,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,18,,,,18,,712,,,6
+H0,2000,2000,2000,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,18,,,,18,,712,,,6
+H0,2001,2001,2001,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,280440,Oxygen,1,No Quantity,,,,,,,120328,,,0
+H0,2001,2001,2001,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,280440,Oxygen,1,No Quantity,,,,,14589,,2239,,,4
+H0,2001,2001,2001,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,280440,Oxygen,1,No Quantity,,,,,,,120328,,,0
+H0,2001,2001,2001,6,1,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,280440,Oxygen,1,No Quantity,,,,,14589,,2239,,,4
+H0,2001,2001,2001,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,28,,,,28,,5373,,,6
+H0,2001,2001,2001,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,2028,,,,2028,,406748,,,6
+H0,2001,2001,2001,6,1,2,Export,426,Lesotho,LSO,72,Botswana,BWA,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,1276,,,,1276,,255928,,,6
+H0,2001,2001,2001,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,28,,,,28,,5373,,,6
+H0,2001,2001,2001,6,1,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,752,,,,752,,150820,,,6
+H0,2001,2001,2001,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,50,,,,50,,3442,,,6
+H0,2001,2001,2001,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,50,,,,50,,3442,,,6
+H0,2001,2001,2001,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,737,,,,737,,2914,,,6
+H0,2001,2001,2001,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,737,,,,737,,2914,,,6
+H0,2001,2001,2001,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,1822,,,,1822,,13055,,,6
+H0,2001,2001,2001,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,1822,,,,1822,,13055,,,6
+H0,2001,2001,2001,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,1,,,,1,,12,,,6
+H0,2001,2001,2001,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,1,,,,1,,12,,,6
+H0,2001,2001,2001,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",1,No Quantity,,,,,296,,10958,,,4
+H0,2001,2001,2001,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",1,No Quantity,,,,,296,,10958,,,4
+H0,2001,2001,2001,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,2856,,,,305,,8706,,,6
+H0,2001,2001,2001,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,2856,,,,305,,8706,,,6
+H0,2001,2001,2001,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,901920,Therapeutic respiration apparatus,8,Weight in kilograms,15,,,,15,,890,,,6
+H0,2001,2001,2001,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,901920,Therapeutic respiration apparatus,8,Weight in kilograms,15,,,,15,,890,,,6
+H0,2001,2001,2001,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,1065,,,,1065,,40595,,,6
+H0,2001,2001,2001,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,1065,,,,1065,,40595,,,6
+H0,2001,2001,2001,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,1065,,,,1065,,40595,,,6
+H0,2001,2001,2001,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,1065,,,,1065,,40595,,,6
+H0,2001,2001,2001,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",5,Number of items,9,,,,63,,8818,,,6
+H0,2001,2001,2001,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",5,Number of items,9,,,,63,,8818,,,6
+H0,2002,2002,2002,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,280440,Oxygen,1,No Quantity,,,,,,,67294,,,0
+H0,2002,2002,2002,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,280440,Oxygen,1,No Quantity,,,,,,,67294,,,0
+H0,2002,2002,2002,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,4377,,,,4377,,1043083,,,6
+H0,2002,2002,2002,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,428,,,,428,,102057,,,6
+H0,2002,2002,2002,6,1,1,Import,426,Lesotho,LSO,124,Canada,CAN,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,1132,,,,1132,,269849,,,6
+H0,2002,2002,2002,6,1,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,7,,,,7,,1641,,,6
+H0,2002,2002,2002,6,1,1,Import,426,Lesotho,LSO,208,Denmark,DNK,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,1337,,,,1337,,318632,,,6
+H0,2002,2002,2002,6,1,1,Import,426,Lesotho,LSO,251,France,FRA,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,22,,,,22,,5359,,,6
+H0,2002,2002,2002,6,1,1,Import,426,Lesotho,LSO,360,Indonesia,IDN,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,155,,,,155,,37009,,,6
+H0,2002,2002,2002,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,1360,,,,1360,,324182,,,6
+H0,2002,2002,2002,6,1,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,428,,,,428,,102057,,,6
+H0,2002,2002,2002,6,1,1,Import,426,Lesotho,LSO,724,Spain,ESP,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,288,,,,288,,68689,,,6
+H0,2002,2002,2002,6,1,1,Import,426,Lesotho,LSO,757,Switzerland,CHE,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,74,,,,74,,17724,,,6
+H0,2002,2002,2002,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,382100,Prepared culture media for developing micro-organisms,8,Weight in kilograms,2,,,,2,,66,,,6
+H0,2002,2002,2002,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,382100,Prepared culture media for developing micro-organisms,8,Weight in kilograms,2,,,,2,,66,,,6
+H0,2002,2002,2002,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,1,,,,1,,34,,,6
+H0,2002,2002,2002,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,1,,,,1,,34,,,6
+H0,2002,2002,2002,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,823,,,,823,,3291,,,6
+H0,2002,2002,2002,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,823,,,,823,,3291,,,6
+H0,2002,2002,2002,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,1747,,,,1747,,11671,,,6
+H0,2002,2002,2002,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,1747,,,,1747,,11671,,,6
+H0,2002,2002,2002,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,5603,Nonwovens textiles except felt,1,No Quantity,,,,,,,7383,,,0
+H0,2002,2002,2002,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,5603,Nonwovens textiles except felt,1,No Quantity,,,,,,,7383,,,0
+H0,2002,2002,2002,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,1,No Quantity,,,,,,,1491,,,0
+H0,2002,2002,2002,6,1,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,1,No Quantity,,,,,,,1491,,,0
+H0,2002,2002,2002,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",1,No Quantity,,,,,163,,6571,,,4
+H0,2002,2002,2002,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",1,No Quantity,,,,,163,,6571,,,4
+H0,2002,2002,2002,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,3683,,,,369,,11162,,,6
+H0,2002,2002,2002,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,3683,,,,369,,11162,,,6
+H0,2002,2002,2002,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,2064,,,,2064,,83551,,,6
+H0,2002,2002,2002,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,2064,,,,2064,,83551,,,6
+H0,2002,2002,2002,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,2064,,,,2064,,83551,,,6
+H0,2002,2002,2002,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,2064,,,,2064,,83551,,,6
+H0,2003,2003,2003,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,280440,Oxygen,1,No Quantity,,,,,221769,,47651,,,4
+H0,2003,2003,2003,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,280440,Oxygen,1,No Quantity,,,,,4626,,811,,,4
+H0,2003,2003,2003,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,280440,Oxygen,1,No Quantity,,,,,221769,,47651,,,4
+H0,2003,2003,2003,6,1,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,280440,Oxygen,1,No Quantity,,,,,4626,,811,,,4
+H0,2003,2003,2003,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,3387,,,,3387,,780712,,,6
+H0,2003,2003,2003,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,1,,,,1,,222,,,6
+H0,2003,2003,2003,6,1,1,Import,426,Lesotho,LSO,124,Canada,CAN,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,36,,,,36,,8283,,,6
+H0,2003,2003,2003,6,1,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,0,,,,0,,78,,,6
+H0,2003,2003,2003,6,1,1,Import,426,Lesotho,LSO,196,Cyprus,CYP,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,82,,,,82,,18852,,,6
+H0,2003,2003,2003,6,1,1,Import,426,Lesotho,LSO,208,Denmark,DNK,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,120,,,,120,,27547,,,6
+H0,2003,2003,2003,6,1,1,Import,426,Lesotho,LSO,251,France,FRA,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,126,,,,126,,28995,,,6
+H0,2003,2003,2003,6,1,1,Import,426,Lesotho,LSO,360,Indonesia,IDN,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,338,,,,338,,77943,,,6
+H0,2003,2003,2003,6,1,1,Import,426,Lesotho,LSO,699,India,IND,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,16,,,,16,,3582,,,6
+H0,2003,2003,2003,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,2663,,,,2663,,613808,,,6
+H0,2003,2003,2003,6,1,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,1,,,,1,,222,,,6
+H0,2003,2003,2003,6,1,1,Import,426,Lesotho,LSO,826,United Kingdom,GBR,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,7,,,,7,,1623,,,6
+H0,2003,2003,2003,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,382100,Prepared culture media for developing micro-organisms,8,Weight in kilograms,459,,,,459,,14264,,,6
+H0,2003,2003,2003,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,382100,Prepared culture media for developing micro-organisms,8,Weight in kilograms,459,,,,459,,14264,,,6
+H0,2003,2003,2003,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,11788,,,,11788,,49324,,,6
+H0,2003,2003,2003,6,1,1,Import,426,Lesotho,LSO,276,Germany,DEU,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,364,,,,364,,1522,,,6
+H0,2003,2003,2003,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,11425,,,,11425,,47802,,,6
+H0,2003,2003,2003,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,1070,,,,1070,,8198,,,6
+H0,2003,2003,2003,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,560,,,,560,,4614,,,6
+H0,2003,2003,2003,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,1070,,,,1070,,8198,,,6
+H0,2003,2003,2003,6,1,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,560,,,,560,,4614,,,6
+H0,2003,2003,2003,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,5603,Nonwovens textiles except felt,1,No Quantity,,,,,,,46437,,,0
+H0,2003,2003,2003,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,5603,Nonwovens textiles except felt,1,No Quantity,,,,,,,46437,,,0
+H0,2003,2003,2003,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,113,,,,113,,1673,,,6
+H0,2003,2003,2003,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,113,,,,113,,1673,,,6
+H0,2003,2003,2003,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",5,Number of items,4,,,,165,,7773,,,6
+H0,2003,2003,2003,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",5,Number of items,4,,,,165,,7773,,,6
+H0,2003,2003,2003,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,161,,,,17,,562,,,6
+H0,2003,2003,2003,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,161,,,,17,,562,,,6
+H0,2003,2003,2003,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,4818,,,,4818,,229908,,,6
+H0,2003,2003,2003,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,4818,,,,4818,,229908,,,6
+H0,2003,2003,2003,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,4818,,,,4818,,229908,,,6
+H0,2003,2003,2003,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,4818,,,,4818,,229908,,,6
+H0,2004,2004,2004,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,280440,Oxygen,1,No Quantity,,,,,388500,,74734,,,4
+H0,2004,2004,2004,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,280440,Oxygen,1,No Quantity,,,,,482,,91,,,4
+H0,2004,2004,2004,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,280440,Oxygen,1,No Quantity,,,,,388500,,74734,,,4
+H0,2004,2004,2004,6,1,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,280440,Oxygen,1,No Quantity,,,,,482,,91,,,4
+H0,2004,2004,2004,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,561,,,,561,,159089,,,6
+H0,2004,2004,2004,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,9,,,,9,,2443,,,6
+H0,2004,2004,2004,6,1,1,Import,426,Lesotho,LSO,124,Canada,CAN,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,17,,,,17,,4848,,,6
+H0,2004,2004,2004,6,1,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,1,,,,1,,395,,,6
+H0,2004,2004,2004,6,1,1,Import,426,Lesotho,LSO,208,Denmark,DNK,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,33,,,,33,,9348,,,6
+H0,2004,2004,2004,6,1,1,Import,426,Lesotho,LSO,528,Netherlands,NLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,159,,,,159,,45143,,,6
+H0,2004,2004,2004,6,1,1,Import,426,Lesotho,LSO,699,India,IND,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,67,,,,67,,19065,,,6
+H0,2004,2004,2004,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,283,,,,283,,80290,,,6
+H0,2004,2004,2004,6,1,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,9,,,,9,,2443,,,6
+H0,2004,2004,2004,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,382100,Prepared culture media for developing micro-organisms,8,Weight in kilograms,544,,,,544,,18529,,,6
+H0,2004,2004,2004,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,382100,Prepared culture media for developing micro-organisms,8,Weight in kilograms,544,,,,544,,18529,,,6
+H0,2004,2004,2004,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,380,,,,380,,30979,,,6
+H0,2004,2004,2004,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,380,,,,380,,30979,,,6
+H0,2004,2004,2004,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,7808,,,,7808,,35088,,,6
+H0,2004,2004,2004,6,1,1,Import,426,Lesotho,LSO,276,Germany,DEU,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,99,,,,99,,445,,,6
+H0,2004,2004,2004,6,1,1,Import,426,Lesotho,LSO,528,Netherlands,NLD,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,3302,,,,3302,,14837,,,6
+H0,2004,2004,2004,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,4407,,,,4407,,19806,,,6
+H0,2004,2004,2004,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,4524,,,,4524,,38252,,,6
+H0,2004,2004,2004,6,1,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,1472,,,,1472,,12132,,,6
+H0,2004,2004,2004,6,1,1,Import,426,Lesotho,LSO,36,Australia,AUS,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,4,,,,4,,31,,,6
+H0,2004,2004,2004,6,1,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,4247,,,,4247,,35912,,,6
+H0,2004,2004,2004,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,273,,,,273,,2309,,,6
+H0,2004,2004,2004,6,1,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,1472,,,,1472,,12132,,,6
+H0,2004,2004,2004,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,5603,Nonwovens textiles except felt,8,Weight in kilograms,35704,,,,35704,,79689,,,6
+H0,2004,2004,2004,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,5603,Nonwovens textiles except felt,8,Weight in kilograms,35704,,,,35704,,79689,,,6
+H0,2004,2004,2004,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,95,,,,95,,1491,,,6
+H0,2004,2004,2004,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,8,Weight in kilograms,95,,,,95,,1491,,,6
+H0,2004,2004,2004,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",5,Number of items,2,,,,130,,6434,,,6
+H0,2004,2004,2004,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",5,Number of items,2,,,,130,,6434,,,6
+H0,2004,2004,2004,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,698,,,,64,,2316,,,6
+H0,2004,2004,2004,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,698,,,,64,,2316,,,6
+H0,2004,2004,2004,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,901920,Therapeutic respiration apparatus,8,Weight in kilograms,79,,,,79,,5357,,,6
+H0,2004,2004,2004,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,901920,Therapeutic respiration apparatus,8,Weight in kilograms,79,,,,79,,5357,,,6
+H0,2004,2004,2004,4,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,4321,,,,4321,,216349,,,6
+H0,2004,2004,2004,4,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,4321,,,,4321,,216349,,,6
+H0,2004,2004,2004,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,4321,,,,4321,,216349,,,6
+H0,2004,2004,2004,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,4321,,,,4321,,216349,,,6
+H0,2004,2004,2004,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",5,Number of items,1,,,,4,,738,,,6
+H0,2004,2004,2004,6,1,1,Import,426,Lesotho,LSO,276,Germany,DEU,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",5,Number of items,1,,,,4,,678,,,6
+H0,2004,2004,2004,6,1,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",5,Number of items,0,,,,0,,60,,,6

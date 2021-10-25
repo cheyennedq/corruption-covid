@@ -1,0 +1,550 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,280440,Oxygen,1,No Quantity,0,,,,6610,,34739,,,2
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,280440,Oxygen,1,No Quantity,0,,,,6580,,34534,,,2
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,280440,Oxygen,1,No Quantity,0,,,,30,,204,,,2
+H4,2014,2014,2014,6,1,2,Export,296,Kiribati,KIR,0,World,WLD,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,26,,,,26,,270,,,0
+H4,2014,2014,2014,6,1,2,Export,296,Kiribati,KIR,410,Rep. of Korea,KOR,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,26,,,,26,,270,,,0
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,12835,,,,12835,,84894,,,6
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,8790,,,,8790,,70533,,,0
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,1600,,,,1600,,3943,,,0
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,344,"China, Hong Kong SAR",HKG,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,5,,,,5,,36,,,6
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,360,Indonesia,IDN,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,1435,,,,1435,,2105,,,0
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,381,Italy,ITA,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,256,,,,256,,5199,,,0
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,22,,,,22,,894,,,0
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,608,Philippines,PHL,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,480,,,,480,,778,,,0
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,842,USA,USA,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,246,,,,246,,1402,,,0
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,110,,,,110,,695,,,0
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,110,,,,110,,695,,,0
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,481850,"Paper articles; apparel and clothing accessories of paper, cellulose wadding or fibres",8,Weight in kilograms,711,,,,711,,2867,,,0
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,481850,"Paper articles; apparel and clothing accessories of paper, cellulose wadding or fibres",8,Weight in kilograms,99,,,,99,,404,,,0
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,481850,"Paper articles; apparel and clothing accessories of paper, cellulose wadding or fibres",8,Weight in kilograms,332,,,,332,,1350,,,0
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,842,USA,USA,,,,,,,,481850,"Paper articles; apparel and clothing accessories of paper, cellulose wadding or fibres",8,Weight in kilograms,279,,,,279,,1112,,,0
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,1310,,,,1310,,15674,,,0
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,0,,,,0,,1,,,0
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,25,,,,25,,288,,,0
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,5,,,,5,,135,,,0
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,344,"China, Hong Kong SAR",HKG,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,506,,,,506,,6611,,,0
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,702,Singapore,SGP,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,773,,,,773,,8639,,,0
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,841920,"Sterilizers; for medical, surgical or laboratory use, not used for domestic purposes",5,Number of items,72,,,,71,,4454,,,4
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,841920,"Sterilizers; for medical, surgical or laboratory use, not used for domestic purposes",5,Number of items,72,,,,71,,4454,,,4
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",5,Number of items,412,,,,177,,7186,,,4
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",5,Number of items,47,,,,14,,596,,,4
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",5,Number of items,179,,,,102,,4130,,,4
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",5,Number of items,33,,,,12,,498,,,4
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,344,"China, Hong Kong SAR",HKG,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",5,Number of items,123,,,,35,,1417,,,4
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,392,Japan,JPN,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",5,Number of items,2,,,,0,,29,,,4
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,490,"Other Asia, nes",,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",5,Number of items,8,,,,2,,87,,,4
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",5,Number of items,11,,,,5,,238,,,4
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,757,Switzerland,CHE,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",5,Number of items,1,,,,0,,19,,,4
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,842,USA,USA,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",5,Number of items,6,,,,4,,167,,,4
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,901920,"Therapeutic respiration apparatus; ozone, oxygen, aerosol therapy apparatus; artificial respiration or other therapeutic respiration apparatus",8,Weight in kilograms,8,,,,8,,115,,,0
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,901920,"Therapeutic respiration apparatus; ozone, oxygen, aerosol therapy apparatus; artificial respiration or other therapeutic respiration apparatus",8,Weight in kilograms,8,,,,8,,115,,,0
+H4,2014,2014,2014,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,851,,,,851,,23003,,,0
+H4,2014,2014,2014,4,0,2,Export,296,Kiribati,KIR,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,3,,,,3,,19,,,0
+H4,2014,2014,2014,4,0,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,86,,,,86,,2680,,,0
+H4,2014,2014,2014,4,0,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,50,,,,50,,1932,,,0
+H4,2014,2014,2014,4,0,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,443,,,,443,,11513,,,0
+H4,2014,2014,2014,4,0,1,Import,296,Kiribati,KIR,392,Japan,JPN,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,5,,,,5,,27,,,0
+H4,2014,2014,2014,4,0,1,Import,296,Kiribati,KIR,490,"Other Asia, nes",,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,213,,,,213,,5362,,,0
+H4,2014,2014,2014,4,0,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,47,,,,47,,1291,,,0
+H4,2014,2014,2014,4,0,2,Export,296,Kiribati,KIR,626,Timor-Leste,TLS,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,3,,,,3,,19,,,0
+H4,2014,2014,2014,4,0,1,Import,296,Kiribati,KIR,842,USA,USA,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,5,,,,5,,195,,,0
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,851,,,,851,,23003,,,0
+H4,2014,2014,2014,6,1,2,Export,296,Kiribati,KIR,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,3,,,,3,,19,,,0
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,86,,,,86,,2680,,,0
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,50,,,,50,,1932,,,0
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,443,,,,443,,11513,,,0
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,392,Japan,JPN,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,5,,,,5,,27,,,0
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,490,"Other Asia, nes",,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,213,,,,213,,5362,,,0
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,47,,,,47,,1291,,,0
+H4,2014,2014,2014,6,1,2,Export,296,Kiribati,KIR,626,Timor-Leste,TLS,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,3,,,,3,,19,,,0
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,842,USA,USA,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,5,,,,5,,195,,,0
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",5,Number of items,1,,,,0,,52,,,4
+H4,2014,2014,2014,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",5,Number of items,1,,,,0,,52,,,4
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,280440,Oxygen,12,Volume in cubic meters,94035,,,,3040,,17574,,,2
+H4,2015,2015,2015,6,1,2,Export,296,Kiribati,KIR,0,World,WLD,,,,,,,,280440,Oxygen,1,No Quantity,0,,,,16,,82,,,2
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,280440,Oxygen,12,Volume in cubic meters,1082,,,,54,,202,,,2
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,280440,Oxygen,12,Volume in cubic meters,62078,,,,1286,,11601,,,2
+H4,2015,2015,2015,6,1,2,Export,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,280440,Oxygen,1,No Quantity,0,,,,16,,82,,,2
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,280440,Oxygen,12,Volume in cubic meters,30874,,,,1700,,5770,,,2
+H4,2015,2015,2015,6,1,2,Export,296,Kiribati,KIR,0,World,WLD,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,16,,,,16,,1904,,,0
+H4,2015,2015,2015,6,1,2,Export,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,16,,,,16,,1904,,,0
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,13858,,,,13858,,72914,,,0
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,7336,,,,7336,,64999,,,0
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,3000,,,,3000,,1224,,,0
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,1889,,,,1889,,3288,,,0
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,360,Indonesia,IDN,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,1070,,,,1070,,2330,,,0
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,63,,,,63,,244,,,0
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,584,Marshall Isds,MHL,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,20,,,,20,,99,,,0
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,764,Thailand,THA,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,480,,,,480,,726,,,0
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,382100,"Prepared culture media for the development or maintenance of micro-organisms (including viruses and the like) or of plant, human or animal cells",8,Weight in kilograms,10,,,,10,,70,,,0
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,842,USA,USA,,,,,,,,382100,"Prepared culture media for the development or maintenance of micro-organisms (including viruses and the like) or of plant, human or animal cells",8,Weight in kilograms,10,,,,10,,70,,,0
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,35,,,,35,,6867,,,0
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,9,,,,9,,1725,,,0
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,26,,,,26,,5141,,,0
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,9590,,,,9590,,32872,,,0
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,7570,,,,7570,,30705,,,0
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,528,Netherlands,NLD,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,2000,,,,2000,,2001,,,0
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,401511,"Rubber; vulcanised (other than hard rubber), surgical gloves",8,Weight in kilograms,20,,,,20,,164,,,0
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,481850,"Paper articles; apparel and clothing accessories of paper, cellulose wadding or fibres",8,Weight in kilograms,126,,,,126,,1153,,,0
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,481850,"Paper articles; apparel and clothing accessories of paper, cellulose wadding or fibres",8,Weight in kilograms,25,,,,25,,579,,,0
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,481850,"Paper articles; apparel and clothing accessories of paper, cellulose wadding or fibres",8,Weight in kilograms,96,,,,96,,32,,,0
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,344,"China, Hong Kong SAR",HKG,,,,,,,,481850,"Paper articles; apparel and clothing accessories of paper, cellulose wadding or fibres",8,Weight in kilograms,5,,,,5,,541,,,0
+H4,2015,2015,2015,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,5603,"Nonwovens; whether or not impregnated, coated, covered or laminated",8,Weight in kilograms,3895,,,,3895,,32856,,,0
+H4,2015,2015,2015,4,0,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,5603,"Nonwovens; whether or not impregnated, coated, covered or laminated",8,Weight in kilograms,515,,,,515,,4895,,,0
+H4,2015,2015,2015,4,0,1,Import,296,Kiribati,KIR,344,"China, Hong Kong SAR",HKG,,,,,,,,5603,"Nonwovens; whether or not impregnated, coated, covered or laminated",8,Weight in kilograms,80,,,,80,,9110,,,0
+H4,2015,2015,2015,4,0,1,Import,296,Kiribati,KIR,392,Japan,JPN,,,,,,,,5603,"Nonwovens; whether or not impregnated, coated, covered or laminated",8,Weight in kilograms,3300,,,,3300,,18850,,,0
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,30045,,,,30045,,46078,,,0
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,60,,,,60,,888,,,0
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,702,Singapore,SGP,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,2501,,,,2501,,23060,,,0
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,757,Switzerland,CHE,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,27484,,,,27484,,22129,,,0
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,841920,"Sterilizers; for medical, surgical or laboratory use, not used for domestic purposes",5,Number of items,6,,,,323,,17782,,,4
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,841920,"Sterilizers; for medical, surgical or laboratory use, not used for domestic purposes",5,Number of items,6,,,,323,,17782,,,4
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",5,Number of items,7301,,,,467,,19078,,,4
+H4,2015,2015,2015,6,1,2,Export,296,Kiribati,KIR,0,World,WLD,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",5,Number of items,1,,,,2,,153,,,4
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",5,Number of items,138,,,,77,,3145,,,4
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",5,Number of items,2466,,,,71,,2924,,,4
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",5,Number of items,760,,,,62,,2539,,,4
+H4,2015,2015,2015,6,1,2,Export,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",5,Number of items,1,,,,2,,153,,,4
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,344,"China, Hong Kong SAR",HKG,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",5,Number of items,792,,,,7,,287,,,4
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,490,"Other Asia, nes",,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",5,Number of items,672,,,,130,,5335,,,4
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",5,Number of items,1721,,,,96,,3956,,,4
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,764,Thailand,THA,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",5,Number of items,382,,,,12,,507,,,4
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,842,USA,USA,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",5,Number of items,370,,,,9,,381,,,4
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,901920,"Therapeutic respiration apparatus; ozone, oxygen, aerosol therapy apparatus; artificial respiration or other therapeutic respiration apparatus",8,Weight in kilograms,15,,,,15,,711,,,0
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,901920,"Therapeutic respiration apparatus; ozone, oxygen, aerosol therapy apparatus; artificial respiration or other therapeutic respiration apparatus",8,Weight in kilograms,15,,,,15,,711,,,0
+H4,2015,2015,2015,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,647,,,,647,,13034,,,0
+H4,2015,2015,2015,4,0,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,102,,,,102,,2642,,,0
+H4,2015,2015,2015,4,0,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,331,,,,331,,3990,,,0
+H4,2015,2015,2015,4,0,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,163,,,,163,,3785,,,0
+H4,2015,2015,2015,4,0,1,Import,296,Kiribati,KIR,276,Germany,DEU,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,10,,,,10,,58,,,0
+H4,2015,2015,2015,4,0,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,41,,,,41,,2557,,,0
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,647,,,,647,,13034,,,0
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,102,,,,102,,2642,,,0
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,331,,,,331,,3990,,,0
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,163,,,,163,,3785,,,0
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,276,Germany,DEU,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,10,,,,10,,58,,,0
+H4,2015,2015,2015,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,41,,,,41,,2557,,,0
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,280440,Oxygen,1,No Quantity,0,,,,6610,,38468,,,0
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,280440,Oxygen,1,No Quantity,0,,,,6580,,38241,,,0
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,280440,Oxygen,1,No Quantity,0,,,,30,,226,,,0
+H4,2016,2016,2016,6,1,2,Export,296,Kiribati,KIR,0,World,WLD,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,26,,,,26,,300,,,0
+H4,2016,2016,2016,6,1,2,Export,296,Kiribati,KIR,410,Rep. of Korea,KOR,,,,,,,,300220,Vaccines; for human medicine,8,Weight in kilograms,26,,,,26,,300,,,0
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,12835,,,,12835,,86608,,,6
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,8790,,,,8790,,71845,,,0
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,1600,,,,1600,,4369,,,0
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,344,"China, Hong Kong SAR",HKG,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,5,,,,5,,40,,,6
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,360,Indonesia,IDN,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,1435,,,,1435,,2073,,,0
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,381,Italy,ITA,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,256,,,,256,,5120,,,0
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,22,,,,22,,972,,,0
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,608,Philippines,PHL,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,480,,,,480,,767,,,0
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,842,USA,USA,,,,,,,,380894,Disinfectants; other than containing goods specified in Subheading Note 1 in this Chapter; put up in forms or packings for retail sale or as preparations or articles,8,Weight in kilograms,246,,,,246,,1421,,,0
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,110,,,,110,,770,,,0
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,382200,"Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading no. 3002 or 3006; certified reference material",8,Weight in kilograms,110,,,,110,,770,,,0
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,481850,"Paper articles; apparel and clothing accessories of paper, cellulose wadding or fibres",8,Weight in kilograms,711,,,,711,,2844,,,0
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,481850,"Paper articles; apparel and clothing accessories of paper, cellulose wadding or fibres",8,Weight in kilograms,99,,,,99,,398,,,0
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,481850,"Paper articles; apparel and clothing accessories of paper, cellulose wadding or fibres",8,Weight in kilograms,332,,,,332,,1330,,,0
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,842,USA,USA,,,,,,,,481850,"Paper articles; apparel and clothing accessories of paper, cellulose wadding or fibres",8,Weight in kilograms,279,,,,279,,1116,,,0
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,1310,,,,1310,,15394,,,0
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,0,,,,0,,1,,,0
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,25,,,,25,,283,,,0
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,5,,,,5,,133,,,0
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,344,"China, Hong Kong SAR",HKG,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,506,,,,506,,6470,,,0
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,702,Singapore,SGP,,,,,,,,621010,Garments; of felt or non-wovens (not knitted or crocheted),8,Weight in kilograms,773,,,,773,,8507,,,0
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,841920,"Sterilizers; for medical, surgical or laboratory use, not used for domestic purposes",5,Number of items,72,,,,89,,4935,,,4
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,841920,"Sterilizers; for medical, surgical or laboratory use, not used for domestic purposes",5,Number of items,72,,,,89,,4935,,,4
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",5,Number of items,412,,,,172,,7230,,,4
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",5,Number of items,47,,,,15,,647,,,4
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",5,Number of items,179,,,,96,,4067,,,4
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",5,Number of items,33,,,,13,,548,,,4
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,344,"China, Hong Kong SAR",HKG,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",5,Number of items,123,,,,33,,1396,,,4
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,392,Japan,JPN,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",5,Number of items,2,,,,0,,32,,,4
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,490,"Other Asia, nes",,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",5,Number of items,8,,,,2,,86,,,4
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",5,Number of items,11,,,,6,,261,,,4
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,757,Switzerland,CHE,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",5,Number of items,1,,,,0,,22,,,4
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,842,USA,USA,,,,,,,,900490,"Spectacles, goggles and the like; (other than sunglasses) corrective, protective or other",5,Number of items,6,,,,4,,168,,,4
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,901920,"Therapeutic respiration apparatus; ozone, oxygen, aerosol therapy apparatus; artificial respiration or other therapeutic respiration apparatus",8,Weight in kilograms,8,,,,8,,120,,,0
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,901920,"Therapeutic respiration apparatus; ozone, oxygen, aerosol therapy apparatus; artificial respiration or other therapeutic respiration apparatus",8,Weight in kilograms,8,,,,8,,120,,,0
+H4,2016,2016,2016,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,851,,,,851,,25090,,,0
+H4,2016,2016,2016,4,0,2,Export,296,Kiribati,KIR,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,3,,,,3,,22,,,0
+H4,2016,2016,2016,4,0,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,86,,,,86,,2947,,,0
+H4,2016,2016,2016,4,0,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,50,,,,50,,1911,,,0
+H4,2016,2016,2016,4,0,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,443,,,,443,,12754,,,0
+H4,2016,2016,2016,4,0,1,Import,296,Kiribati,KIR,392,Japan,JPN,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,5,,,,5,,30,,,0
+H4,2016,2016,2016,4,0,1,Import,296,Kiribati,KIR,490,"Other Asia, nes",,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,213,,,,213,,5824,,,0
+H4,2016,2016,2016,4,0,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,47,,,,47,,1430,,,0
+H4,2016,2016,2016,4,0,2,Export,296,Kiribati,KIR,626,Timor-Leste,TLS,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,3,,,,3,,22,,,0
+H4,2016,2016,2016,4,0,1,Import,296,Kiribati,KIR,842,USA,USA,,,,,,,,9020,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,5,,,,5,,193,,,0
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,851,,,,851,,25090,,,0
+H4,2016,2016,2016,6,1,2,Export,296,Kiribati,KIR,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,3,,,,3,,22,,,0
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,86,,,,86,,2947,,,0
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,50,,,,50,,1911,,,0
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,443,,,,443,,12754,,,0
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,392,Japan,JPN,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,5,,,,5,,30,,,0
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,490,"Other Asia, nes",,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,213,,,,213,,5824,,,0
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,47,,,,47,,1430,,,0
+H4,2016,2016,2016,6,1,2,Export,296,Kiribati,KIR,626,Timor-Leste,TLS,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,3,,,,3,,22,,,0
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,842,USA,USA,,,,,,,,902000,Breathing appliances and gas masks; excluding protective masks having neither mechanical parts nor replaceable filters and excluding apparatus of item no. 9019.20,8,Weight in kilograms,5,,,,5,,193,,,0
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",5,Number of items,1,,,,0,,58,,,4
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,902780,"Instruments and apparatus; for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or quantities of heat, sound or light, n.e.c. in heading no. 9027",5,Number of items,1,,,,0,,58,,,4
+H2,2005,2005,2005,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,280440,Oxygen,1,No Quantity,,,,,47157,,9071,,,4
+H2,2005,2005,2005,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,280440,Oxygen,1,No Quantity,,,,,32823,,6314,,,4
+H2,2005,2005,2005,6,1,1,Import,296,Kiribati,KIR,392,Japan,JPN,,,,,,,,280440,Oxygen,1,No Quantity,,,,,13644,,2625,,,4
+H2,2005,2005,2005,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,280440,Oxygen,1,No Quantity,,,,,691,,133,,,4
+H2,2005,2005,2005,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,382100,Prepared culture media for development of micro-organisms,8,Weight in kilograms,22,,,,22,,746,,,6
+H2,2005,2005,2005,6,1,1,Import,296,Kiribati,KIR,392,Japan,JPN,,,,,,,,382100,Prepared culture media for development of micro-organisms,8,Weight in kilograms,22,,,,22,,746,,,6
+H2,2005,2005,2005,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,1724,,,,1724,,7746,,,6
+H2,2005,2005,2005,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,10,,,,10,,47,,,6
+H2,2005,2005,2005,6,1,1,Import,296,Kiribati,KIR,458,Malaysia,MYS,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,1713,,,,1713,,7700,,,6
+H2,2005,2005,2005,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,29,,,,29,,245,,,6
+H2,2005,2005,2005,6,1,1,Import,296,Kiribati,KIR,344,"China, Hong Kong SAR",HKG,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,29,,,,29,,245,,,6
+H2,2005,2005,2005,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",5,Number of items,0,,,,6,,315,,,6
+H2,2005,2005,2005,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",5,Number of items,0,,,,6,,315,,,6
+H2,2005,2005,2005,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,3581,,,,264,,9592,,,6
+H2,2005,2005,2005,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,620,,,,153,,5555,,,6
+H2,2005,2005,2005,6,1,1,Import,296,Kiribati,KIR,90,Solomon Isds,SLB,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,102,,,,4,,154,,,6
+H2,2005,2005,2005,6,1,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,2150,,,,30,,1085,,,6
+H2,2005,2005,2005,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,71,,,,7,,264,,,6
+H2,2005,2005,2005,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,638,,,,70,,2534,,,6
+H2,2005,2005,2005,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,91,,,,91,,4569,,,6
+H2,2005,2005,2005,4,0,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,16,,,,16,,826,,,6
+H2,2005,2005,2005,4,0,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,69,,,,69,,3433,,,6
+H2,2005,2005,2005,4,0,1,Import,296,Kiribati,KIR,490,"Other Asia, nes",,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,6,,,,6,,310,,,6
+H2,2005,2005,2005,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,91,,,,91,,4569,,,6
+H2,2005,2005,2005,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,16,,,,16,,826,,,6
+H2,2005,2005,2005,6,1,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,69,,,,69,,3433,,,6
+H2,2005,2005,2005,6,1,1,Import,296,Kiribati,KIR,490,"Other Asia, nes",,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,6,,,,6,,310,,,6
+H2,2005,2005,2005,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",5,Number of items,8,,,,37,,6893,,,6
+H2,2005,2005,2005,6,1,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",5,Number of items,0,,,,0,,83,,,6
+H2,2005,2005,2005,6,1,1,Import,296,Kiribati,KIR,490,"Other Asia, nes",,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",5,Number of items,0,,,,0,,40,,,6
+H2,2005,2005,2005,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",5,Number of items,6,,,,32,,5954,,,6
+H2,2005,2005,2005,6,1,1,Import,296,Kiribati,KIR,842,USA,USA,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",5,Number of items,1,,,,4,,815,,,6
+H2,2006,2006,2006,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,280440,Oxygen,1,No Quantity,,,,,74471,,14326,,,4
+H2,2006,2006,2006,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,280440,Oxygen,1,No Quantity,,,,,74471,,14326,,,4
+H2,2006,2006,2006,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,58,,,,58,,16563,,,6
+H2,2006,2006,2006,6,1,1,Import,296,Kiribati,KIR,208,Denmark,DNK,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,58,,,,58,,16563,,,6
+H2,2006,2006,2006,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,4254,,,,4254,,19118,,,6
+H2,2006,2006,2006,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,2766,,,,2766,,12430,,,6
+H2,2006,2006,2006,6,1,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,1488,,,,1488,,6687,,,6
+H2,2006,2006,2006,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,140,,,,140,,1185,,,6
+H2,2006,2006,2006,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,5,,,,5,,45,,,6
+H2,2006,2006,2006,6,1,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,99,,,,99,,836,,,6
+H2,2006,2006,2006,6,1,1,Import,296,Kiribati,KIR,344,"China, Hong Kong SAR",HKG,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,36,,,,36,,304,,,6
+H2,2006,2006,2006,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,5603,"Nonwovens, whether or not impregnated, coated, covered or laminated.",8,Weight in kilograms,337,,,,337,,1718,,,6
+H2,2006,2006,2006,4,0,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,5603,"Nonwovens, whether or not impregnated, coated, covered or laminated.",8,Weight in kilograms,337,,,,337,,1718,,,6
+H2,2006,2006,2006,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,1247,,,,151,,5479,,,4
+H2,2006,2006,2006,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,182,,,,25,,924,,,4
+H2,2006,2006,2006,6,1,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,219,,,,23,,851,,,4
+H2,2006,2006,2006,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,2,,,,0,,13,,,4
+H2,2006,2006,2006,6,1,1,Import,296,Kiribati,KIR,344,"China, Hong Kong SAR",HKG,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,2,,,,1,,53,,,4
+H2,2006,2006,2006,6,1,1,Import,296,Kiribati,KIR,490,"Other Asia, nes",,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,90,,,,47,,1694,,,4
+H2,2006,2006,2006,6,1,1,Import,296,Kiribati,KIR,528,Netherlands,NLD,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,48,,,,8,,274,,,4
+H2,2006,2006,2006,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,598,,,,38,,1399,,,4
+H2,2006,2006,2006,6,1,1,Import,296,Kiribati,KIR,764,Thailand,THA,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,106,,,,7,,271,,,4
+H2,2006,2006,2006,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,6,,,,6,,320,,,6
+H2,2006,2006,2006,4,0,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,1,,,,1,,31,,,6
+H2,2006,2006,2006,4,0,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,4,,,,4,,184,,,6
+H2,2006,2006,2006,4,0,1,Import,296,Kiribati,KIR,702,Singapore,SGP,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,2,,,,2,,105,,,6
+H2,2006,2006,2006,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,6,,,,6,,320,,,6
+H2,2006,2006,2006,6,1,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,1,,,,1,,31,,,6
+H2,2006,2006,2006,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,4,,,,4,,184,,,6
+H2,2006,2006,2006,6,1,1,Import,296,Kiribati,KIR,702,Singapore,SGP,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,2,,,,2,,105,,,6
+H2,2006,2006,2006,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",5,Number of items,0,,,,1,,189,,,6
+H2,2006,2006,2006,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",5,Number of items,0,,,,1,,189,,,6
+H2,2007,2007,2007,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,280440,Oxygen,12,Volume in cubic meters,26466,,,,,,4304,,,2
+H2,2007,2007,2007,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,280440,Oxygen,12,Volume in cubic meters,17392,,,,,,2828,,,2
+H2,2007,2007,2007,6,1,1,Import,296,Kiribati,KIR,392,Japan,JPN,,,,,,,,280440,Oxygen,12,Volume in cubic meters,9075,,,,,,1476,,,2
+H2,2007,2007,2007,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,9897,,,,9897,,45466,,,6
+H2,2007,2007,2007,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,6835,,,,6835,,31399,,,6
+H2,2007,2007,2007,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,3062,,,,3062,,14067,,,6
+H2,2007,2007,2007,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,233,,,,233,,2091,,,6
+H2,2007,2007,2007,6,1,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,233,,,,233,,2091,,,6
+H2,2007,2007,2007,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",1,No Quantity,,,,,50,,2432,,,4
+H2,2007,2007,2007,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",1,No Quantity,,,,,50,,2432,,,4
+H2,2007,2007,2007,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,1228,,,,175,,5597,,,4
+H2,2007,2007,2007,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,91,,,,19,,609,,,4
+H2,2007,2007,2007,6,1,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,241,,,,52,,1674,,,4
+H2,2007,2007,2007,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,100,,,,7,,222,,,4
+H2,2007,2007,2007,6,1,1,Import,296,Kiribati,KIR,490,"Other Asia, nes",,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,15,,,,4,,130,,,4
+H2,2007,2007,2007,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,318,,,,28,,879,,,4
+H2,2007,2007,2007,6,1,1,Import,296,Kiribati,KIR,757,Switzerland,CHE,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,167,,,,24,,761,,,4
+H2,2007,2007,2007,6,1,1,Import,296,Kiribati,KIR,764,Thailand,THA,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,296,,,,41,,1322,,,4
+H2,2007,2007,2007,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,9,,,,9,,441,,,6
+H2,2007,2007,2007,4,0,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,8,,,,8,,382,,,6
+H2,2007,2007,2007,4,0,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,0,,,,0,,4,,,6
+H2,2007,2007,2007,4,0,1,Import,296,Kiribati,KIR,757,Switzerland,CHE,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,1,,,,1,,55,,,6
+H2,2007,2007,2007,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,9,,,,9,,441,,,6
+H2,2007,2007,2007,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,8,,,,8,,382,,,6
+H2,2007,2007,2007,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,0,,,,0,,4,,,6
+H2,2007,2007,2007,6,1,1,Import,296,Kiribati,KIR,757,Switzerland,CHE,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,1,,,,1,,55,,,6
+H2,2007,2007,2007,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",1,No Quantity,,,,,1,,183,,,4
+H2,2007,2007,2007,6,1,1,Import,296,Kiribati,KIR,392,Japan,JPN,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",1,No Quantity,,,,,1,,183,,,4
+H2,2008,2008,2008,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,280440,Oxygen,1,No Quantity,,,,,,,5664,,,0
+H2,2008,2008,2008,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,280440,Oxygen,1,No Quantity,,,,,,,3300,,,0
+H2,2008,2008,2008,6,1,1,Import,296,Kiribati,KIR,392,Japan,JPN,,,,,,,,280440,Oxygen,1,No Quantity,,,,,,,2364,,,0
+H2,2008,2008,2008,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,75,,,,75,,651,,,6
+H2,2008,2008,2008,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,46,,,,46,,402,,,6
+H2,2008,2008,2008,6,1,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,29,,,,29,,249,,,6
+H2,2008,2008,2008,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",1,No Quantity,,,,,49,,2609,,,4
+H2,2008,2008,2008,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",1,No Quantity,,,,,49,,2609,,,4
+H2,2008,2008,2008,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,501,,,,130,,4368,,,4
+H2,2008,2008,2008,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,146,,,,22,,728,,,4
+H2,2008,2008,2008,6,1,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,203,,,,36,,1197,,,4
+H2,2008,2008,2008,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,46,,,,1,,44,,,4
+H2,2008,2008,2008,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,20,,,,4,,144,,,4
+H2,2008,2008,2008,6,1,1,Import,296,Kiribati,KIR,757,Switzerland,CHE,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,86,,,,67,,2255,,,4
+H2,2008,2008,2008,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,21,,,,21,,1062,,,6
+H2,2008,2008,2008,4,0,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,12,,,,12,,607,,,6
+H2,2008,2008,2008,4,0,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,9,,,,9,,455,,,6
+H2,2008,2008,2008,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,21,,,,21,,1062,,,6
+H2,2008,2008,2008,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,12,,,,12,,607,,,6
+H2,2008,2008,2008,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,9,,,,9,,455,,,6
+H2,2009,2009,2009,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,280440,Oxygen,1,No Quantity,,,,,,,9615,,,0
+H2,2009,2009,2009,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,280440,Oxygen,1,No Quantity,,,,,,,2824,,,0
+H2,2009,2009,2009,6,1,1,Import,296,Kiribati,KIR,392,Japan,JPN,,,,,,,,280440,Oxygen,1,No Quantity,,,,,,,1000,,,0
+H2,2009,2009,2009,6,1,1,Import,296,Kiribati,KIR,490,"Other Asia, nes",,,,,,,,,280440,Oxygen,1,No Quantity,,,,,,,1696,,,0
+H2,2009,2009,2009,6,1,1,Import,296,Kiribati,KIR,702,Singapore,SGP,,,,,,,,280440,Oxygen,1,No Quantity,,,,,,,4095,,,0
+H2,2009,2009,2009,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,5351,,,,5351,,30068,,,6
+H2,2009,2009,2009,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,2478,,,,2478,,13925,,,6
+H2,2009,2009,2009,6,1,1,Import,296,Kiribati,KIR,528,Netherlands,NLD,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,2484,,,,2484,,13959,,,6
+H2,2009,2009,2009,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,389,,,,389,,2184,,,6
+H2,2009,2009,2009,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,12,,,,12,,109,,,6
+H2,2009,2009,2009,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,8,,,,8,,72,,,6
+H2,2009,2009,2009,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,1,,,,1,,5,,,6
+H2,2009,2009,2009,6,1,1,Import,296,Kiribati,KIR,757,Switzerland,CHE,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,4,,,,4,,32,,,6
+H2,2009,2009,2009,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",1,No Quantity,,,,,122,,7153,,,4
+H2,2009,2009,2009,6,1,1,Import,296,Kiribati,KIR,208,Denmark,DNK,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",1,No Quantity,,,,,11,,638,,,4
+H2,2009,2009,2009,6,1,1,Import,296,Kiribati,KIR,490,"Other Asia, nes",,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",1,No Quantity,,,,,111,,6515,,,4
+H2,2009,2009,2009,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,2614,,,,85,,3416,,,4
+H2,2009,2009,2009,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,62,,,,7,,271,,,4
+H2,2009,2009,2009,6,1,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,768,,,,19,,780,,,4
+H2,2009,2009,2009,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,50,,,,1,,46,,,4
+H2,2009,2009,2009,6,1,1,Import,296,Kiribati,KIR,344,"China, Hong Kong SAR",HKG,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,25,,,,9,,355,,,4
+H2,2009,2009,2009,6,1,1,Import,296,Kiribati,KIR,392,Japan,JPN,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,17,,,,5,,190,,,4
+H2,2009,2009,2009,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,904,,,,25,,983,,,4
+H2,2009,2009,2009,6,1,1,Import,296,Kiribati,KIR,757,Switzerland,CHE,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,768,,,,14,,578,,,4
+H2,2009,2009,2009,6,1,1,Import,296,Kiribati,KIR,764,Thailand,THA,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,20,,,,5,,213,,,4
+H2,2009,2009,2009,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,148,,,,148,,9064,,,6
+H2,2009,2009,2009,4,0,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,27,,,,27,,1635,,,6
+H2,2009,2009,2009,4,0,1,Import,296,Kiribati,KIR,344,"China, Hong Kong SAR",HKG,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,0,,,,0,,25,,,6
+H2,2009,2009,2009,4,0,1,Import,296,Kiribati,KIR,490,"Other Asia, nes",,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,120,,,,120,,7372,,,6
+H2,2009,2009,2009,4,0,1,Import,296,Kiribati,KIR,757,Switzerland,CHE,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,1,,,,1,,32,,,6
+H2,2009,2009,2009,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,148,,,,148,,9064,,,6
+H2,2009,2009,2009,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,27,,,,27,,1635,,,6
+H2,2009,2009,2009,6,1,1,Import,296,Kiribati,KIR,344,"China, Hong Kong SAR",HKG,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,0,,,,0,,25,,,6
+H2,2009,2009,2009,6,1,1,Import,296,Kiribati,KIR,490,"Other Asia, nes",,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,120,,,,120,,7372,,,6
+H2,2009,2009,2009,6,1,1,Import,296,Kiribati,KIR,757,Switzerland,CHE,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,1,,,,1,,32,,,6
+H2,2009,2009,2009,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",1,No Quantity,,,,,0,,12,,,4
+H2,2009,2009,2009,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",1,No Quantity,,,,,0,,12,,,4
+H2,2010,2010,2010,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,280440,Oxygen,1,No Quantity,,,,,,,1617,,,0
+H2,2010,2010,2010,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,280440,Oxygen,1,No Quantity,,,,,,,1617,,,0
+H2,2010,2010,2010,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,1591,,,,1591,,9084,,,6
+H2,2010,2010,2010,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,1591,,,,1591,,9084,,,6
+H2,2010,2010,2010,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,380,,,,380,,3088,,,6
+H2,2010,2010,2010,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,132,,,,132,,1073,,,6
+H2,2010,2010,2010,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,13,,,,13,,105,,,6
+H2,2010,2010,2010,6,1,1,Import,296,Kiribati,KIR,764,Thailand,THA,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,14,,,,14,,116,,,6
+H2,2010,2010,2010,6,1,1,Import,296,Kiribati,KIR,842,USA,USA,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,221,,,,221,,1794,,,6
+H2,2010,2010,2010,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,1326,,,,165,,6209,,,4
+H2,2010,2010,2010,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,90,,,,42,,1570,,,4
+H2,2010,2010,2010,6,1,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,523,,,,29,,1074,,,4
+H2,2010,2010,2010,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,8,,,,3,,99,,,4
+H2,2010,2010,2010,6,1,1,Import,296,Kiribati,KIR,344,"China, Hong Kong SAR",HKG,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,20,,,,5,,201,,,4
+H2,2010,2010,2010,6,1,1,Import,296,Kiribati,KIR,392,Japan,JPN,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,1,,,,1,,28,,,4
+H2,2010,2010,2010,6,1,1,Import,296,Kiribati,KIR,490,"Other Asia, nes",,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,624,,,,83,,3111,,,4
+H2,2010,2010,2010,6,1,1,Import,296,Kiribati,KIR,757,Switzerland,CHE,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,60,,,,3,,126,,,4
+H2,2010,2010,2010,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,29,,,,29,,1592,,,6
+H2,2010,2010,2010,4,0,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,12,,,,12,,654,,,6
+H2,2010,2010,2010,4,0,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,6,,,,6,,331,,,6
+H2,2010,2010,2010,4,0,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,2,,,,2,,84,,,6
+H2,2010,2010,2010,4,0,1,Import,296,Kiribati,KIR,490,"Other Asia, nes",,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,10,,,,10,,523,,,6
+H2,2010,2010,2010,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,29,,,,29,,1592,,,6
+H2,2010,2010,2010,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,12,,,,12,,654,,,6
+H2,2010,2010,2010,6,1,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,6,,,,6,,331,,,6
+H2,2010,2010,2010,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,2,,,,2,,84,,,6
+H2,2010,2010,2010,6,1,1,Import,296,Kiribati,KIR,490,"Other Asia, nes",,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,10,,,,10,,523,,,6
+H2,2010,2010,2010,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",1,No Quantity,,,,,4,,1096,,,4
+H2,2010,2010,2010,6,1,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",1,No Quantity,,,,,4,,1096,,,4
+H2,2011,2011,2011,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,280440,Oxygen,12,Volume in cubic meters,50119,,,,58120,,10485,,,6
+H2,2011,2011,2011,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,280440,Oxygen,12,Volume in cubic meters,45309,,,,52543,,9479,,,6
+H2,2011,2011,2011,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,280440,Oxygen,12,Volume in cubic meters,4810,,,,5577,,1006,,,6
+H2,2011,2011,2011,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,5,,,,5,,2259,,,6
+H2,2011,2011,2011,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,0,,,,0,,7,,,6
+H2,2011,2011,2011,6,1,1,Import,296,Kiribati,KIR,490,"Other Asia, nes",,,,,,,,,300220,Vaccines for human medicine,8,Weight in kilograms,5,,,,5,,2252,,,6
+H2,2011,2011,2011,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,12310,,,,12310,,76349,,,6
+H2,2011,2011,2011,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,12310,,,,12310,,76349,,,6
+H2,2011,2011,2011,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,672,,,,672,,5553,,,6
+H2,2011,2011,2011,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,6,,,,6,,54,,,6
+H2,2011,2011,2011,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,20,,,,20,,168,,,6
+H2,2011,2011,2011,6,1,1,Import,296,Kiribati,KIR,757,Switzerland,CHE,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,223,,,,223,,1839,,,6
+H2,2011,2011,2011,6,1,1,Import,296,Kiribati,KIR,842,USA,USA,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,423,,,,423,,3492,,,6
+H2,2011,2011,2011,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,4177,,,,424,,16535,,,4
+H2,2011,2011,2011,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,100,,,,22,,854,,,4
+H2,2011,2011,2011,6,1,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,549,,,,68,,2647,,,4
+H2,2011,2011,2011,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,192,,,,47,,1812,,,4
+H2,2011,2011,2011,6,1,1,Import,296,Kiribati,KIR,344,"China, Hong Kong SAR",HKG,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,440,,,,29,,1140,,,4
+H2,2011,2011,2011,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,22,,,,12,,463,,,4
+H2,2011,2011,2011,6,1,1,Import,296,Kiribati,KIR,757,Switzerland,CHE,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,2866,,,,243,,9482,,,4
+H2,2011,2011,2011,6,1,1,Import,296,Kiribati,KIR,842,USA,USA,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,8,,,,3,,135,,,4
+H2,2011,2011,2011,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,467,,,,467,,22301,,,6
+H2,2011,2011,2011,4,0,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,260,,,,260,,12408,,,6
+H2,2011,2011,2011,4,0,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,6,,,,6,,310,,,6
+H2,2011,2011,2011,4,0,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,195,,,,195,,9307,,,6
+H2,2011,2011,2011,4,0,1,Import,296,Kiribati,KIR,392,Japan,JPN,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,6,,,,6,,278,,,6
+H2,2011,2011,2011,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,467,,,,467,,22301,,,6
+H2,2011,2011,2011,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,260,,,,260,,12408,,,6
+H2,2011,2011,2011,6,1,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,6,,,,6,,310,,,6
+H2,2011,2011,2011,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,195,,,,195,,9307,,,6
+H2,2011,2011,2011,6,1,1,Import,296,Kiribati,KIR,392,Japan,JPN,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,6,,,,6,,278,,,6
+H2,2012,2012,2012,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,280440,Oxygen,12,Volume in cubic meters,11291,,,,14183,,2442,,,6
+H2,2012,2012,2012,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,280440,Oxygen,12,Volume in cubic meters,11291,,,,14183,,2442,,,6
+H2,2012,2012,2012,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,300220,Vaccines for human medicine,1,No Quantity,,,,,,,2351,,,0
+H2,2012,2012,2012,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,300220,Vaccines for human medicine,1,No Quantity,,,,,,,32,,,0
+H2,2012,2012,2012,6,1,1,Import,296,Kiribati,KIR,490,"Other Asia, nes",,,,,,,,,300220,Vaccines for human medicine,1,No Quantity,,,,,,,2319,,,0
+H2,2012,2012,2012,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,1017,,,,1017,,7765,,,6
+H2,2012,2012,2012,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,1017,,,,1017,,7765,,,6
+H2,2012,2012,2012,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,76,,,,76,,659,,,6
+H2,2012,2012,2012,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,0,,,,0,,1,,,6
+H2,2012,2012,2012,6,1,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,29,,,,29,,250,,,6
+H2,2012,2012,2012,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,47,,,,47,,408,,,6
+H2,2012,2012,2012,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",1,No Quantity,,,,,2,,98,,,4
+H2,2012,2012,2012,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",1,No Quantity,,,,,2,,98,,,4
+H2,2012,2012,2012,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,1103,,,,149,,6951,,,4
+H2,2012,2012,2012,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,55,,,,5,,215,,,4
+H2,2012,2012,2012,6,1,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,189,,,,53,,2494,,,4
+H2,2012,2012,2012,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,337,,,,46,,2129,,,4
+H2,2012,2012,2012,6,1,1,Import,296,Kiribati,KIR,344,"China, Hong Kong SAR",HKG,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,183,,,,8,,354,,,4
+H2,2012,2012,2012,6,1,1,Import,296,Kiribati,KIR,458,Malaysia,MYS,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,100,,,,9,,420,,,4
+H2,2012,2012,2012,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,239,,,,29,,1338,,,4
+H2,2012,2012,2012,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,194,,,,194,,12073,,,6
+H2,2012,2012,2012,4,0,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,100,,,,100,,6206,,,6
+H2,2012,2012,2012,4,0,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,6,,,,6,,390,,,6
+H2,2012,2012,2012,4,0,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,40,,,,40,,2478,,,6
+H2,2012,2012,2012,4,0,1,Import,296,Kiribati,KIR,458,Malaysia,MYS,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,2,,,,2,,137,,,6
+H2,2012,2012,2012,4,0,1,Import,296,Kiribati,KIR,490,"Other Asia, nes",,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,37,,,,37,,2276,,,6
+H2,2012,2012,2012,4,0,1,Import,296,Kiribati,KIR,757,Switzerland,CHE,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,9,,,,9,,585,,,6
+H2,2012,2012,2012,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,194,,,,194,,12073,,,6
+H2,2012,2012,2012,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,100,,,,100,,6206,,,6
+H2,2012,2012,2012,6,1,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,6,,,,6,,390,,,6
+H2,2012,2012,2012,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,40,,,,40,,2478,,,6
+H2,2012,2012,2012,6,1,1,Import,296,Kiribati,KIR,458,Malaysia,MYS,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,2,,,,2,,137,,,6
+H2,2012,2012,2012,6,1,1,Import,296,Kiribati,KIR,490,"Other Asia, nes",,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,37,,,,37,,2276,,,6
+H2,2012,2012,2012,6,1,1,Import,296,Kiribati,KIR,757,Switzerland,CHE,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,9,,,,9,,585,,,6
+H2,2013,2013,2013,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,280440,Oxygen,1,No Quantity,,,,,159294,,34369,,,4
+H2,2013,2013,2013,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,280440,Oxygen,1,No Quantity,,,,,71437,,15413,,,4
+H2,2013,2013,2013,6,1,1,Import,296,Kiribati,KIR,392,Japan,JPN,,,,,,,,280440,Oxygen,1,No Quantity,,,,,24769,,5344,,,4
+H2,2013,2013,2013,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,280440,Oxygen,1,No Quantity,,,,,63088,,13612,,,4
+H2,2013,2013,2013,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,300220,Vaccines for human medicine,1,No Quantity,,,,,,,6,,,0
+H2,2013,2013,2013,6,1,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,300220,Vaccines for human medicine,1,No Quantity,,,,,,,6,,,0
+H2,2013,2013,2013,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,31,,,,31,,238,,,6
+H2,2013,2013,2013,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,19,,,,19,,142,,,6
+H2,2013,2013,2013,6,1,1,Import,296,Kiribati,KIR,842,USA,USA,,,,,,,,401511,Surgical gloves of vulcanised rubber,8,Weight in kilograms,13,,,,13,,96,,,6
+H2,2013,2013,2013,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,9,,,,9,,73,,,6
+H2,2013,2013,2013,6,1,1,Import,296,Kiribati,KIR,344,"China, Hong Kong SAR",HKG,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,8,,,,8,,61,,,6
+H2,2013,2013,2013,6,1,1,Import,296,Kiribati,KIR,842,USA,USA,,,,,,,,481850,"Articles of apparel & clothing accessories, of paper pulp/paper/cellulose w ...",8,Weight in kilograms,2,,,,2,,13,,,6
+H2,2013,2013,2013,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,5603,"Nonwovens, whether or not impregnated, coated, covered or laminated.",8,Weight in kilograms,433,,,,433,,2395,,,6
+H2,2013,2013,2013,4,0,1,Import,296,Kiribati,KIR,344,"China, Hong Kong SAR",HKG,,,,,,,,5603,"Nonwovens, whether or not impregnated, coated, covered or laminated.",8,Weight in kilograms,433,,,,433,,2395,,,6
+H2,2013,2013,2013,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",1,No Quantity,,,,,0,,10,,,4
+H2,2013,2013,2013,6,1,1,Import,296,Kiribati,KIR,842,USA,USA,,,,,,,,841920,"Medical/surgical/laboratory sterilisers, whether or not electrically heated ...",1,No Quantity,,,,,0,,10,,,4
+H2,2013,2013,2013,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,2203,,,,183,,8025,,,4
+H2,2013,2013,2013,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,258,,,,32,,1389,,,4
+H2,2013,2013,2013,6,1,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,1419,,,,58,,2558,,,4
+H2,2013,2013,2013,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,102,,,,11,,483,,,4
+H2,2013,2013,2013,6,1,1,Import,296,Kiribati,KIR,344,"China, Hong Kong SAR",HKG,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,6,,,,0,,19,,,4
+H2,2013,2013,2013,6,1,1,Import,296,Kiribati,KIR,392,Japan,JPN,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,2,,,,1,,31,,,4
+H2,2013,2013,2013,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,345,,,,74,,3257,,,4
+H2,2013,2013,2013,6,1,1,Import,296,Kiribati,KIR,757,Switzerland,CHE,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,38,,,,1,,58,,,4
+H2,2013,2013,2013,6,1,1,Import,296,Kiribati,KIR,842,USA,USA,,,,,,,,900490,"Spectacles, goggles and the like, corrective, protective/oth. (excl. sungla ...",5,Number of items,33,,,,5,,229,,,4
+H2,2013,2013,2013,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,176,,,,176,,11858,,,6
+H2,2013,2013,2013,4,0,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,33,,,,33,,2225,,,6
+H2,2013,2013,2013,4,0,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,0,,,,0,,25,,,6
+H2,2013,2013,2013,4,0,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,59,,,,59,,3996,,,6
+H2,2013,2013,2013,4,0,1,Import,296,Kiribati,KIR,392,Japan,JPN,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,5,,,,5,,309,,,6
+H2,2013,2013,2013,4,0,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,59,,,,59,,3944,,,6
+H2,2013,2013,2013,4,0,1,Import,296,Kiribati,KIR,842,USA,USA,,,,,,,,9020,"Other breathing appliances and gas masks, excluding protective masks",8,Weight in kilograms,20,,,,20,,1360,,,6
+H2,2013,2013,2013,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,176,,,,176,,11858,,,6
+H2,2013,2013,2013,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,33,,,,33,,2225,,,6
+H2,2013,2013,2013,6,1,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,0,,,,0,,25,,,6
+H2,2013,2013,2013,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,59,,,,59,,3996,,,6
+H2,2013,2013,2013,6,1,1,Import,296,Kiribati,KIR,392,Japan,JPN,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,5,,,,5,,309,,,6
+H2,2013,2013,2013,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,59,,,,59,,3944,,,6
+H2,2013,2013,2013,6,1,1,Import,296,Kiribati,KIR,842,USA,USA,,,,,,,,902000,Breathing appls. (excl. of 90.19) & gas masks (excl. protective masks havin ...,8,Weight in kilograms,20,,,,20,,1360,,,6
+H2,2013,2013,2013,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",1,No Quantity,,,,,1,,317,,,4
+H2,2013,2013,2013,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,902780,"Instruments & app. for physical/chem. analysis, n.e.s. in 90.27",1,No Quantity,,,,,1,,317,,,4
+H1,2004,2004,2004,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,1,,,,1,,49,,,6
+H1,2004,2004,2004,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,1,,,,1,,49,,,6
+H1,2004,2004,2004,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,69,,,,69,,585,,,6
+H1,2004,2004,2004,6,1,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,69,,,,69,,585,,,6
+H1,2004,2004,2004,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,72,,,,58,,2115,,,6
+H1,2004,2004,2004,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,17,,,,20,,745,,,4
+H1,2004,2004,2004,6,1,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,3,,,,3,,99,,,6
+H1,2004,2004,2004,6,1,1,Import,296,Kiribati,KIR,490,"Other Asia, nes",,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,1,,,,1,,39,,,6
+H1,2004,2004,2004,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,50,,,,34,,1232,,,4
+H1,2004,2004,2004,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,58,,,,58,,2897,,,6
+H1,2004,2004,2004,4,0,1,Import,296,Kiribati,KIR,344,"China, Hong Kong SAR",HKG,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,48,,,,48,,2392,,,6
+H1,2004,2004,2004,4,0,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,10,,,,10,,505,,,6
+H1,2004,2004,2004,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,58,,,,58,,2897,,,6
+H1,2004,2004,2004,6,1,1,Import,296,Kiribati,KIR,344,"China, Hong Kong SAR",HKG,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,48,,,,48,,2392,,,6
+H1,2004,2004,2004,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,10,,,,10,,505,,,6
+H0,1995,1995,1995,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",1,No Quantity,0,,,,0,,150,,,0
+H0,1995,1995,1995,6,1,1,Import,296,Kiribati,KIR,899,"Areas, nes",,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",1,No Quantity,0,,,,0,,150,,,0
+H0,1995,1995,1995,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",1,No Quantity,0,,,,0,,993,,,0
+H0,1995,1995,1995,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,481850,"Clothing and accessories nes, of paper",1,No Quantity,0,,,,0,,993,,,0
+H0,1995,1995,1995,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",1,No Quantity,0,,,,0,,7154,,,0
+H0,1995,1995,1995,6,1,1,Import,296,Kiribati,KIR,490,"Other Asia, nes",,,,,,,,,900490,"Spectacles, goggles except sunglasses",1,No Quantity,0,,,,0,,4430,,,0
+H0,1995,1995,1995,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,900490,"Spectacles, goggles except sunglasses",1,No Quantity,0,,,,0,,1966,,,0
+H0,1995,1995,1995,6,1,1,Import,296,Kiribati,KIR,899,"Areas, nes",,,,,,,,,900490,"Spectacles, goggles except sunglasses",1,No Quantity,0,,,,0,,758,,,0
+H0,1995,1995,1995,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks,1,No Quantity,0,,,,0,,477,,,0
+H0,1995,1995,1995,4,0,1,Import,296,Kiribati,KIR,899,"Areas, nes",,,,,,,,,9020,Breathing appliances and gas masks,1,No Quantity,0,,,,0,,477,,,0
+H0,1995,1995,1995,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks,1,No Quantity,0,,,,0,,477,,,0
+H0,1995,1995,1995,6,1,1,Import,296,Kiribati,KIR,899,"Areas, nes",,,,,,,,,902000,Breathing appliances and gas masks,1,No Quantity,0,,,,0,,477,,,0
+H0,1996,1996,1996,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",1,No Quantity,0,,,,0,,8366,,,0
+H0,1996,1996,1996,6,1,1,Import,296,Kiribati,KIR,156,China,CHN,,,,,,,,481850,"Clothing and accessories nes, of paper",1,No Quantity,0,,,,0,,8125,,,0
+H0,1996,1996,1996,6,1,1,Import,296,Kiribati,KIR,899,"Areas, nes",,,,,,,,,481850,"Clothing and accessories nes, of paper",1,No Quantity,0,,,,0,,241,,,0
+H0,1996,1996,1996,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",1,No Quantity,0,,,,0,,10008,,,0
+H0,1996,1996,1996,6,1,1,Import,296,Kiribati,KIR,242,Fiji,FJI,,,,,,,,900490,"Spectacles, goggles except sunglasses",1,No Quantity,0,,,,0,,2000,,,0
+H0,1996,1996,1996,6,1,1,Import,296,Kiribati,KIR,490,"Other Asia, nes",,,,,,,,,900490,"Spectacles, goggles except sunglasses",1,No Quantity,0,,,,0,,6608,,,0
+H0,1996,1996,1996,6,1,1,Import,296,Kiribati,KIR,842,USA,USA,,,,,,,,900490,"Spectacles, goggles except sunglasses",1,No Quantity,0,,,,0,,1079,,,0
+H0,1996,1996,1996,6,1,1,Import,296,Kiribati,KIR,899,"Areas, nes",,,,,,,,,900490,"Spectacles, goggles except sunglasses",1,No Quantity,0,,,,0,,321,,,0
+H0,1996,1996,1996,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks,1,No Quantity,0,,,,0,,971,,,0
+H0,1996,1996,1996,4,0,1,Import,296,Kiribati,KIR,490,"Other Asia, nes",,,,,,,,,9020,Breathing appliances and gas masks,1,No Quantity,0,,,,0,,754,,,0
+H0,1996,1996,1996,4,0,1,Import,296,Kiribati,KIR,899,"Areas, nes",,,,,,,,,9020,Breathing appliances and gas masks,1,No Quantity,0,,,,0,,217,,,0
+H0,1996,1996,1996,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks,1,No Quantity,0,,,,0,,971,,,0
+H0,1996,1996,1996,6,1,1,Import,296,Kiribati,KIR,490,"Other Asia, nes",,,,,,,,,902000,Breathing appliances and gas masks,1,No Quantity,0,,,,0,,754,,,0
+H0,1996,1996,1996,6,1,1,Import,296,Kiribati,KIR,899,"Areas, nes",,,,,,,,,902000,Breathing appliances and gas masks,1,No Quantity,0,,,,0,,217,,,0
+H0,1997,1997,1997,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",1,No Quantity,0,,,,0,,895,,,0
+H0,1997,1997,1997,6,1,1,Import,296,Kiribati,KIR,842,USA,USA,,,,,,,,481850,"Clothing and accessories nes, of paper",1,No Quantity,0,,,,0,,716,,,0
+H0,1997,1997,1997,6,1,1,Import,296,Kiribati,KIR,899,"Areas, nes",,,,,,,,,481850,"Clothing and accessories nes, of paper",1,No Quantity,0,,,,0,,179,,,0
+H0,1997,1997,1997,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",1,No Quantity,0,,,,0,,7737,,,0
+H0,1997,1997,1997,6,1,1,Import,296,Kiribati,KIR,36,Australia,AUS,,,,,,,,900490,"Spectacles, goggles except sunglasses",1,No Quantity,0,,,,0,,4171,,,0
+H0,1997,1997,1997,6,1,1,Import,296,Kiribati,KIR,490,"Other Asia, nes",,,,,,,,,900490,"Spectacles, goggles except sunglasses",1,No Quantity,0,,,,0,,3229,,,0
+H0,1997,1997,1997,6,1,1,Import,296,Kiribati,KIR,899,"Areas, nes",,,,,,,,,900490,"Spectacles, goggles except sunglasses",1,No Quantity,0,,,,0,,337,,,0
+H0,1997,1997,1997,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks,1,No Quantity,0,,,,0,,1355,,,0
+H0,1997,1997,1997,4,0,1,Import,296,Kiribati,KIR,490,"Other Asia, nes",,,,,,,,,9020,Breathing appliances and gas masks,1,No Quantity,0,,,,0,,717,,,0
+H0,1997,1997,1997,4,0,1,Import,296,Kiribati,KIR,899,"Areas, nes",,,,,,,,,9020,Breathing appliances and gas masks,1,No Quantity,0,,,,0,,638,,,0
+H0,1997,1997,1997,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks,1,No Quantity,0,,,,0,,1355,,,0
+H0,1997,1997,1997,6,1,1,Import,296,Kiribati,KIR,490,"Other Asia, nes",,,,,,,,,902000,Breathing appliances and gas masks,1,No Quantity,0,,,,0,,717,,,0
+H0,1997,1997,1997,6,1,1,Import,296,Kiribati,KIR,899,"Areas, nes",,,,,,,,,902000,Breathing appliances and gas masks,1,No Quantity,0,,,,0,,638,,,0
+H0,1998,1998,1998,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",1,No Quantity,0,,,,0,,44,,,0
+H0,1998,1998,1998,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",1,No Quantity,0,,,,0,,572,,,0
+H0,1998,1998,1998,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks,1,No Quantity,0,,,,0,,158,,,0
+H0,1998,1998,1998,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks,1,No Quantity,0,,,,0,,158,,,0
+H0,1998,1998,1998,6,1,1,Import,296,Kiribati,KIR,899,"Areas, nes",,,,,,,,,481850,"Clothing and accessories nes, of paper",1,No Quantity,0,,,,0,,44,,,0
+H0,1998,1998,1998,6,1,1,Import,296,Kiribati,KIR,899,"Areas, nes",,,,,,,,,900490,"Spectacles, goggles except sunglasses",1,No Quantity,0,,,,0,,572,,,0
+H0,1998,1998,1998,4,0,1,Import,296,Kiribati,KIR,899,"Areas, nes",,,,,,,,,9020,Breathing appliances and gas masks,1,No Quantity,0,,,,0,,158,,,0
+H0,1998,1998,1998,6,1,1,Import,296,Kiribati,KIR,899,"Areas, nes",,,,,,,,,902000,Breathing appliances and gas masks,1,No Quantity,0,,,,0,,158,,,0
+H0,1999,1999,1999,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",1,No Quantity,0,,,,0,,30,,,0
+H0,1999,1999,1999,6,1,1,Import,296,Kiribati,KIR,899,"Areas, nes",,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",1,No Quantity,0,,,,0,,30,,,0
+H0,1999,1999,1999,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",1,No Quantity,0,,,,0,,16,,,0
+H0,1999,1999,1999,6,1,1,Import,296,Kiribati,KIR,899,"Areas, nes",,,,,,,,,481850,"Clothing and accessories nes, of paper",1,No Quantity,0,,,,0,,16,,,0
+H0,1999,1999,1999,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,5603,Nonwovens textiles except felt,1,No Quantity,0,,,,0,,482,,,0
+H0,1999,1999,1999,4,0,1,Import,296,Kiribati,KIR,899,"Areas, nes",,,,,,,,,5603,Nonwovens textiles except felt,1,No Quantity,0,,,,0,,482,,,0
+H0,1999,1999,1999,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,1,No Quantity,0,,,,0,,387,,,0
+H0,1999,1999,1999,6,1,1,Import,296,Kiribati,KIR,899,"Areas, nes",,,,,,,,,621010,Garments made up of textile felts and nonwoven fabric,1,No Quantity,0,,,,0,,387,,,0
+H0,1999,1999,1999,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",1,No Quantity,0,,,,0,,1806,,,0
+H0,1999,1999,1999,6,1,1,Import,296,Kiribati,KIR,554,New Zealand,NZL,,,,,,,,900490,"Spectacles, goggles except sunglasses",1,No Quantity,0,,,,0,,821,,,0
+H0,1999,1999,1999,6,1,1,Import,296,Kiribati,KIR,899,"Areas, nes",,,,,,,,,900490,"Spectacles, goggles except sunglasses",1,No Quantity,0,,,,0,,985,,,0
+H0,1999,1999,1999,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks,1,No Quantity,0,,,,0,,755,,,0
+H0,1999,1999,1999,4,0,1,Import,296,Kiribati,KIR,899,"Areas, nes",,,,,,,,,9020,Breathing appliances and gas masks,1,No Quantity,0,,,,0,,755,,,0
+H0,1999,1999,1999,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks,1,No Quantity,0,,,,0,,755,,,0
+H0,1999,1999,1999,6,1,1,Import,296,Kiribati,KIR,899,"Areas, nes",,,,,,,,,902000,Breathing appliances and gas masks,1,No Quantity,0,,,,0,,755,,,0

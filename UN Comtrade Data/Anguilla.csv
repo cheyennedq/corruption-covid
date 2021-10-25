@@ -1,0 +1,354 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,2000,2000,2000,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,280440,Oxygen,1,No Quantity,,,,,,,22490,,,0
+H0,2000,2000,2000,6,1,1,Import,660,Anguilla,AIA,28,Antigua and Barbuda,ATG,,,,,,,,280440,Oxygen,1,No Quantity,,,,,,,12884,,,0
+H0,2000,2000,2000,6,1,1,Import,660,Anguilla,AIA,251,France,FRA,,,,,,,,280440,Oxygen,1,No Quantity,,,,,,,74,,,0
+H0,2000,2000,2000,6,1,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,280440,Oxygen,1,No Quantity,,,,,,,3752,,,0
+H0,2000,2000,2000,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,280440,Oxygen,1,No Quantity,,,,,,,5779,,,0
+H0,2000,2000,2000,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,57,,,,57,,10604,,,6
+H0,2000,2000,2000,6,1,1,Import,660,Anguilla,AIA,28,Antigua and Barbuda,ATG,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,1,,,,1,,239,,,6
+H0,2000,2000,2000,6,1,1,Import,660,Anguilla,AIA,52,Barbados,BRB,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,1,,,,1,,115,,,6
+H0,2000,2000,2000,6,1,1,Import,660,Anguilla,AIA,56,Belgium,BEL,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,11,,,,11,,2018,,,6
+H0,2000,2000,2000,6,1,1,Import,660,Anguilla,AIA,124,Canada,CAN,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,0,,,,0,,8,,,6
+H0,2000,2000,2000,6,1,1,Import,660,Anguilla,AIA,251,France,FRA,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,5,,,,5,,843,,,6
+H0,2000,2000,2000,6,1,1,Import,660,Anguilla,AIA,348,Hungary,HUN,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,1,,,,1,,237,,,6
+H0,2000,2000,2000,6,1,1,Import,660,Anguilla,AIA,410,Rep. of Korea,KOR,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,10,,,,10,,1827,,,6
+H0,2000,2000,2000,6,1,1,Import,660,Anguilla,AIA,528,Netherlands,NLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,6,,,,6,,1091,,,6
+H0,2000,2000,2000,6,1,1,Import,660,Anguilla,AIA,699,India,IND,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,2,,,,2,,354,,,6
+H0,2000,2000,2000,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,21,,,,21,,3873,,,6
+H0,2000,2000,2000,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,382100,Prepared culture media for developing micro-organisms,8,Weight in kilograms,231,,,,231,,5720,,,6
+H0,2000,2000,2000,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,382100,Prepared culture media for developing micro-organisms,8,Weight in kilograms,231,,,,231,,5720,,,6
+H0,2000,2000,2000,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,432,,,,432,,27870,,,6
+H0,2000,2000,2000,6,1,1,Import,660,Anguilla,AIA,52,Barbados,BRB,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,4,,,,4,,270,,,6
+H0,2000,2000,2000,6,1,1,Import,660,Anguilla,AIA,124,Canada,CAN,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,2,,,,2,,146,,,6
+H0,2000,2000,2000,6,1,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,3,,,,3,,193,,,6
+H0,2000,2000,2000,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,422,,,,422,,27262,,,6
+H0,2000,2000,2000,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,7155,,,,7155,,31401,,,6
+H0,2000,2000,2000,6,1,1,Import,660,Anguilla,AIA,124,Canada,CAN,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,3,,,,3,,14,,,6
+H0,2000,2000,2000,6,1,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,6,,,,6,,28,,,6
+H0,2000,2000,2000,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,7145,,,,7145,,31359,,,6
+H0,2000,2000,2000,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,264,,,,264,,1829,,,6
+H0,2000,2000,2000,6,1,1,Import,660,Anguilla,AIA,156,China,CHN,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,7,,,,7,,52,,,6
+H0,2000,2000,2000,6,1,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,11,,,,11,,78,,,6
+H0,2000,2000,2000,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,245,,,,245,,1699,,,6
+H0,2000,2000,2000,4,0,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,5603,Nonwovens textiles except felt,8,Weight in kilograms,79,,,,79,,334,,,6
+H0,2000,2000,2000,4,0,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,5603,Nonwovens textiles except felt,8,Weight in kilograms,79,,,,79,,334,,,6
+H0,2000,2000,2000,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",1,No Quantity,,,,,41,,1537,,,4
+H0,2000,2000,2000,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",1,No Quantity,,,,,41,,1537,,,4
+H0,2000,2000,2000,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,1279,,,,122,,3467,,,6
+H0,2000,2000,2000,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,1279,,,,122,,3467,,,6
+H0,2000,2000,2000,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,901920,Therapeutic respiration apparatus,8,Weight in kilograms,49,,,,49,,2949,,,6
+H0,2000,2000,2000,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,901920,Therapeutic respiration apparatus,8,Weight in kilograms,49,,,,49,,2949,,,6
+H0,2000,2000,2000,4,0,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,145,,,,145,,5878,,,6
+H0,2000,2000,2000,4,0,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,145,,,,145,,5878,,,6
+H0,2000,2000,2000,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,145,,,,145,,5878,,,6
+H0,2000,2000,2000,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,145,,,,145,,5878,,,6
+H0,2000,2000,2000,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",5,Number of items,5,,,,51,,7372,,,6
+H0,2000,2000,2000,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",5,Number of items,5,,,,51,,7372,,,6
+H0,2001,2001,2001,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,280440,Oxygen,1,No Quantity,,,,,,,21698,,,0
+H0,2001,2001,2001,6,1,1,Import,660,Anguilla,AIA,28,Antigua and Barbuda,ATG,,,,,,,,280440,Oxygen,1,No Quantity,,,,,,,12416,,,0
+H0,2001,2001,2001,6,1,1,Import,660,Anguilla,AIA,251,France,FRA,,,,,,,,280440,Oxygen,1,No Quantity,,,,,,,26,,,0
+H0,2001,2001,2001,6,1,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,280440,Oxygen,1,No Quantity,,,,,,,326,,,0
+H0,2001,2001,2001,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,280440,Oxygen,1,No Quantity,,,,,,,8929,,,0
+H0,2001,2001,2001,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,39,,,,39,,7431,,,6
+H0,2001,2001,2001,6,1,1,Import,660,Anguilla,AIA,56,Belgium,BEL,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,12,,,,12,,2230,,,6
+H0,2001,2001,2001,6,1,1,Import,660,Anguilla,AIA,251,France,FRA,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,5,,,,5,,881,,,6
+H0,2001,2001,2001,6,1,1,Import,660,Anguilla,AIA,381,Italy,ITA,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,5,,,,5,,940,,,6
+H0,2001,2001,2001,6,1,1,Import,660,Anguilla,AIA,392,Japan,JPN,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,1,,,,1,,111,,,6
+H0,2001,2001,2001,6,1,1,Import,660,Anguilla,AIA,410,Rep. of Korea,KOR,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,12,,,,12,,2399,,,6
+H0,2001,2001,2001,6,1,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,1,,,,1,,141,,,6
+H0,2001,2001,2001,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,4,,,,4,,729,,,6
+H0,2001,2001,2001,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,643,,,,643,,44596,,,6
+H0,2001,2001,2001,6,1,1,Import,660,Anguilla,AIA,52,Barbados,BRB,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,37,,,,37,,2555,,,6
+H0,2001,2001,2001,6,1,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,1,,,,1,,42,,,6
+H0,2001,2001,2001,6,1,1,Import,660,Anguilla,AIA,826,United Kingdom,GBR,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,7,,,,7,,479,,,6
+H0,2001,2001,2001,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,599,,,,599,,41520,,,6
+H0,2001,2001,2001,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,4646,,,,4646,,18370,,,6
+H0,2001,2001,2001,6,1,1,Import,660,Anguilla,AIA,124,Canada,CAN,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,9,,,,9,,36,,,6
+H0,2001,2001,2001,6,1,1,Import,660,Anguilla,AIA,780,Trinidad and Tobago,TTO,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,3095,,,,3095,,12237,,,6
+H0,2001,2001,2001,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,1542,,,,1542,,6097,,,6
+H0,2001,2001,2001,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,48,,,,48,,346,,,6
+H0,2001,2001,2001,6,1,1,Import,660,Anguilla,AIA,156,China,CHN,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,2,,,,2,,12,,,6
+H0,2001,2001,2001,6,1,1,Import,660,Anguilla,AIA,780,Trinidad and Tobago,TTO,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,19,,,,19,,133,,,6
+H0,2001,2001,2001,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,28,,,,28,,201,,,6
+H0,2001,2001,2001,4,0,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,5603,Nonwovens textiles except felt,8,Weight in kilograms,40,,,,40,,86,,,6
+H0,2001,2001,2001,4,0,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,5603,Nonwovens textiles except felt,8,Weight in kilograms,40,,,,40,,86,,,6
+H0,2001,2001,2001,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",1,No Quantity,,,,,260,,9643,,,4
+H0,2001,2001,2001,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",1,No Quantity,,,,,260,,9643,,,4
+H0,2001,2001,2001,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,1867,,,,200,,5691,,,6
+H0,2001,2001,2001,6,1,2,Export,660,Anguilla,AIA,0,World,WLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,52,,,,2,,108,,,6
+H0,2001,2001,2001,6,1,2,Export,660,Anguilla,AIA,500,Montserrat,MSR,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,10,,,,0,,21,,,6
+H0,2001,2001,2001,6,1,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,93,,,,10,,283,,,6
+H0,2001,2001,2001,6,1,2,Export,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,42,,,,2,,87,,,6
+H0,2001,2001,2001,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,1774,,,,190,,5408,,,6
+H0,2001,2001,2001,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,901920,Therapeutic respiration apparatus,8,Weight in kilograms,177,,,,177,,10747,,,6
+H0,2001,2001,2001,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,901920,Therapeutic respiration apparatus,8,Weight in kilograms,177,,,,177,,10747,,,6
+H0,2001,2001,2001,4,0,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,492,,,,492,,18758,,,6
+H0,2001,2001,2001,4,0,2,Export,660,Anguilla,AIA,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,1,,,,1,,53,,,6
+H0,2001,2001,2001,4,0,2,Export,660,Anguilla,AIA,500,Montserrat,MSR,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,1,,,,1,,53,,,6
+H0,2001,2001,2001,4,0,1,Import,660,Anguilla,AIA,826,United Kingdom,GBR,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,298,,,,298,,11357,,,6
+H0,2001,2001,2001,4,0,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,194,,,,194,,7401,,,6
+H0,2001,2001,2001,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,492,,,,492,,18758,,,6
+H0,2001,2001,2001,6,1,2,Export,660,Anguilla,AIA,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,1,,,,1,,53,,,6
+H0,2001,2001,2001,6,1,2,Export,660,Anguilla,AIA,500,Montserrat,MSR,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,1,,,,1,,53,,,6
+H0,2001,2001,2001,6,1,1,Import,660,Anguilla,AIA,826,United Kingdom,GBR,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,298,,,,298,,11357,,,6
+H0,2001,2001,2001,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,194,,,,194,,7401,,,6
+H0,2001,2001,2001,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",5,Number of items,1,,,,5,,750,,,6
+H0,2001,2001,2001,6,1,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",5,Number of items,0,,,,0,,23,,,6
+H0,2001,2001,2001,6,1,1,Import,660,Anguilla,AIA,780,Trinidad and Tobago,TTO,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",5,Number of items,1,,,,4,,594,,,6
+H0,2001,2001,2001,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",5,Number of items,0,,,,1,,132,,,6
+H0,2002,2002,2002,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,280440,Oxygen,1,No Quantity,,,,,,,27246,,,0
+H0,2002,2002,2002,6,1,1,Import,660,Anguilla,AIA,28,Antigua and Barbuda,ATG,,,,,,,,280440,Oxygen,1,No Quantity,,,,,,,10990,,,0
+H0,2002,2002,2002,6,1,1,Import,660,Anguilla,AIA,251,France,FRA,,,,,,,,280440,Oxygen,1,No Quantity,,,,,,,560,,,0
+H0,2002,2002,2002,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,280440,Oxygen,1,No Quantity,,,,,,,15696,,,0
+H0,2002,2002,2002,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,39,,,,39,,9394,,,6
+H0,2002,2002,2002,6,1,1,Import,660,Anguilla,AIA,52,Barbados,BRB,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,1,,,,1,,259,,,6
+H0,2002,2002,2002,6,1,1,Import,660,Anguilla,AIA,56,Belgium,BEL,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,15,,,,15,,3466,,,6
+H0,2002,2002,2002,6,1,1,Import,660,Anguilla,AIA,124,Canada,CAN,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,1,,,,1,,247,,,6
+H0,2002,2002,2002,6,1,1,Import,660,Anguilla,AIA,251,France,FRA,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,14,,,,14,,3282,,,6
+H0,2002,2002,2002,6,1,1,Import,660,Anguilla,AIA,410,Rep. of Korea,KOR,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,6,,,,6,,1505,,,6
+H0,2002,2002,2002,6,1,1,Import,660,Anguilla,AIA,699,India,IND,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,3,,,,3,,634,,,6
+H0,2002,2002,2002,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,292,,,,292,,19637,,,6
+H0,2002,2002,2002,6,1,1,Import,660,Anguilla,AIA,52,Barbados,BRB,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,4,,,,4,,268,,,6
+H0,2002,2002,2002,6,1,1,Import,660,Anguilla,AIA,826,United Kingdom,GBR,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,1,,,,1,,64,,,6
+H0,2002,2002,2002,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,287,,,,287,,19306,,,6
+H0,2002,2002,2002,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,892,,,,892,,3567,,,6
+H0,2002,2002,2002,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,892,,,,892,,3567,,,6
+H0,2002,2002,2002,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,114,,,,114,,765,,,6
+H0,2002,2002,2002,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,114,,,,114,,765,,,6
+H0,2002,2002,2002,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",1,No Quantity,,,,,3,,137,,,4
+H0,2002,2002,2002,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",1,No Quantity,,,,,3,,137,,,4
+H0,2002,2002,2002,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,5206,,,,521,,15777,,,6
+H0,2002,2002,2002,6,1,2,Export,660,Anguilla,AIA,0,World,WLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,384,,,,21,,963,,,6
+H0,2002,2002,2002,6,1,1,Import,660,Anguilla,AIA,251,France,FRA,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,3515,,,,352,,10651,,,6
+H0,2002,2002,2002,6,1,1,Import,660,Anguilla,AIA,392,Japan,JPN,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,5,,,,1,,16,,,6
+H0,2002,2002,2002,6,1,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,167,,,,17,,507,,,6
+H0,2002,2002,2002,6,1,2,Export,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,351,,,,19,,879,,,6
+H0,2002,2002,2002,6,1,1,Import,660,Anguilla,AIA,780,Trinidad and Tobago,TTO,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,55,,,,6,,168,,,6
+H0,2002,2002,2002,6,1,2,Export,660,Anguilla,AIA,780,Trinidad and Tobago,TTO,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,34,,,,2,,84,,,6
+H0,2002,2002,2002,6,1,1,Import,660,Anguilla,AIA,826,United Kingdom,GBR,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,163,,,,16,,495,,,6
+H0,2002,2002,2002,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,1300,,,,130,,3940,,,6
+H0,2002,2002,2002,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,901920,Therapeutic respiration apparatus,8,Weight in kilograms,23,,,,23,,1419,,,6
+H0,2002,2002,2002,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,901920,Therapeutic respiration apparatus,8,Weight in kilograms,23,,,,23,,1419,,,6
+H0,2002,2002,2002,4,0,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,94,,,,94,,3806,,,6
+H0,2002,2002,2002,4,0,1,Import,660,Anguilla,AIA,826,United Kingdom,GBR,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,2,,,,2,,90,,,6
+H0,2002,2002,2002,4,0,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,92,,,,92,,3716,,,6
+H0,2002,2002,2002,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,94,,,,94,,3806,,,6
+H0,2002,2002,2002,6,1,1,Import,660,Anguilla,AIA,826,United Kingdom,GBR,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,2,,,,2,,90,,,6
+H0,2002,2002,2002,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,92,,,,92,,3716,,,6
+H0,2002,2002,2002,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",5,Number of items,59,,,,375,,57442,,,6
+H0,2002,2002,2002,6,1,1,Import,660,Anguilla,AIA,826,United Kingdom,GBR,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",5,Number of items,0,,,,0,,37,,,6
+H0,2002,2002,2002,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",5,Number of items,59,,,,375,,57405,,,6
+H0,2003,2003,2003,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,280440,Oxygen,1,No Quantity,,,,,112354,,24141,,,4
+H0,2003,2003,2003,6,1,1,Import,660,Anguilla,AIA,28,Antigua and Barbuda,ATG,,,,,,,,280440,Oxygen,1,No Quantity,,,,,47140,,10129,,,4
+H0,2003,2003,2003,6,1,1,Import,660,Anguilla,AIA,251,France,FRA,,,,,,,,280440,Oxygen,1,No Quantity,,,,,5666,,1217,,,4
+H0,2003,2003,2003,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,280440,Oxygen,1,No Quantity,,,,,59549,,12795,,,4
+H0,2003,2003,2003,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,36,,,,36,,8369,,,6
+H0,2003,2003,2003,6,1,1,Import,660,Anguilla,AIA,52,Barbados,BRB,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,2,,,,2,,492,,,6
+H0,2003,2003,2003,6,1,1,Import,660,Anguilla,AIA,56,Belgium,BEL,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,17,,,,17,,3994,,,6
+H0,2003,2003,2003,6,1,1,Import,660,Anguilla,AIA,251,France,FRA,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,12,,,,12,,2873,,,6
+H0,2003,2003,2003,6,1,1,Import,660,Anguilla,AIA,410,Rep. of Korea,KOR,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,2,,,,2,,363,,,6
+H0,2003,2003,2003,6,1,1,Import,660,Anguilla,AIA,788,Tunisia,TUN,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,3,,,,3,,647,,,6
+H0,2003,2003,2003,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,382100,Prepared culture media for developing micro-organisms,8,Weight in kilograms,8,,,,8,,255,,,6
+H0,2003,2003,2003,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,382100,Prepared culture media for developing micro-organisms,8,Weight in kilograms,8,,,,8,,255,,,6
+H0,2003,2003,2003,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,276,,,,276,,19595,,,6
+H0,2003,2003,2003,6,1,1,Import,660,Anguilla,AIA,52,Barbados,BRB,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,10,,,,10,,710,,,6
+H0,2003,2003,2003,6,1,1,Import,660,Anguilla,AIA,124,Canada,CAN,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,2,,,,2,,113,,,6
+H0,2003,2003,2003,6,1,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,1,,,,1,,87,,,6
+H0,2003,2003,2003,6,1,1,Import,660,Anguilla,AIA,826,United Kingdom,GBR,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,1,,,,1,,40,,,6
+H0,2003,2003,2003,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,262,,,,262,,18646,,,6
+H0,2003,2003,2003,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,4195,,,,4195,,17551,,,6
+H0,2003,2003,2003,6,1,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,9,,,,9,,39,,,6
+H0,2003,2003,2003,6,1,1,Import,660,Anguilla,AIA,780,Trinidad and Tobago,TTO,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,631,,,,631,,2641,,,6
+H0,2003,2003,2003,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,3554,,,,3554,,14872,,,6
+H0,2003,2003,2003,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,102,,,,102,,781,,,6
+H0,2003,2003,2003,6,1,1,Import,660,Anguilla,AIA,156,China,CHN,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,3,,,,3,,25,,,6
+H0,2003,2003,2003,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,99,,,,99,,756,,,6
+H0,2003,2003,2003,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",5,Number of items,0,,,,16,,770,,,6
+H0,2003,2003,2003,6,1,1,Import,660,Anguilla,AIA,780,Trinidad and Tobago,TTO,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",5,Number of items,0,,,,15,,723,,,6
+H0,2003,2003,2003,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",5,Number of items,0,,,,1,,47,,,6
+H0,2003,2003,2003,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,1687,,,,175,,5891,,,6
+H0,2003,2003,2003,6,1,1,Import,660,Anguilla,AIA,251,France,FRA,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,54,,,,6,,190,,,6
+H0,2003,2003,2003,6,1,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,129,,,,13,,452,,,6
+H0,2003,2003,2003,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,1503,,,,156,,5250,,,6
+H0,2003,2003,2003,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,901920,Therapeutic respiration apparatus,8,Weight in kilograms,23,,,,23,,1465,,,6
+H0,2003,2003,2003,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,901920,Therapeutic respiration apparatus,8,Weight in kilograms,23,,,,23,,1465,,,6
+H0,2003,2003,2003,4,0,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,135,,,,135,,6434,,,6
+H0,2003,2003,2003,4,0,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,135,,,,135,,6434,,,6
+H0,2003,2003,2003,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,135,,,,135,,6434,,,6
+H0,2003,2003,2003,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,135,,,,135,,6434,,,6
+H0,2003,2003,2003,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",5,Number of items,7,,,,36,,6058,,,6
+H0,2003,2003,2003,6,1,1,Import,660,Anguilla,AIA,28,Antigua and Barbuda,ATG,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",5,Number of items,5,,,,24,,4068,,,6
+H0,2003,2003,2003,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",5,Number of items,2,,,,12,,1990,,,6
+H0,2004,2004,2004,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,280440,Oxygen,1,No Quantity,,,,,97738,,18801,,,4
+H0,2004,2004,2004,6,1,1,Import,660,Anguilla,AIA,28,Antigua and Barbuda,ATG,,,,,,,,280440,Oxygen,1,No Quantity,,,,,23364,,4494,,,4
+H0,2004,2004,2004,6,1,1,Import,660,Anguilla,AIA,251,France,FRA,,,,,,,,280440,Oxygen,1,No Quantity,,,,,210,,40,,,4
+H0,2004,2004,2004,6,1,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,280440,Oxygen,1,No Quantity,,,,,235,,45,,,4
+H0,2004,2004,2004,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,280440,Oxygen,1,No Quantity,,,,,73929,,14221,,,4
+H0,2004,2004,2004,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,25,,,,25,,7143,,,6
+H0,2004,2004,2004,6,1,1,Import,660,Anguilla,AIA,52,Barbados,BRB,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,3,,,,3,,859,,,6
+H0,2004,2004,2004,6,1,1,Import,660,Anguilla,AIA,76,Brazil,BRA,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,12,,,,12,,3319,,,6
+H0,2004,2004,2004,6,1,1,Import,660,Anguilla,AIA,410,Rep. of Korea,KOR,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,3,,,,3,,772,,,6
+H0,2004,2004,2004,6,1,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,0,,,,0,,88,,,6
+H0,2004,2004,2004,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,7,,,,7,,2105,,,6
+H0,2004,2004,2004,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,382100,Prepared culture media for developing micro-organisms,8,Weight in kilograms,7,,,,7,,242,,,6
+H0,2004,2004,2004,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,382100,Prepared culture media for developing micro-organisms,8,Weight in kilograms,7,,,,7,,242,,,6
+H0,2004,2004,2004,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,196,,,,196,,15931,,,6
+H0,2004,2004,2004,6,1,1,Import,660,Anguilla,AIA,124,Canada,CAN,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,1,,,,1,,104,,,6
+H0,2004,2004,2004,6,1,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,1,,,,1,,93,,,6
+H0,2004,2004,2004,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,193,,,,193,,15733,,,6
+H0,2004,2004,2004,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,3851,,,,3851,,17307,,,6
+H0,2004,2004,2004,6,1,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,21,,,,21,,96,,,6
+H0,2004,2004,2004,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,3830,,,,3830,,17211,,,6
+H0,2004,2004,2004,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,77,,,,77,,650,,,6
+H0,2004,2004,2004,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,77,,,,77,,650,,,6
+H0,2004,2004,2004,6,1,2,Export,660,Anguilla,AIA,0,World,WLD,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",5,Number of items,0,,,,9,,445,,,6
+H0,2004,2004,2004,6,1,2,Export,660,Anguilla,AIA,842,USA,USA,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",5,Number of items,0,,,,9,,445,,,6
+H0,2004,2004,2004,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,3737,,,,341,,12406,,,6
+H0,2004,2004,2004,6,1,2,Export,660,Anguilla,AIA,0,World,WLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,1487,,,,60,,3869,,,6
+H0,2004,2004,2004,6,1,1,Import,660,Anguilla,AIA,251,France,FRA,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,85,,,,8,,284,,,6
+H0,2004,2004,2004,6,1,2,Export,660,Anguilla,AIA,251,France,FRA,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,1487,,,,60,,3869,,,6
+H0,2004,2004,2004,6,1,1,Import,660,Anguilla,AIA,490,"Other Asia, nes",,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,163,,,,15,,541,,,6
+H0,2004,2004,2004,6,1,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,23,,,,2,,76,,,6
+H0,2004,2004,2004,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,3466,,,,316,,11504,,,6
+H0,2004,2004,2004,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,901920,Therapeutic respiration apparatus,8,Weight in kilograms,27,,,,27,,1820,,,6
+H0,2004,2004,2004,6,1,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,901920,Therapeutic respiration apparatus,8,Weight in kilograms,15,,,,15,,1007,,,6
+H0,2004,2004,2004,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,901920,Therapeutic respiration apparatus,8,Weight in kilograms,12,,,,12,,813,,,6
+H0,2004,2004,2004,4,0,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,286,,,,286,,14298,,,6
+H0,2004,2004,2004,4,0,1,Import,660,Anguilla,AIA,484,Mexico,MEX,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,8,,,,8,,380,,,6
+H0,2004,2004,2004,4,0,1,Import,660,Anguilla,AIA,490,"Other Asia, nes",,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,11,,,,11,,530,,,6
+H0,2004,2004,2004,4,0,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,1,,,,1,,62,,,6
+H0,2004,2004,2004,4,0,1,Import,660,Anguilla,AIA,826,United Kingdom,GBR,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,91,,,,91,,4538,,,6
+H0,2004,2004,2004,4,0,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,176,,,,176,,8787,,,6
+H0,2004,2004,2004,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,286,,,,286,,14298,,,6
+H0,2004,2004,2004,6,1,1,Import,660,Anguilla,AIA,484,Mexico,MEX,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,8,,,,8,,380,,,6
+H0,2004,2004,2004,6,1,1,Import,660,Anguilla,AIA,490,"Other Asia, nes",,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,11,,,,11,,530,,,6
+H0,2004,2004,2004,6,1,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,1,,,,1,,62,,,6
+H0,2004,2004,2004,6,1,1,Import,660,Anguilla,AIA,826,United Kingdom,GBR,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,91,,,,91,,4538,,,6
+H0,2004,2004,2004,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,176,,,,176,,8787,,,6
+H0,2004,2004,2004,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",5,Number of items,12,,,,60,,11127,,,6
+H0,2004,2004,2004,6,1,1,Import,660,Anguilla,AIA,388,Jamaica,JAM,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",5,Number of items,0,,,,0,,47,,,6
+H0,2004,2004,2004,6,1,1,Import,660,Anguilla,AIA,826,United Kingdom,GBR,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",5,Number of items,12,,,,58,,10806,,,6
+H0,2004,2004,2004,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",5,Number of items,0,,,,1,,274,,,6
+H0,2006,2006,2006,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,280440,Oxygen,1,No Quantity,,,,,46161,,29313,,,0
+H0,2006,2006,2006,6,1,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,280440,Oxygen,1,No Quantity,,,,,27,,47,,,0
+H0,2006,2006,2006,6,1,1,Import,660,Anguilla,AIA,796,Turks and Caicos Isds,TCA,,,,,,,,280440,Oxygen,1,No Quantity,,,,,1786,,2224,,,0
+H0,2006,2006,2006,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,280440,Oxygen,1,No Quantity,,,,,44348,,27042,,,0
+H0,2006,2006,2006,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,7,,,,7,,504,,,0
+H0,2006,2006,2006,6,1,1,Import,660,Anguilla,AIA,52,Barbados,BRB,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,7,,,,7,,504,,,0
+H0,2006,2006,2006,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,18132,,,,18132,,18253,,,0
+H0,2006,2006,2006,6,1,1,Import,660,Anguilla,AIA,826,United Kingdom,GBR,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,11,,,,11,,954,,,0
+H0,2006,2006,2006,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,18121,,,,18121,,17299,,,0
+H0,2006,2006,2006,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,1742,,,,1742,,17001,,,0
+H0,2006,2006,2006,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,1742,,,,1742,,17001,,,0
+H0,2006,2006,2006,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,193,,,,193,,2296,,,0
+H0,2006,2006,2006,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,193,,,,193,,2296,,,0
+H0,2006,2006,2006,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",5,Number of items,2,,,,12,,6307,,,2
+H0,2006,2006,2006,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,841920,"Medical, surgical or laboratory sterilizers",5,Number of items,2,,,,12,,6307,,,2
+H0,2006,2006,2006,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,8286,,,,6848,,27504,,,2
+H0,2006,2006,2006,6,1,1,Import,660,Anguilla,AIA,490,"Other Asia, nes",,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,29,,,,15,,96,,,2
+H0,2006,2006,2006,6,1,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,7,,,,1,,22,,,2
+H0,2006,2006,2006,6,1,1,Import,660,Anguilla,AIA,826,United Kingdom,GBR,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,42,,,,6,,140,,,2
+H0,2006,2006,2006,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,900490,"Spectacles, goggles except sunglasses",5,Number of items,8208,,,,6826,,27246,,,2
+H0,2006,2006,2006,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,901920,Therapeutic respiration apparatus,8,Weight in kilograms,338,,,,338,,3846,,,0
+H0,2006,2006,2006,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,901920,Therapeutic respiration apparatus,8,Weight in kilograms,338,,,,338,,3846,,,0
+H0,2006,2006,2006,4,0,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,1167,,,,1167,,11310,,,0
+H0,2006,2006,2006,4,0,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,11,,,,11,,374,,,0
+H0,2006,2006,2006,4,0,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,1156,,,,1156,,10937,,,0
+H0,2006,2006,2006,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,1167,,,,1167,,11310,,,0
+H0,2006,2006,2006,6,1,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,11,,,,11,,374,,,0
+H0,2006,2006,2006,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,1156,,,,1156,,10937,,,0
+H0,2006,2006,2006,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",5,Number of items,9,,,,526,,8404,,,2
+H0,2006,2006,2006,6,1,1,Import,660,Anguilla,AIA,251,France,FRA,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",5,Number of items,0,,,,5,,15,,,2
+H0,2006,2006,2006,6,1,1,Import,660,Anguilla,AIA,826,United Kingdom,GBR,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",5,Number of items,0,,,,1,,82,,,2
+H0,2006,2006,2006,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",5,Number of items,9,,,,520,,8307,,,2
+H0,2007,2007,2007,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,280440,Oxygen,12,Volume in cubic meters,227895,,,,50713,,37063,,,2
+H0,2007,2007,2007,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,280440,Oxygen,12,Volume in cubic meters,227895,,,,50713,,37063,,,2
+H0,2007,2007,2007,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,143,,,,143,,6590,,,0
+H0,2007,2007,2007,6,1,1,Import,660,Anguilla,AIA,52,Barbados,BRB,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,139,,,,139,,2134,,,0
+H0,2007,2007,2007,6,1,1,Import,660,Anguilla,AIA,381,Italy,ITA,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,3,,,,3,,1240,,,0
+H0,2007,2007,2007,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,1,,,,1,,3215,,,0
+H0,2007,2007,2007,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,479,,,,479,,32998,,,0
+H0,2007,2007,2007,6,1,1,Import,660,Anguilla,AIA,52,Barbados,BRB,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,2,,,,2,,200,,,0
+H0,2007,2007,2007,6,1,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,14,,,,14,,226,,,0
+H0,2007,2007,2007,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,463,,,,463,,32571,,,0
+H0,2007,2007,2007,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,851,,,,851,,12373,,,0
+H0,2007,2007,2007,6,1,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,1,,,,1,,155,,,0
+H0,2007,2007,2007,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,850,,,,850,,12219,,,0
+H0,2007,2007,2007,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,32,,,,32,,616,,,0
+H0,2007,2007,2007,6,1,1,Import,660,Anguilla,AIA,826,United Kingdom,GBR,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,12,,,,12,,34,,,0
+H0,2007,2007,2007,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,20,,,,20,,583,,,0
+H0,2007,2007,2007,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",1,No Quantity,,,,,3405,,12916,,,0
+H0,2007,2007,2007,6,1,2,Export,660,Anguilla,AIA,0,World,WLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",1,No Quantity,,,,,7,,106,,,0
+H0,2007,2007,2007,6,1,1,Import,660,Anguilla,AIA,124,Canada,CAN,,,,,,,,900490,"Spectacles, goggles except sunglasses",1,No Quantity,,,,,9,,65,,,0
+H0,2007,2007,2007,6,1,1,Import,660,Anguilla,AIA,156,China,CHN,,,,,,,,900490,"Spectacles, goggles except sunglasses",1,No Quantity,,,,,10,,5,,,0
+H0,2007,2007,2007,6,1,1,Import,660,Anguilla,AIA,392,Japan,JPN,,,,,,,,900490,"Spectacles, goggles except sunglasses",1,No Quantity,,,,,310,,574,,,0
+H0,2007,2007,2007,6,1,1,Import,660,Anguilla,AIA,490,"Other Asia, nes",,,,,,,,,900490,"Spectacles, goggles except sunglasses",1,No Quantity,,,,,15,,245,,,0
+H0,2007,2007,2007,6,1,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,900490,"Spectacles, goggles except sunglasses",1,No Quantity,,,,,34,,575,,,0
+H0,2007,2007,2007,6,1,2,Export,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,900490,"Spectacles, goggles except sunglasses",1,No Quantity,,,,,7,,106,,,0
+H0,2007,2007,2007,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,900490,"Spectacles, goggles except sunglasses",1,No Quantity,,,,,3027,,11451,,,0
+H0,2007,2007,2007,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,901920,Therapeutic respiration apparatus,8,Weight in kilograms,780,,,,780,,1824,,,0
+H0,2007,2007,2007,6,1,1,Import,660,Anguilla,AIA,251,France,FRA,,,,,,,,901920,Therapeutic respiration apparatus,8,Weight in kilograms,6,,,,6,,338,,,0
+H0,2007,2007,2007,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,901920,Therapeutic respiration apparatus,8,Weight in kilograms,774,,,,774,,1486,,,0
+H0,2007,2007,2007,4,0,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,1069,,,,1069,,24491,,,0
+H0,2007,2007,2007,4,0,2,Export,660,Anguilla,AIA,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,1,,,,1,,15,,,0
+H0,2007,2007,2007,4,0,1,Import,660,Anguilla,AIA,52,Barbados,BRB,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,10,,,,10,,397,,,0
+H0,2007,2007,2007,4,0,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,1,,,,1,,67,,,0
+H0,2007,2007,2007,4,0,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,1058,,,,1058,,24027,,,0
+H0,2007,2007,2007,4,0,2,Export,660,Anguilla,AIA,842,USA,USA,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,1,,,,1,,15,,,0
+H0,2007,2007,2007,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,1069,,,,1069,,24491,,,0
+H0,2007,2007,2007,6,1,2,Export,660,Anguilla,AIA,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,1,,,,1,,15,,,0
+H0,2007,2007,2007,6,1,1,Import,660,Anguilla,AIA,52,Barbados,BRB,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,10,,,,10,,397,,,0
+H0,2007,2007,2007,6,1,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,1,,,,1,,67,,,0
+H0,2007,2007,2007,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,1058,,,,1058,,24027,,,0
+H0,2007,2007,2007,6,1,2,Export,660,Anguilla,AIA,842,USA,USA,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,1,,,,1,,15,,,0
+H0,2007,2007,2007,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",1,No Quantity,,,,,119,,13996,,,0
+H0,2007,2007,2007,6,1,1,Import,660,Anguilla,AIA,826,United Kingdom,GBR,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",1,No Quantity,,,,,28,,5317,,,0
+H0,2007,2007,2007,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",1,No Quantity,,,,,91,,8679,,,0
+H0,2008,2008,2008,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,280440,Oxygen,1,No Quantity,,,,,65897,,25586,,,0
+H0,2008,2008,2008,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,280440,Oxygen,1,No Quantity,,,,,65897,,25586,,,0
+H0,2008,2008,2008,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,71,,,,71,,3849,,,0
+H0,2008,2008,2008,6,1,1,Import,660,Anguilla,AIA,52,Barbados,BRB,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,17,,,,17,,1650,,,0
+H0,2008,2008,2008,6,1,1,Import,660,Anguilla,AIA,124,Canada,CAN,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,16,,,,16,,1085,,,0
+H0,2008,2008,2008,6,1,1,Import,660,Anguilla,AIA,381,Italy,ITA,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,21,,,,21,,857,,,0
+H0,2008,2008,2008,6,1,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,15,,,,15,,69,,,0
+H0,2008,2008,2008,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,300220,"Vaccines, human use",8,Weight in kilograms,2,,,,2,,188,,,0
+H0,2008,2008,2008,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,743,,,,743,,60820,,,0
+H0,2008,2008,2008,6,1,1,Import,660,Anguilla,AIA,52,Barbados,BRB,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,2,,,,2,,72,,,0
+H0,2008,2008,2008,6,1,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,18,,,,18,,299,,,0
+H0,2008,2008,2008,6,1,1,Import,660,Anguilla,AIA,826,United Kingdom,GBR,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,2,,,,2,,1135,,,0
+H0,2008,2008,2008,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,382200,"Composite diagnostic or laboratory reagents, nes",8,Weight in kilograms,721,,,,721,,59315,,,0
+H0,2008,2008,2008,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,845,,,,845,,6539,,,0
+H0,2008,2008,2008,6,1,1,Import,660,Anguilla,AIA,52,Barbados,BRB,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,18,,,,18,,235,,,0
+H0,2008,2008,2008,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,401511,Rubber surgical gloves,8,Weight in kilograms,827,,,,827,,6303,,,0
+H0,2008,2008,2008,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,89,,,,89,,1299,,,0
+H0,2008,2008,2008,6,1,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,16,,,,16,,184,,,0
+H0,2008,2008,2008,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,481850,"Clothing and accessories nes, of paper",8,Weight in kilograms,73,,,,73,,1114,,,0
+H0,2008,2008,2008,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,900490,"Spectacles, goggles except sunglasses",1,No Quantity,,,,,2641,,29879,,,0
+H0,2008,2008,2008,6,1,1,Import,660,Anguilla,AIA,381,Italy,ITA,,,,,,,,900490,"Spectacles, goggles except sunglasses",1,No Quantity,,,,,54,,53,,,0
+H0,2008,2008,2008,6,1,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,900490,"Spectacles, goggles except sunglasses",1,No Quantity,,,,,51,,1229,,,0
+H0,2008,2008,2008,6,1,1,Import,660,Anguilla,AIA,780,Trinidad and Tobago,TTO,,,,,,,,900490,"Spectacles, goggles except sunglasses",1,No Quantity,,,,,1,,15,,,0
+H0,2008,2008,2008,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,900490,"Spectacles, goggles except sunglasses",1,No Quantity,,,,,2535,,28582,,,0
+H0,2008,2008,2008,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,901920,Therapeutic respiration apparatus,8,Weight in kilograms,936,,,,936,,5996,,,0
+H0,2008,2008,2008,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,901920,Therapeutic respiration apparatus,8,Weight in kilograms,936,,,,936,,5996,,,0
+H0,2008,2008,2008,4,0,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,782,,,,782,,15932,,,0
+H0,2008,2008,2008,4,0,2,Export,660,Anguilla,AIA,0,World,WLD,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,16,,,,16,,237,,,0
+H0,2008,2008,2008,4,0,1,Import,660,Anguilla,AIA,52,Barbados,BRB,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,10,,,,10,,479,,,0
+H0,2008,2008,2008,4,0,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,27,,,,27,,210,,,0
+H0,2008,2008,2008,4,0,2,Export,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,4,,,,4,,136,,,0
+H0,2008,2008,2008,4,0,1,Import,660,Anguilla,AIA,591,Panama,PAN,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,38,,,,38,,361,,,0
+H0,2008,2008,2008,4,0,1,Import,660,Anguilla,AIA,780,Trinidad and Tobago,TTO,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,19,,,,19,,7906,,,0
+H0,2008,2008,2008,4,0,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,688,,,,688,,6975,,,0
+H0,2008,2008,2008,4,0,2,Export,660,Anguilla,AIA,842,USA,USA,,,,,,,,9020,Breathing appliances and gas masks,8,Weight in kilograms,12,,,,12,,101,,,0
+H0,2008,2008,2008,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,782,,,,782,,15932,,,0
+H0,2008,2008,2008,6,1,2,Export,660,Anguilla,AIA,0,World,WLD,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,16,,,,16,,237,,,0
+H0,2008,2008,2008,6,1,1,Import,660,Anguilla,AIA,52,Barbados,BRB,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,10,,,,10,,479,,,0
+H0,2008,2008,2008,6,1,1,Import,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,27,,,,27,,210,,,0
+H0,2008,2008,2008,6,1,2,Export,660,Anguilla,AIA,530,Neth. Antilles,ANT,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,4,,,,4,,136,,,0
+H0,2008,2008,2008,6,1,1,Import,660,Anguilla,AIA,591,Panama,PAN,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,38,,,,38,,361,,,0
+H0,2008,2008,2008,6,1,1,Import,660,Anguilla,AIA,780,Trinidad and Tobago,TTO,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,19,,,,19,,7906,,,0
+H0,2008,2008,2008,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,688,,,,688,,6975,,,0
+H0,2008,2008,2008,6,1,2,Export,660,Anguilla,AIA,842,USA,USA,,,,,,,,902000,Breathing appliances and gas masks,8,Weight in kilograms,12,,,,12,,101,,,0
+H0,2008,2008,2008,6,1,1,Import,660,Anguilla,AIA,0,World,WLD,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",1,No Quantity,,,,,216,,78736,,,0
+H0,2008,2008,2008,6,1,1,Import,660,Anguilla,AIA,251,France,FRA,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",1,No Quantity,,,,,88,,3626,,,0
+H0,2008,2008,2008,6,1,1,Import,660,Anguilla,AIA,752,Sweden,SWE,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",1,No Quantity,,,,,38,,5059,,,0
+H0,2008,2008,2008,6,1,1,Import,660,Anguilla,AIA,842,USA,USA,,,,,,,,902780,"Equipment for physical or chemical analysis, nes",1,No Quantity,,,,,90,,70051,,,0
