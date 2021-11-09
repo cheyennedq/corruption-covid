@@ -1,5 +1,12 @@
 import merge
 
+<<<<<<< HEAD
+import numpy
+
+import matplotlib.pyplot as plt
+
+=======
+>>>>>>> 716bda3c70f992fd4c57b6718482b0e2e6235673
 
 def calc_price(df, row_number, product_code, total_trade_dict):
     imp_exp_dict = {}
@@ -56,9 +63,52 @@ def total_trade(df, row_number):
 
 
 # create dictionary of country-price pairs for histogram
+<<<<<<< HEAD
+def price_histogram(cp_dict, product):
+    first_edge = 0
+    last_edge = 0
+    bins = 20
+    bin_edges = numpy.linspace(start=first_edge, stop=last_edge, num=bins+1, endpoint=True)
+    # import, export, difference histograms
+    # bin_counter = numpy.bincount(df, range=(0, df.max*()))
+    return
+
+
+def price_bar(cp_dict, product):
+    # bar graph
+    difference = []
+    exp = []
+    imp = []
+    plt.style.use('ggplot')
+    countries = list(cp_dict.keys())
+    for country in countries:
+        difference.append(cp_dict[country]['D'])
+        exp.append(cp_dict[country]['X'])
+        imp.append(cp_dict[country]['M'])
+    x_pos = [i for i, _ in enumerate(countries)]
+    plt.bar(x_pos, difference, color='green')
+    plt.xlabel("Country")
+    plt.ylabel("Difference between export & import value")
+    plt.title("Export/import price difference by country for " + str(product))
+
+    plt.xticks(x_pos, countries)
+
+    plt.savefig(str(product) + '_bar_graph.png', dpi=400)
+    plt.show()
+
+    # scatter plot
+    plt.scatter(difference, numpy.log10(imp))
+    plt.savefig(str(product) + '_scatter_imp.png', dpi=400)
+    plt.show()
+
+    plt.scatter(difference, numpy.log10(exp))
+    plt.savefig(str(product) + '_scatter_exp.png', dpi=400)
+    plt.show()
+=======
 
 
 def price_histogram(df, product):
+>>>>>>> 716bda3c70f992fd4c57b6718482b0e2e6235673
     return
 
 
@@ -77,3 +127,8 @@ if __name__ == "__main__":
         product_dict = calc_price(merged_df, rows, product, tt_product)
         print(product)
         print(product_dict)
+<<<<<<< HEAD
+        price_bar(product_dict, product)
+        print(product + "bar chart completed")
+=======
+>>>>>>> 716bda3c70f992fd4c57b6718482b0e2e6235673
