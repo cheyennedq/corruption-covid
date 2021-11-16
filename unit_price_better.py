@@ -1,3 +1,5 @@
+import math
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -14,8 +16,8 @@ def calc_price(product_code):
 
     # calculate price
     start_calcprice = time.time()
-    df['Price'] = df['Trade Value (US$)'] / df['Qty'].notnull()
-    print(df['Price'])
+    df['Price'] = df['Trade Value (US$)'] / df['Qty']
+    print(df)
     stop_calcprice = time.time()
     print("created price column " + str(stop_calcprice - start_calcprice))
 
@@ -30,8 +32,8 @@ def calc_price(product_code):
 
     # group data by imports or exports
     start_group = time.time()
-    imports = df[(df['Partner ISO'] == 'WLD') & (df['Year'] == 2020) & ((df['Trade Flow Code'] == 1) | (df['Trade Flow Code'] == 4))]
-    exports = df[(df['Partner ISO'] == 'WLD') & (df['Year'] == 2020) & ((df['Trade Flow Code'] == 2) | (df['Trade Flow Code'] == 3))]
+    imports = df[(df['Partner ISO'] == 'WLD') & (df['Year'] == 2020) & (df['Trade Flow Code'] == 1)]
+    exports = df[(df['Partner ISO'] == 'WLD') & (df['Year'] == 2020) & (df['Trade Flow Code'] == 2)]
     stop_group = time.time()
     print("grouped imports/exports " + str(stop_group - start_group))
     print(imports)
@@ -41,6 +43,8 @@ def calc_price(product_code):
     start_pc = time.time()
     product_imports = imports[df['Commodity Code'] == product_code]
     product_exports = exports[df['Commodity Code'] == product_code]
+    product_imports.reset_index(drop=True, inplace=True)
+    product_exports.reset_index(drop=True, inplace=True)
     stop_pc = time.time()
     print("grouped product_imports/exports " + str(stop_pc - start_pc))
     print(product_imports)
@@ -58,26 +62,21 @@ def calc_price(product_code):
     # assign total to product_exp/imports df
     start_assign = time.time()
     for pi in range(len(product_imports)):
-        product_imports['Total Import Value (USD$)'] = total_imp_value.loc[(total_imp_value['Reporter ISO'] == product_imports.iloc[pi, 10]), 'Trade Value (US$)'].values[0]
-
+        product_imports.loc[pi, 'Total Import Value (USD$)'] = total_imp_value.loc[total_imp_value['Reporter ISO'] == product_imports.iloc[pi, 10], 'Trade Value (US$)'].values[0]
     for pe in range(len(product_exports)):
-        product_exports['Total Export Value (USD$)'] = total_exp_value.loc[(total_exp_value['Reporter ISO'] == product_exports.iloc[pi, 10]), 'Trade Value (US$)'].values[0]
+        product_exports.loc[pe, 'Total Export Value (USD$)'] = total_exp_value.loc[total_exp_value['Reporter ISO'] == product_exports.iloc[pe, 10], 'Trade Value (US$)'].values[0]
     stop_assign = time.time()
     print("assigned total value of imports/exports " + str(stop_assign - start_assign))
     print(product_imports)
     print(product_exports)
 
-    # average price
-    # remove infinity & other things for price
+    # average price normalized
     average_imp_price = product_imports.groupby(['Reporter ISO'],
-                                                as_index=False).apply(lambda x: pd.Series({'Gap': (x['Price'] / x['Total Import Value (USD$)']).sum()}))
+                                                as_index=False).apply(lambda x: pd.Series({'Gap': (x['Price'] / x['Total Import Value (USD$)'])}))
     average_exp_price = product_exports.groupby(['Reporter ISO'],
-                                                as_index=False).apply(lambda x: pd.Series({'Gap': (x['Price'] / x['Total Export Value (USD$)']).sum()}))
+                                                as_index=False).apply(lambda x: pd.Series({'Gap': (x['Price'] / x['Total Export Value (USD$)'])}))
     print(average_imp_price)
     print(average_exp_price)
-    # print(average_gap_price)
-    # test2 = product_imports.groupby(['Reporter ISO'], as_index=False).apply(lambda x: (x['Price'] * (x['Trade Value (US$)'] / x['Total Import Value (USD$)'])).sum())
-    # test = product_imports['Price'] * (product_imports['Trade Value (US$)'] / product_imports['Total Import Value (USD$)']), ['Trade Value (US$)']])
 
     country_list = average_exp_price['Reporter ISO'].tolist()
     gap_list = []
@@ -87,12 +86,8 @@ def calc_price(product_code):
             gap_list.append(gap)
         else:
             country_list.remove(country)
+    print(gap_list)
     print("created lists")
-
-    # df_bar = pd.DataFrame({'Country': country_list, 'Export/Import Gap (USD$)': gap_list})
-    # ax = df_bar.plot.bar(x='Country', y='Export/Import Gap (USD$)', rot=0)
-    # ax.show()
-    # ax.figure.savefig(str(product_code) + 'Export/Import Average Price Gap by Country (USD$).png')
 
     x_pos = [i for i, _ in enumerate(country_list)]
     plt.bar(x_pos, gap_list, color='green')
@@ -100,7 +95,7 @@ def calc_price(product_code):
     plt.ylabel("Export/Import Gap (USD$)")
     plt.title(str(product_code) + 'Export/Import Average Price Gap by Country (USD$)')
 
-    plt.xticks(x_pos, country_list)
+    plt.xticks(x_pos, country_list, rotation='vertical')
 
     plt.savefig(str(product_code) + ' Export_Import Average Price Gap by Country (USD$)_bar_graph.png')
     plt.show()
@@ -112,4 +107,4 @@ if __name__ == "__main__":
     product_code_list = [900490, 841920, 5603, 300215, 382200, 382100, 902780, 220710, 220890, 380894, 280440, 901920,
                          300220, 392620, 401511, 621010, 481850, 9020, 90200]
     for pc in product_code_list:
-        calc_price(90200)
+        calc_price(382200)
